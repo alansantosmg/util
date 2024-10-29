@@ -3,6 +3,6 @@ tags:
   - tech/linux/python
 ---
 
-`sudo ap install python3-pip`
+`sudo apt install python3-pip`
 
 

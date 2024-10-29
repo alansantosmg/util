@@ -18,7 +18,7 @@ systemctl status sshd
 
 Caso não esteja instalado, instalar:
 
-```
+```bash
 sudo apt-get install openssh-server
 systemctl status sshd
 
@@ -28,7 +28,7 @@ systemctl status sshd
 
 ## Instalação De Requisitos
 
-```
+```bash
 sudo apt install mariadb-server
 sudo apt-get -y install apache2 libapache2-mod-php
 sudo apt-get -y install php php-{curl,gd,imagick,intl,apcu,memcache,imap,mysql,cas,ldap,tidy,pear,xmlrpc,pspell,mbstring,json,common,xml,gd}
@@ -37,7 +37,7 @@ sudo apt-get -y install php php-{curl,gd,imagick,intl,apcu,memcache,imap,mysql,c
 
 ## Parametrização Mysql
 
-```
+```bash
 sudo mysql_secure_installation
 
 ```
@@ -51,14 +51,14 @@ sudo mysql_secure_installation
 
 ### Privilégios De Root no Mysql
 
-```
+```bash
 sudo mysql -u root -p
 
 ```
 
 ### Script Para Permissão De Root no Mysql
 
-```
+```bash
 UPDATE mysql.user SET plugin = 'mysql_native_password' WHERE User = 'root';
 FLUSH PRIVILEGES;
 QUIT;
@@ -67,7 +67,7 @@ QUIT;
 
 ### Configurar Extensões Faltantes Do PHP
 
-```
+```bash
 sudo vim /etc/php/7.4/apache2/php.ini
 
 ```
@@ -85,7 +85,7 @@ Descomentar as extensões:
 
 ### Habilitar Extensões Novas no PHP
 
-```
+```bash
 sudo service apache2 restart
 
 ```
@@ -96,14 +96,14 @@ sudo service apache2 restart
 
 ### Criação De Base De Dados Do GLPI
 
-```
+```bash
 mysql -u root -p
 
 ```
 
 ### Script Para Criação De Base no GLPI
 
-```
+```sql
 CREATE DATABASE glpi;
 CREATE USER 'glpi'@'localhost' IDENTIFIED BY 'StrongDBPassword';
 GRANT ALL PRIVILEGES ON glpi.* TO 'glpi'@'localhost';
@@ -114,7 +114,7 @@ EXIT;
 
 ### Instalação Do Software GLPI
 
-```
+```bash
 cd ~
 export VER="9.4.6"
 wget https://github.com/glpi-project/glpi/releases/download/$VER/glpi-$VER.tgz
@@ -125,7 +125,7 @@ sudo mv glpi /var/www/html/
 
 ### Setar Permissoes Apache GLPI
 
-```
+```bash
 cd /var/www/html/glpi
 chmod 755 files -R
 sudo chown -R www-data files
@@ -151,7 +151,7 @@ Acessar via browser `10.0.0.212/gpli/install`
 
 ### Remover Arquivo De Instalação Do GLPI
 
-```
+```bash
 rm /var/www/html/glpi/install/install.php
 
 ```
@@ -207,7 +207,7 @@ pesquisar `filtros para usuários: (& (samaccountname=*) )`
 
 ### Instalação Do Fusion Inventory Plugin
 
-```
+```bash
 cd ~
 wget https://github.com/fusioninventory/fusioninventory-for-glpi/releases/download/glpi9.4%2B2.4/fusioninventory-9.4+2.4.tar.bz2
 tar -jxvf fusioninventory-9.4+2.4.tar.bz2
@@ -268,7 +268,7 @@ Deve ser usado se houver problemas ao importar usuários para GLPI.
 
 Abrir prompt de comando e executar:
 
-```
+```cmd
 ntdsutil
 LDAP policies
 connections

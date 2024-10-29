@@ -45,7 +45,7 @@ tags:
 
 ### Listando Repositórios Bare Conectados no Repo Local
 
-```
+```bash
 git remote           # lista repos remote
 git remote -v        # lista repos remote c/ path
 
@@ -101,7 +101,7 @@ git checkout --arquivo-alterado-a-adicionar    # tira da lista de alteradosgit c
 
 ## BRANCHES - Criar p/ Trabalhar Em Equipe (funcionalidades)
 
-```
+```bash
 git branch                    # lista branchs
 git branch titulo                 # Cria branch titulo
 git branch botao-adicionar            # Cria branch botao-adicionar
@@ -113,7 +113,7 @@ git branch remove lista               # remove branch lista
 
 ### Rebase E Merge De Branchs
 
-```
+```bash
 git rebase  ## refaz linha de commits depois do master
 git merge   ## junta commits no master (e faz novo commit)
 
@@ -121,7 +121,7 @@ git merge   ## junta commits no master (e faz novo commit)
 
 ### Fluxo De Trabalho - Estrategica p/ Evitar Conflitos
 
-```
+```bash
 git pull origin master      ## busca arquivos do master
 git checkout -b feature     ## cria branch de trabalho
 realiza alteraçoes          ## alteraçoes nos arquivos (com commits)
@@ -141,7 +141,7 @@ git push origin master      ## envia alterações para master do remoto
 
 ## Stash - Area De Armazenamento Temporário
 
-```
+```bash
 git stash           ## armazena modificacoes temporarias
 git stash list          ## lista modificações temporarias
 git stash apply 0       ## aplica a modificação zero
@@ -154,7 +154,7 @@ git tag -a v0.1.0 -m "msg"  ## adiciona uma tag com versão
 
 ## Rebase Para Commit Anteriores
 
-```
+```bash
 git rebase -i  HEAD~3
 git rebase -i selecionar commit anterior aos 3.
 
@@ -162,7 +162,7 @@ git rebase -i selecionar commit anterior aos 3.
 
 ## Git Log
 
-```
+```bash
 git log --oneline       ## hash7 / head/ description
 
 ```
