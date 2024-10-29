@@ -1,0 +1,1 @@
+Invoke-Command -Computername dsbimrj52 -Scriptblock {Get-Service}

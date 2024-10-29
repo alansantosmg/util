@@ -1,0 +1,61 @@
+{
+    "editor.linkedEditing": true,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Windows PowerShell": {
+            "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+        }
+       
+    },
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+    "powershell.cwd": "c:\\source\\dannemann.com.br\\ito-n3",
+    "powershell.integratedConsole.suppressStartupBanner": true,
+    "powershell.powerShellDefaultVersion": "Windows PowerShell (x64)",
+    "oneDarkPro.bold": true,
+    "git.openRepositoryInParentFolders": "always",
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "'Cascadia Code',Consolas, 'Courier New', monospace",
+    "terminal.integrated.fontFamily": "'Cascadia Mono'",
+    "git.autofetch": true,
+    "git.autorefresh": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "workbench.preferredDarkColorTheme": "Atom One Dark",
+     "window.commandCenter": false,
+    "git.postCommitCommand": "push",
+     "editor.minimap.scale": 2,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "powershell.suppressAdditionalExeNotFoundWarning": true,
+    "workbench.colorCustomizations": {
+        "[Atom One Dark]": {          
+            "terminal.background": "#202328",
+            "editor.background": "#202329"
+        }
+    },
+    "editor.tokenColorCustomizations":{
+        "comments": "#838383",
+    },
+    "a-file-icon-vscode.showWelcomeMessage": false,
+    "a-file-icon-vscode.arrowTheme": "none",
+    "workbench.iconTheme": "a-file-icon-vscode",
+    "workbench.startupEditor": "newUntitledFile",
+    "powershell.promptToUpdatePowerShell": false,
+    "powershell.scriptAnalysis.enable": false,
+    "workbench.preferredLightColorTheme": "Atom One Light",
+    "editor.rulers": [120]
+    
+}

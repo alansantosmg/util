@@ -1,0 +1,262 @@
+" .vimrc file 
+" Author: Alan Santos
+" Last Modified: 08-13-2024 23:49
+" References: 
+" https://www.freecodecamp.org/portuguese/news/guia-de-configuracao-do-vimrc-como-personalizar-o-editor-de-codigo-vim/
+"
+
+" Load vim defaults
+source $VIMRUNTIME/defaults.vim
+
+
+" Desabilita arquivo de swap
+set noswapfile
+
+" Desabilita compatibilidade com vi, pois pode causar problemas
+" Disable vi compatibility wich can cause issues
+set nocompatible
+
+
+
+
+" Carrega regras de tabulação para tipo de arquivo
+" Load indent file for the detected file type
+set autoindent
+set smartindent
+
+
+
+" Destaca linha horizontal onde está o cursor
+" Hightlight cursor line underneath the cursor horizontaly
+"set cursorline
+
+" Destaca coluna vertical onde está o cursor
+" Hightlight cursor column underneath the cursor verticaly
+"set cursorcolumn
+
+" Tabulação inteligente conforme tipo de arquivo
+set smarttab
+
+
+" Número de espaços percorridos (2) ao teclar backspace (voltar tabulação).
+" Por padrão, quando usando auto-indent usar 2 espaços (1 tabstop) usando shiftwidth e softtabstop.
+" Desabilitado ----- não funciona na versão atual
+"set backspace=4 
+
+
+" Desfazer até 1000 alterações
+" Guarda histórico dos 1000 últimos comandos
+set undolevels =1000
+set history=1000
+
+
+" Nao salva arquivos de backup
+" Do not save backup files
+set nobackup
+set nowritebackup
+
+
+" Desabilita alarme sonoro e habilita msg de erro na barra de status
+" set visualbell
+
+
+"**************************************************************************
+" PLUGINS
+"**************************************************************************
+
+"Plug 'NLKNguyen/papercolor-theme'
+"Plug 'joshdick/onedark.vim'
+"Plug 'morhetz/gruvbox'
+
+
+
+"**************************************************************************
+" COLORS CONFIG 
+"**************************************************************************
+
+" Utiliza cores se terminal suportar
+" if (has("termguicolors"))
+"	set termguicolors
+" endif
+
+" Seta tema padrão
+"colorscheme torte
+"colorscheme PaperColor
+colorscheme gruvbox
+"colorscheme gruvbox
+
+let g:gruvbox_contrast_dark = 'hard'
+
+
+
+" Alguns temas tem opção de fundo claro ou escuro
+" Utilize dark ou light se for o caso
+set background=dark
+"set background=light
+
+let g:airline_theme = 'gruvbox'
+
+if exists('python_highlight_all')
+    unlet python_highlight_all
+endif
+if exists('python_space_error_highlight')
+    unlet python_space_error_highlight
+endif
+
+let python_space_error_highlight = 0
+
+
+
+"*******************************************************************************
+" MAPEAMENTO 
+"*******************************************************************************
+
+
+
+" Mapeamento da tecla leader para criar novos atalhos
+" Map leader key to create new keyboard shortcuts
+"let mapleader = '"/'" 
+
+" Pressione \\ para voltar à última posição do cursor.
+nnoremap <leader>\ ``
+
+" Pressione \p para imprimir o arquivo atual na impressora padrão em sistemas Linux.
+" Veja as impressoras disponíveis: lpstat -v
+" Defina a impressora padrão: lpoptions -d <nome_da_impressora>
+" <silent> significa não exibir saída.
+nnoremap <silent> <leader>p :%w !lp<CR>
+
+" Digite jj para sair do modo inserção rapidamente.
+inoremap jj <Esc>
+
+" Pressione a barra de espaço para digitar o caractere : no modo de comando.
+nnoremap <space> :
+
+" Ao pressionar a letra o, uma nova linha será aberta abaixo da linha atual.
+" Sair do modo de inserção cria uma nova linha acima ou abaixo da linha atual.
+nnoremap o o<esc>
+nnoremap O O<esc>
+
+" Centralize verticalmente o cursor ao mover para a próxima palavra durante uma busca.
+
+" Yank do cursor até o final da linha.
+nnoremap Y y$
+
+" Mapeie a tecla F5 para executar um script Python dentro do Vim.
+" Aqui, mapeia a tecla F5 para uma sequência de comandos.
+" :w salva o arquivo.
+" <CR> (carriage return) é como pressionar a tecla Enter.
+" !clear executa o comando externo de limpeza da tela.
+" !python3 % executa o arquivo atual com Python.
+" Desativado -- Mapeado para tecla F9
+"nnoremap <f5> :w <CR>:!clear <CR>:!python3 % <CR>
+"inoremap <f5> <esc>:w <CR>:!clear <CR>:!python3 % <CR>
+
+
+" Pressione f9 para rodar script python no modo normal ou no modo insert
+" Press f9 to run python  on normal mode and insert mode 
+autocmd FileType python map <buffer> <F9> :w<CR>:exec '!python3' shellescape(@%, 1)<CR>
+autocmd FileType python imap <buffer> <F9> <esc>:w<CR>:exec '!python3' shellescape(@%, 1)<CR>
+
+" É possível dividir a janela no Vim digitando :split ou :vsplit.
+" Navegue nas visualizações divididas com mais facilidade pressionando CTRL+j, CTRL+k, CTRL+h, ou CTRL+l.
+" nnoremap <c-j> <c-w>j
+" nnoremap <c-k> <c-w>k
+" nnoremap <c-h> <c-w>h
+" nnoremap <c-l> <c-w>l
+
+" Redimensione as janelas divididas usando as setas do teclado pressionando:
+" CTRL+UP, CTRL+DOWN, CTRL+LEFT, ou CTRL+RIGHT.
+noremap <c-up> <c-w>+
+noremap <c-down> <c-w>-
+noremap <c-left> <c-w>>
+noremap <c-right> <c-w><
+
+
+"**************************************************************************
+" Mapeamentos específicos do NERDTree.
+"*************************************************************************
+
+" Faça o NERDTree ignorar certos arquivos e diretórios.
+" let NERDTreeIgnore=['\.git$', '\.jpg$', '\.mp4$', '\.ogg$', '\.iso$', '\.pdf$', '\.pyc$', '\.odt$', '\.png$', '\.gif$', '\.db$']
+
+
+
+
+
+"************************************************************************
+" VIMSCRIPT  
+"************************************************************************
+
+
+" Se a versão do Vim for igual ou superior a 7.3, habilitar o uso de undofile.
+" Isso permite desfazer alterações em um arquivo mesmo após salvá-lo.
+if version >= 703
+    set undodir=~/.vim/backup
+    set undofile
+    set undoreload=10000
+endif
+
+" É possível dividir uma janela em seções usando `:split` ou `:vsplit`.
+" Exibir a linha do cursor e a coluna do cursor APENAS na janela ativa.
+"augroup cursor_off
+    "autocmd!
+    "autocmd WinLeave * set nocursorline nocursorcolumn
+    "autocmd WinEnter * set cursorline cursorcolumn
+augroup END
+
+
+
+
+"*******************************************************************************
+" VIM GUI OPTIONS
+" ******************************************************************************
+
+if has('gui_running')
+
+    " Definir do plano de fundo.
+    set background=dark
+
+    " Definir o tom de fundo.
+""    colorscheme molokai
+
+    " Definir uma fonte personalizada instalada no seu computador.
+    " Sintaxe: set guifont=<nome_da_fonte>\ <peso_da_fonte>\ <tamanho>
+    set guifont=Monospace\ Regular\ 12
+
+    " Mostrar mais do arquivo por padrão.
+	" Ocultar a barra de ferramentas.
+    set guioptions-=T
+
+    " Ocultar a barra de rolagem do lado esquerdo.
+    set guioptions-=L
+
+    " Ocultar a barra de rolagem do lado direito.
+    set guioptions-=r
+
+    " Ocultar a barra de menu.
+    set guioptions-=m
+
+    " Ocultar a barra de rolagem inferior.
+    set guioptions-=b
+
+    " Mapear a tecla F4 para alternar a barra de menu, barra de 		ferramentas e barra de rolagem.
+	" <Bar> é o caractere da barra vertical.
+	" <CR> é a tecla Enter.
+    nnoremap <F8> :if &guioptions=~#'mTr'<Bar>
+        \set guioptions-=mTr<Bar>
+        \else<Bar>
+        \set guioptions+=mTr<Bar>
+        \endif<CR>
+
+endif
+
+
+
+
+
+
+
+
+
+

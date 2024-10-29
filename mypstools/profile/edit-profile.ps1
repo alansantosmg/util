@@ -1,0 +1,2 @@
+code $PROFILE
+# notepad $profile
