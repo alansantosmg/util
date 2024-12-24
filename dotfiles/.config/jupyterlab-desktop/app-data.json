@@ -1,0 +1,80 @@
+{
+  "pythonPath": "/home/alan/.config/jupyterlab-desktop/jlab_server/bin/python",
+  "condaPath": "/home/alan/.config/jupyterlab-desktop/jlab_server/bin/conda",
+  "systemPythonPath": "/usr/bin/python",
+  "sessions": [],
+  "recentSessions": [
+    {
+      "workingDirectory": "/home/alan/utfpr/disciplinas/02_python_prog/Bin",
+      "filesToOpen": [
+        "pandas1.ipynb"
+      ],
+      "date": "2024-10-27T14:38:52.925Z"
+    }
+  ],
+  "recentRemoteURLs": [],
+  "discoveredPythonEnvs": [
+    {
+      "name": "conda: jlab_server",
+      "path": "/home/alan/.config/jupyterlab-desktop/jlab_server/bin/python",
+      "type": "conda-root",
+      "versions": {
+        "python": "3.12.5",
+        "jupyterlab": "4.2.5"
+      }
+    }
+  ],
+  "userSetPythonEnvs": [
+    {
+      "name": "venv: venv01_utfpr",
+      "path": "/home/alan/utfpr/venv01_utfpr/bin/python",
+      "type": "venv",
+      "versions": {
+        "python": "3.12.3",
+        "jupyterlab": "4.2.5"
+      }
+    }
+  ],
+  "newsList": [
+    {
+      "title": "JupyterLite Terminal",
+      "link": "https%3A%2F%2Fblog.jupyter.org%2Fjupyterlite-terminal-edb3f80dc1c0%3Fsource%3Drss----95916e268740---4"
+    },
+    {
+      "title": "Automate your releases with the Jupyter Releaser ",
+      "link": "https%3A%2F%2Fblog.jupyter.org%2Fautomate-your-releases-with-the-jupyter-releaser-701e7b9841e6%3Fsource%3Drss----95916e268740---4"
+    },
+    {
+      "title": "Project Jupyter joins LF Charities",
+      "link": "https%3A%2F%2Fblog.jupyter.org%2Fproject-jupyter-joins-lf-charities-6daa30a46dab%3Fsource%3Drss----95916e268740---4"
+    },
+    {
+      "title": "November 2024 Jupyter Community Call",
+      "link": "https%3A%2F%2Fblog.jupyter.org%2Fnovember-2024-jupyter-community-call-f5d0761c67a1%3Fsource%3Drss----95916e268740---4"
+    },
+    {
+      "title": "Exploring a Document’s Timeline in JupyterLab",
+      "link": "https%3A%2F%2Fblog.jupyter.org%2Fexploring-a-documents-timeline-in-jupyterlab-6084f96db263%3Fsource%3Drss----95916e268740---4"
+    },
+    {
+      "title": "Interactive Mapping with ipyopenlayers",
+      "link": "https%3A%2F%2Fblog.jupyter.org%2Finteractive-mapping-with-ipyopenlayers-2b8bc93bb6c4%3Fsource%3Drss----95916e268740---4"
+    },
+    {
+      "title": "Announcing the 2023 Jupyter Distinguished Contributor Award Recipients",
+      "link": "https%3A%2F%2Fblog.jupyter.org%2Fannouncing-the-2023-jupyter-distinguished-contributor-award-recipients-1b2cc4ba203f%3Fsource%3Drss----95916e268740---4"
+    },
+    {
+      "title": "Community Building Report: Project Jupyter",
+      "link": "https%3A%2F%2Fblog.jupyter.org%2Fcommunity-building-report-project-jupyter-5a0fd7c8b08d%3Fsource%3Drss----95916e268740---4"
+    },
+    {
+      "title": "ipydatagrid is now part of Project Jupyter",
+      "link": "https%3A%2F%2Fblog.jupyter.org%2Fipydatagrid-is-now-part-of-project-jupyter-3b3dfb877664%3Fsource%3Drss----95916e268740---4"
+    },
+    {
+      "title": "JupyterGIS",
+      "link": "https%3A%2F%2Fblog.jupyter.org%2Fjupytergis-d63b7adf9d0c%3Fsource%3Drss----95916e268740---4"
+    }
+  ]
+}

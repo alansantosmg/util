@@ -1,0 +1,14 @@
+prefix=/home/alan/.config/jupyterlab-desktop/jlab_server
+exec_prefix=/home/alan/.config/jupyterlab-desktop/jlab_server
+libdir=/home/alan/.config/jupyterlab-desktop/jlab_server/lib
+includedir=/home/alan/.config/jupyterlab-desktop/jlab_server/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 24.3.18
+Requires: 
+Requires.private: zlib, libpng
+Libs: -L/home/alan/.config/jupyterlab-desktop/jlab_server/lib -lfreetype
+Libs.private: 
+Cflags: -I${includedir}/freetype2

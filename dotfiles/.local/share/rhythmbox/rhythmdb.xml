@@ -1,0 +1,331 @@
+<?xml version="1.0" standalone="yes"?>
+<rhythmdb version="2.0">
+  <entry type="iradio">
+    <title>Studio Brussel, Belgium</title>
+    <genre>Alternative</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://icecast.vrtcdn.be/stubru-high.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Kink - No Alternative</title>
+    <genre>Alternative</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>StartFM - 94.2MHz, Vilnius University, Lithuania</title>
+    <genre>Underground</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://eteris.startfm.lt/startfm.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - Tronic Lounge</title>
+    <genre>House</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/tronic.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Paradise (High Quality)</title>
+    <genre>Eclectic</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream-dc1.radioparadise.com/rp_192m.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - Dream Factory</title>
+    <genre>Ambient</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/ambient.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>wbur.org - Boston's NPR news source</title>
+    <genre>News</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://audio.wbur.org/stream/live_ogg.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WKNC 88.1 FM (NC State) HD-1</title>
+    <genre>Music</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://sc8.streammystation.com:7430/stream</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WUVT-FM 90.7 (Virginia Tech)</title>
+    <genre>College Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>https://stream.wuvt.vt.edu/wuvt.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WSUM 91.7 FM (University of Wisconsin)</title>
+    <genre>College Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.studio.wsum.wisc.edu/wsum128</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - I.D.M. Tranceponder</title>
+    <genre>Trance</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/trance.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="song">
+    <title>The King of the Wizards</title>
+    <genre>Speech</genre>
+    <artist>Deborah Meyers</artist>
+    <album>The King of the Wizards by Deborah Meyers</album>
+    <track-number>1</track-number>
+    <track-total>1</track-total>
+    <duration>1101</duration>
+    <file-size>17643783</file-size>
+    <location>file:///home/alan/Downloads/The_King_of_the_Wizards-A_Legend_from_Scotland.mp3</location>
+    <mtime>1730788475</mtime>
+    <first-seen>1730788533</first-seen>
+    <last-seen>1730788533</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
+    <comment>Get text version of this audiobook at https://english-e-reader.net/</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Blue Moon Beach</title>
+    <genre>Speech</genre>
+    <artist>Sue Murray</artist>
+    <album>Blue Moon Beach by Sue Murray</album>
+    <track-number>1</track-number>
+    <track-total>1</track-total>
+    <duration>2650</duration>
+    <file-size>42436525</file-size>
+    <location>file:///home/alan/Downloads/Blue_Moon_Beach-Sue_Murray.mp3</location>
+    <mtime>1730956154</mtime>
+    <first-seen>1731033811</first-seen>
+    <last-seen>1731033811</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
+    <comment>Get text version of this audiobook at https://english-e-reader.net/</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Chapter two</title>
+    <genre>Speech</genre>
+    <artist>Davy Crockett</artist>
+    <album>Davy Crockett by Clemen D. B. Gina</album>
+    <track-number>2</track-number>
+    <track-total>8</track-total>
+    <duration>171</duration>
+    <file-size>2758992</file-size>
+    <location>file:///home/alan/Documents/english_books/Davy_Crockett-Clemen_D_B_Gina_Audio/Davy%20Crockett%20-%20Chapter%2002.mp3</location>
+    <mtime>1538781598</mtime>
+    <first-seen>1731265007</first-seen>
+    <last-seen>1731265007</last-seen>
+    <play-count>1</play-count>
+    <last-played>1731265178</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>Get text version of this audiobook at https://english-e-reader.net/</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Chapter five</title>
+    <genre>Speech</genre>
+    <artist>Davy Crockett</artist>
+    <album>Davy Crockett by Clemen D. B. Gina</album>
+    <track-number>5</track-number>
+    <track-total>8</track-total>
+    <duration>138</duration>
+    <file-size>2234873</file-size>
+    <location>file:///home/alan/Documents/english_books/Davy_Crockett-Clemen_D_B_Gina_Audio/Davy%20Crockett%20-%20Chapter%2005.mp3</location>
+    <mtime>1538781600</mtime>
+    <first-seen>1731265494</first-seen>
+    <last-seen>1731265494</last-seen>
+    <play-count>1</play-count>
+    <last-played>1731265633</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>Get text version of this audiobook at https://english-e-reader.net/</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Chapter eight</title>
+    <genre>Speech</genre>
+    <artist>Davy Crockett</artist>
+    <album>Davy Crockett by Clemen D. B. Gina</album>
+    <track-number>8</track-number>
+    <track-total>8</track-total>
+    <duration>217</duration>
+    <file-size>3490423</file-size>
+    <location>file:///home/alan/Documents/english_books/Davy_Crockett-Clemen_D_B_Gina_Audio/Davy%20Crockett%20-%20Chapter%2008.mp3</location>
+    <mtime>1538781600</mtime>
+    <first-seen>1731266032</first-seen>
+    <last-seen>1731266032</last-seen>
+    <play-count>1</play-count>
+    <last-played>1731266250</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>Get text version of this audiobook at https://english-e-reader.net/</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Chapter seven</title>
+    <genre>Speech</genre>
+    <artist>Davy Crockett</artist>
+    <album>Davy Crockett by Clemen D. B. Gina</album>
+    <track-number>7</track-number>
+    <track-total>8</track-total>
+    <duration>240</duration>
+    <file-size>3858227</file-size>
+    <location>file:///home/alan/Documents/english_books/Davy_Crockett-Clemen_D_B_Gina_Audio/Davy%20Crockett%20-%20Chapter%2007.mp3</location>
+    <mtime>1538781600</mtime>
+    <first-seen>1731265791</first-seen>
+    <last-seen>1731265791</last-seen>
+    <play-count>1</play-count>
+    <last-played>1731266032</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>Get text version of this audiobook at https://english-e-reader.net/</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Chapter one</title>
+    <genre>Speech</genre>
+    <artist>Davy Crockett</artist>
+    <album>Davy Crockett by Clemen D. B. Gina</album>
+    <track-number>1</track-number>
+    <track-total>8</track-total>
+    <duration>188</duration>
+    <file-size>6041117</file-size>
+    <location>file:///home/alan/Documents/english_books/Davy_Crockett-Clemen_D_B_Gina_Audio/Davy%20Crockett%20-%20Chapter%2001.mp3</location>
+    <mtime>1538781598</mtime>
+    <first-seen>1731264797</first-seen>
+    <last-seen>1731264797</last-seen>
+    <play-count>1</play-count>
+    <last-played>1731264984</last-played>
+    <bitrate>256</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>Get text version of this audiobook at https://english-e-reader.net/</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Chapter four</title>
+    <genre>Speech</genre>
+    <artist>Davy Crockett</artist>
+    <album>Davy Crockett by Clemen D. B. Gina</album>
+    <track-number>4</track-number>
+    <track-total>8</track-total>
+    <duration>146</duration>
+    <file-size>2351901</file-size>
+    <location>file:///home/alan/Documents/english_books/Davy_Crockett-Clemen_D_B_Gina_Audio/Davy%20Crockett%20-%20Chapter%2004.mp3</location>
+    <mtime>1538781600</mtime>
+    <first-seen>1731265342</first-seen>
+    <last-seen>1731265342</last-seen>
+    <play-count>1</play-count>
+    <last-played>1731265488</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>Get text version of this audiobook at https://english-e-reader.net/</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Chapter six</title>
+    <genre>Speech</genre>
+    <artist>Davy Crockett</artist>
+    <album>Davy Crockett by Clemen D. B. Gina</album>
+    <track-number>6</track-number>
+    <track-total>8</track-total>
+    <duration>151</duration>
+    <file-size>2442179</file-size>
+    <location>file:///home/alan/Documents/english_books/Davy_Crockett-Clemen_D_B_Gina_Audio/Davy%20Crockett%20-%20Chapter%2006.mp3</location>
+    <mtime>1538781600</mtime>
+    <first-seen>1731265638</first-seen>
+    <last-seen>1731265638</last-seen>
+    <play-count>1</play-count>
+    <last-played>1731265790</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>Get text version of this audiobook at https://english-e-reader.net/</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Chapter three</title>
+    <genre>Speech</genre>
+    <artist>Davy Crockett</artist>
+    <album>Davy Crockett by Clemen D. B. Gina</album>
+    <track-number>3</track-number>
+    <track-total>8</track-total>
+    <duration>157</duration>
+    <file-size>2526191</file-size>
+    <location>file:///home/alan/Documents/english_books/Davy_Crockett-Clemen_D_B_Gina_Audio/Davy%20Crockett%20-%20Chapter%2003.mp3</location>
+    <mtime>1538781600</mtime>
+    <first-seen>1731265183</first-seen>
+    <last-seen>1731265183</last-seen>
+    <play-count>1</play-count>
+    <last-played>1731265340</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>Get text version of this audiobook at https://english-e-reader.net/</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Carnival</title>
+    <genre>Speech</genre>
+    <artist>Annette Keen</artist>
+    <album>Carnival by Annette Keen</album>
+    <track-number>1</track-number>
+    <track-total>1</track-total>
+    <duration>317</duration>
+    <file-size>7009303</file-size>
+    <location>file:///home/alan/Documents/english_books/Carnival-Annette_Keen.mp3</location>
+    <mtime>1730956195</mtime>
+    <first-seen>1731246857</first-seen>
+    <last-seen>1731246857</last-seen>
+    <play-count>1</play-count>
+    <last-played>1731247174</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
+    <comment>Get text version of this audiobook at https://english-e-reader.net/</comment>
+    <composer>Unknown</composer>
+  </entry>
+</rhythmdb>

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Furtherance
+GenericName=Time Tracker
+Comment=Track your time without being tracked
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=furtherance --file-forwarding io.unobserved.furtherance @@u %U @@
+Icon=io.unobserved.furtherance
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupNotify=true
+StartupWMClass=io.unobserved.furtherance
+Keywords=timer;tracker;clock;tasks;productivity;
+X-Flatpak=io.unobserved.furtherance
+X-XFCE-Source=file:///var/lib/flatpak/exports/share/applications/io.unobserved.furtherance.desktop

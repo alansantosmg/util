@@ -1,0 +1,130 @@
+{
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "editor.fontFamily": "'JetBrains Mono','Monaspace Argon','IBM Plex Mono','IBM Plex Mono Medium','Monaspace Neon'",
+  //"editor.fontWeight": 400,
+  //"editor.lineHeight": 1.3,
+  // font settings for Monaspace font
+  //"editor.fontLigatures": "'calt', 'liga','ss03','ss06', 'ss07', 'ss08', 'ss09'",
+    //"editor.fontWeight": 500,
+  "editor.fontLigatures": true,
+   "editor.minimap.enabled": false,
+   "editor.renderLineHighlight": "gutter",
+   "editor.rulers": [80,120],
+   "editor.semanticHighlighting.enabled": "configuredByTheme",
+   "editor.scrollbar.vertical": "hidden",
+   "editor.scrollbar.horizontal": "hidden",
+   "editor.tokenColorCustomizations":{
+     "[Default Dark Modern]":{
+        "textMateRules": [
+          { "scope": "comment",
+            "settings": 
+            {
+            "foreground": "#9c9c9c",
+            "fontStyle": "italic"
+            },
+      
+          }
+        ]
+      },
+      "[GitHub Light]":{
+        "textMateRules": [
+          { "scope": "comment",
+            "settings": 
+            {
+            //"foreground": "#9c9c9c",
+            "fontStyle": "italic"
+            },
+      
+          }
+        ]
+      },
+      "[GitHub Dark Default]":{
+        "textMateRules": [
+          { "scope": "comment",
+            "settings": 
+            {        
+            "fontStyle": "italic"
+            },
+      
+          },
+          
+        ]
+      }
+    },
+  "explorer.compactFolders": false,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.cache": true,
+        "**/.coverage": true,
+        "**/.coverage.*": true,
+        "**/.hypothesis": true,
+        "**/.mypy_cache": true,
+        "**/.nox": true,
+        "**/.pytest_cache": true,
+        "**/.ruff_cache": true,
+        "**/.tox": true
+    }, 
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "git.openRepositoryInParentFolders": "never",
+    "markdown.preview.fontSize": 14,
+		"markdown-preview-enhanced.codeBlockTheme": "default.css",
+		"markdown.preview.fontFamily": "Arial,'Segoe UI','Cascadia Code',' 'Ubuntu', Droid Sans', sans-serif",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.fixAll": [
+      "source.unusedImports"
+    ],
+    "terminal.integrated.fontSize": 14,
+    "window.commandCenter": false,
+    "workbench.activityBar.location": "default", // use control q
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.labelFormat": "short",
+    "workbench.colorCustomizations":{
+      "[One Dark Pro Darker]":{
+        "editor.background": "#191f23"
+      },
+      "[Default Dark Modern]": {
+       // "editor.background": "#181d21",
+       "editor.background": "#1c1c1c",
+      },
+      "[GitHub Dark]": {
+        "editor.background": "#191f23",
+        "terminal.foreground": "#b2b2b2",
+        "terminal.background": "#131926"
+        
+       },
+       "[GitHub Dark Default]": {
+        "editor.background": "#1f1f1f",
+        "terminal.foreground": "#b2b2b2",
+        "terminal.background": "#1c1c1c"
+       }      
+    },
+    "markdown-preview-enhanced.enableExtendedTableSyntax": true,
+    "git.confirmSync": false,
+    "[markdown]": {
+      "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "workbench.editor.editorActionsLocation": "titleBar",
+    "markdown-preview-enhanced.revealjsTheme": "none.css",
+    "markdown-preview-enhanced.previewTheme": "atom-light.css",
+    "markdown-preview-enhanced.alwaysShowBacklinksInPreview": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "files.associations": {
+      "*.rmd": "markdown"
+    },
+    "python.createEnvironment.trigger": "off",
+    "explorer.confirmDragAndDrop": false,
+    "code-runner.runInTerminal": true,
+    "python.terminal.shellIntegration.enabled": true,
+    "terminal.integrated.fontFamily": "'JetBrains Mono','Monaspace Argon','IBM Plex Mono','IBM Plex Mono Medium','Monaspace Neon'",
+    //"terminal.integrated.lineHeight": 1.2,
+    "terminal.integrated.drawBoldTextInBrightColors": false,
+    "breadcrumbs.enabled": false,
+    "notebook.showFoldingControls": "always",
+    "workbench.preferredDarkColorTheme": "GitHub Dark",
+    "workbench.preferredLightColorTheme": "GitHub Light",
+    "editor.guides.indentation": false,
+    "workbench.colorTheme": "GitHub Dark Default"
+    
+}

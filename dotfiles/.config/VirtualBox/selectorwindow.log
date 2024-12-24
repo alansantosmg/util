@@ -1,0 +1,21 @@
+00:00:00.423171 VirtualBox GUI VM Selector Window 7.0.16_Ubuntu r162802 linux.amd64 (Aug 25 2024 22:41:46) release log
+00:00:00.423172 Log opened 2024-12-22T23:11:24.306742000Z
+00:00:00.423172 Build Type: release
+00:00:00.423177 OS Product: Linux
+00:00:00.423177 OS Release: 6.8.0-51-generic
+00:00:00.423178 OS Version: #52-Ubuntu SMP PREEMPT_DYNAMIC Thu Dec  5 13:09:44 UTC 2024
+00:00:00.423207 DMI Product Name: Aspire A515-45
+00:00:00.423215 DMI Product Version: V1.52
+00:00:00.423224 Firmware type: UEFI
+00:00:00.423416 Secure Boot: Disabled
+00:00:00.423489 Host RAM: 19342MB (18.8GB) total, 11934MB (11.6GB) available
+00:00:00.423495 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.423496 Process ID: 128185
+00:00:00.423496 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.423565 Qt version: 5.15.13
+00:00:00.424871 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.448602 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.078677 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x39 x 2560x1041
+00:00:01.174143 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:11.389125 GUI: UICommon: Handling aboutToQuit request..
+00:00:12.308770 GUI: UICommon: aboutToQuit request handled!

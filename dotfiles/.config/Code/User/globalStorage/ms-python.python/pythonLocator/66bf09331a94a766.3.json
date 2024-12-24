@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/home/alan/learning_python/notes/frameworks/pandas_venv/bin/python",
+    "prefix": "/home/alan/learning_python/notes/frameworks/pandas_venv",
+    "version": "3.12.3.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/alan/learning_python/notes/frameworks/pandas_venv/bin/python",
+      "/home/alan/learning_python/notes/frameworks/pandas_venv/bin/python3",
+      "/home/alan/learning_python/notes/frameworks/pandas_venv/bin/python3.12"
+    ]
+  },
+  "symlinks": []
+}

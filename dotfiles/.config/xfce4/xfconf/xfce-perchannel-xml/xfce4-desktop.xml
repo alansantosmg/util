@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-desktop" version="1.0">
+  <property name="desktop-icons" type="empty">
+    <property name="style" type="int" value="2"/>
+    <property name="file-icons" type="empty">
+      <property name="show-home" type="bool" value="false"/>
+      <property name="show-filesystem" type="empty"/>
+      <property name="show-removable" type="empty"/>
+      <property name="show-trash" type="bool" value="false"/>
+    </property>
+    <property name="icon-size" type="empty"/>
+    <property name="tooltip-size" type="empty"/>
+    <property name="primary" type="bool" value="true"/>
+    <property name="show-tooltips" type="bool" value="false"/>
+    <property name="gravity" type="int" value="1"/>
+  </property>
+  <property name="backdrop" type="empty">
+    <property name="screen0" type="empty">
+      <property name="monitor0" type="empty">
+        <property name="image-path" type="string" value="/home/alan/Downloads/road_asphalt_marking_130996_5760x3840.jpg"/>
+        <property name="image-style" type="empty"/>
+        <property name="image-show" type="empty"/>
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="2"/>
+          <property name="last-image" type="string" value="/home/alan/.themes/cdetheme/backdrops/BACKDROP1.png"/>
+        </property>
+      </property>
+      <property name="monitor1" type="empty">
+        <property name="image-path" type="empty"/>
+        <property name="image-style" type="empty"/>
+        <property name="image-show" type="empty"/>
+      </property>
+      <property name="monitor2" type="empty">
+        <property name="image-path" type="empty"/>
+        <property name="image-style" type="empty"/>
+        <property name="image-show" type="empty"/>
+      </property>
+      <property name="monitor3" type="empty">
+        <property name="image-path" type="empty"/>
+        <property name="image-style" type="empty"/>
+        <property name="image-show" type="empty"/>
+      </property>
+      <property name="monitoreDP" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/alan/Pictures/wallpapers/photo-1542596081-a7c3fc19961e.jpg"/>
+        </property>
+      </property>
+      <property name="monitorHDMI-A-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="2"/>
+          <property name="last-image" type="string" value="/home/alan/.themes/cdetheme/backdrops/BACKDROP1.png"/>
+        </property>
+      </property>
+      <property name="monitorDVI-I-2-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="2"/>
+          <property name="last-image" type="string" value="/home/alan/.themes/cdetheme/backdrops/BACKDROP1.png"/>
+        </property>
+      </property>
+      <property name="monitorDVI-I-1-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/alan/Pictures/wallpapers/wallpaperflare.com_wallpaper (82)e.jpg"/>
+          <property name="backdrop-cycle-enable" type="bool" value="false"/>
+          <property name="rgba1" type="array">
+            <value type="double" value="0.3209333333333334"/>
+            <value type="double" value="0.35490290827740495"/>
+            <value type="double" value="0.38666666666666671"/>
+            <value type="double" value="1"/>
+          </property>
+          <property name="rgba2" type="array">
+            <value type="double" value="0.22283333333333338"/>
+            <value type="double" value="0.29089436619718312"/>
+            <value type="double" value="0.35000000000000003"/>
+            <value type="double" value="1"/>
+          </property>
+        </property>
+      </property>
+    </property>
+    <property name="single-workspace-mode" type="bool" value="false"/>
+    <property name="single-workspace-number" type="int" value="0"/>
+  </property>
+  <property name="desktop-menu" type="empty">
+    <property name="show" type="bool" value="true"/>
+  </property>
+  <property name="last" type="empty">
+    <property name="window-width" type="int" value="706"/>
+    <property name="window-height" type="int" value="669"/>
+  </property>
+</channel>

@@ -1,0 +1,772 @@
+1730663593017:quit()
+1730666622353:total
+1730666739652:x <- 10
+1730666742345:y <- 20
+1730666746126:total <- x + y
+1730666817065:source("~/.active-rstudio-document", echo=TRUE)
+1730671176477:source("~/utfpr/04_estatistica/hello_word_r.R")
+1730671192251:setwd("~/utfpr/04_estatistica")
+1730858797202:10 +20
+1730858803770:clear
+1730858989229:# Atribuicao de valor para variável
+1730858989229:numero1 <- 10
+1730859000132:15 -> numero2
+1730859011325:numero3 = 20
+1730859531616:# Usando Operadores
+1730859531616:numero3
+1730859532428:numero3 <- numero1 + numero2
+1730859533374:# operadores relacionais
+1730859533374:numero1 == numero2
+1730859534329:numero1 != numero2
+1730859535414:10 > 5
+1730859536224:10 < 5
+1730859538718:# operadores logicos
+1730859538718:numero1 != numero2 & 10 > 5
+1730859586609:numero1 != numero2 | 10 > 5
+1730859682948:nome <- 'Joao'
+1730859683857:nome2 = 'alan'
+1730859788910:# install.packages(...)
+1730859788910:numeros <- c(10,20,30,50)
+1730859792482:numeros
+1730859796567:sumary(numeros)
+1730859818663:summary(numeros)
+1730860377164:# estrutura de decisão simples - if
+1730860377164:numero <- 10
+1730860378388:if (numero == 10)
+1730860379929:print(numero)
+1730860505082:contador <- 1
+1730860505677:while (contador <= 10) {
+1730860505677:contador <- contador + 1
+1730860505677:}
+1730860509852:print(contador)
+1730860584925:for (i in 1:10){
+1730860584925:print(i)
+1730860584925:}
+1730860664800:for (i in 1:10){
+1730860664801:print(i)
+1730860664801:}
+1730860664804:numeros <- c(10,20,30,40,50)
+1730860664804:# em r o indice começa em 1
+1730860664804:numeros[1]
+1730860723896:# em r o indice começa em 1
+1730860723896:numeros[1]
+1730860724798:i <-2
+1730860727229:numeros[i]
+1730860745238:data("mtcars")
+1730860759455:print(data)
+1730860783692:data(mtcars)
+1730860795130:data(mtcars)
+1730860820704:numeros[i]
+1730860823954:data(mtcars)
+1730860829660:print(data)
+1730860865669:data("mtcars")
+1730860879323:mtcars
+1730860893396:data(mtcars)
+1730860901217:data(mtcars)
+1730860901887:mtcars
+1730860924431:data("mtcars")
+1730860925216:mtcars
+1730860928044:data(mtcars)
+1730860930573:mtcars
+1730860966996:head(mtcars)
+1730860982796:head(mtcars,2)
+1730861011465:mtcars$mpg[1]
+1730861062193:mtcars[1]
+1730861074706:mtcars[1]
+1730861133741:# exibir dados coluna/linha
+1730861133741:mtcars$mpg[2]
+1730861138356:# exibir dados coluna/linha
+1730861138356:mtcars$mpg[2]
+1730861246687:for (i in 1:32){
+1730861246687:if (mtcars$mpg[i] < 32)
+1730861246687:print(mtcars$hp[i])
+1730861246687:}
+1730861288550:for (i in 1:32){
+1730861288551:if (mtcars$mpg[i] < 20)
+1730861288551:print(mtcars$hp[i])
+1730861288551:}
+1730861329061:# exibir cabeçalho
+1730861329061:head(mtcars)
+1730861907937:data(USArrests)
+1730861920653:print(USArrests)
+1730861932690:print(USArrests)
+1730862525968:summary(USArrests)
+1730862593662:summary(USArrests$UrbanPop)
+1730863955781:mtcars
+1730866160560:summary(USArrests$UrbanPop)
+1730866195753:print(USArrests)
+1730866329336:for (i in 1:50){
+1730866329336:if (UsArrests$UrbanPop[i] < (cpop -1)){
+1730866329336:cpop = UsArrests$UrbanPop[i]
+1730866329336:cpop2 = cpop2 + cpop
+1730866329336:contador = contador + 1
+1730866329336:print(cpop,cpop2,contador)
+1730866329336:}
+1730866329336:print(cpop2)
+1730866329336:}
+1730866336633:data(USArrests)
+1730866340615:print(USArrests)
+1730866343311:contador = 0
+1730866344467:cpop = 91
+1730866349634:cpop = 91
+1730866354660:cpop2 = 0
+1730866359421:while (contador < 5){
+1730866363260:for (i in 1:50){
+1730866363260:if (UsArrests$UrbanPop[i] < (cpop -1)){
+1730866363261:cpop = UsArrests$UrbanPop[i]
+1730866363261:cpop2 = cpop2 + cpop
+1730866363261:contador = contador + 1
+1730866363261:print(cpop,cpop2,contador)
+1730866363261:}
+1730866363261:print(cpop2)
+1730866363261:}
+1730866367924:print(cpop2)
+1730866372281:#summary(USArrests$UrbanPop)
+1730866374179:#summary(USArrests$UrbanPop)
+1730866374768:#summary(USArrests$UrbanPop)
+1730866375145:#summary(USArrests$UrbanPop)
+1730866375465:#summary(USArrests$UrbanPop)
+1730866375963:#summary(USArrests$UrbanPop)
+1730866376220:#summary(USArrests$UrbanPop)
+1730866467385:source("~/.active-rstudio-document", echo=TRUE)
+1730866478589:source("~/.active-rstudio-document", echo=TRUE)
+1730866499889:source("~/.active-rstudio-document", echo=TRUE)
+1730866507505:data(USArrests)
+1730866508895:print(USArrests)
+1730866509384:contador = 0
+1730866558582:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730866702431:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730866711767:for (i in 1:50){
+1730866711767:if (UsArrests$UrbanPop[i] < (cpop -1)){
+1730866711768:cpop = UsArrests$UrbanPop[i]
+1730866711768:cpop2 = cpop2 + cpop
+1730866711768:contador = contador + 1
+1730866711768:print(cpop,cpop2,contador)
+1730866711768:}
+1730866711768:print(cpop2)
+1730866711768:}
+1730866720380:data(USArrests)
+1730866722230:print(USArrests)
+1730866722503:contador = 0
+1730866723495:cpop = 91
+1730866723760:cpop2 = 0
+1730866727868:print(USArrests)
+1730866739920:print(USArrests)
+1730866741055:print(USArrests)
+1730866776069:data(USArrests)
+1730866783113:print(USArrests)
+1730866799801:contador = 0
+1730866803566:cpop = 91
+1730866816936:cpop2 = 0
+1730866829714:while (contador < 5){
+1730866829714:for (i in 1:50){
+1730866829714:if (UsArrests$UrbanPop[i] < (cpop -1)){
+1730866829714:cpop = UsArrests$UrbanPop[i]
+1730866829714:cpop2 = cpop2 + cpop
+1730866829715:contador = contador + 1
+1730866829715:print(cpop,cpop2,contador)
+1730866829715:}
+1730866829715:print(cpop2)
+1730866829715:}
+1730866829715:print(cpop2)
+1730866829715:}
+1730866854418:data(USArrests)
+1730866855629:print(USArrests)
+1730866858213:contador = 0
+1730866858733:cpop = 91
+1730866859462:cpop2 = 0
+1730866861979:while (contador < 5){
+1730866861979:for (i in 1:50){
+1730866861979:if (USArrests$UrbanPop[i] < (cpop -1)){
+1730866861979:cpop = USArrests$UrbanPop[i]
+1730866861979:cpop2 = cpop2 + cpop
+1730866861979:contador = contador + 1
+1730866861979:print(cpop,cpop2,contador)
+1730866861979:}
+1730866861979:print(cpop2)
+1730866861979:}
+1730866861979:print(cpop2)
+1730866861979:}
+1730866906356:print(USArrests)
+1730866907421:contador = 0
+1730866907937:cpop = 91
+1730866910100:cpop2 = 0
+1730866917922:while (contador < 5){
+1730866917922:for (i in 1:50){
+1730866917922:if (USArrests$UrbanPop[i] < (cpop -1)){
+1730866917922:cpop = USArrests$UrbanPop[i]
+1730866917922:cpop2 = cpop2 + cpop
+1730866917922:contador = contador + 1
+1730866917922:print(cpop)
+1730866917922:print(cpop2)
+1730866917922:print(contador)
+1730866917922:}
+1730866917922:print(cpop2)
+1730866917922:}
+1730866917922:print(cpop2)
+1730866917922:}
+1730867010813:data(USArrests)
+1730867011702:print(USArrests)
+1730867014245:contador = 0
+1730867014827:cpop = 91
+1730867017101:cpop2 = 0
+1730867020725:while (contador < 5){
+1730867020725:for (i in 1:50){
+1730867020725:if (USArrests$UrbanPop[i] < (cpop -1)){
+1730867020725:cpop = USArrests$UrbanPop[i]
+1730867020725:print(cpop)
+1730867020726:cpop2 = cpop2 + cpop
+1730867020726:print(cpop2)
+1730867020726:contador = contador + 1
+1730867020726:print(contador)
+1730867020726:}
+1730867020726:print(cpop2)
+1730867020726:}
+1730867020726:print(cpop2)
+1730867020726:}
+1730867147783:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730867186016:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730867276981:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730867358512:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730867489654:print(USArrests)
+1730867805832:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730867831642:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730867897641:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730867979290:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730868018988:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730868177323:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730868195901:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730868315991:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730868513957:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730868665206:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730868785934:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730868799824:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730868813797:data(USArrests)
+1730868818181:contador = 0
+1730868820430:print("inicia contador:")
+1730868824404:print(contador)
+1730868826487:print("inicia cpop")
+1730868827631:cpop = 91
+1730868828619:print(cpop)
+1730868830230:print("inicia cpop2")
+1730868865074:cpop2 = 0
+1730868889900:print("inicia cpop2")
+1730868891141:cpop2 = 0
+1730868891785:print(cpop2)
+1730868892678:while (contador <= 4){
+1730868892679:for (i in 1:5){
+1730868892679:print("contagem i")
+1730868892679:print(i)
+1730868892679:print("valor linha")
+1730868892679:print(USArrests$UrbanPop[i])
+1730868892679:if (USArrests$UrbanPop[i] < (cpop -1)){
+1730868892679:cpop = USArrests$UrbanPop[i]
+1730868892679:print('cpop atualizado:')
+1730868892679:print(cpop)
+1730868892679:cpop2 = cpop2 + cpop
+1730868892680:print('cpop2 atualizado:')
+1730868892680:print(cpop2)
+1730868892680:print('contador atualizado')
+1730868892680:contador = contador + 1
+1730868892680:print(contador)
+1730868892680:}
+1730868892680:print('novamente cpop')
+1730868892680:print(cpop2)
+1730868892680:}
+1730868892680:print('final cpop')
+1730868892680:print(cpop2)
+1730868892680:}
+1730869283266:data(USArrests)
+1730869288907:A
+1730869295474:print(USArrests)
+1730869601370:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730869697258:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730869764922:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730869819772:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730870033299:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730870066148:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730870180383:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730870195127:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730870280260:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730870329821:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730870341167:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730870348231:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730870580071:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730870834133:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730870900655:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871168531:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871179116:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871190556:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871270021:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871276894:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871298590:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871523887:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871540451:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871637975:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871717407:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871836084:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871900147:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871909226:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871929159:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730871960839:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730872191614:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730874350201:cpop = cpop - 1
+1730874357316:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730874394032:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730874813198:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730874910785:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730874960175:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730875023973:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730875071674:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730875149567:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730875373044:cpop = cpop - 1
+1730875383236:cpop = cpop - 1
+1730875383236:print(cpop)
+1730875386133:cpop = cpop - 1
+1730875386133:print(cpop)
+1730875393237:cpop = cpop - 1
+1730875393237:print(cpop)
+1730875395274:cpop = cpop - 1
+1730875395274:print(cpop)
+1730875396375:cpop = cpop - 1
+1730875396375:print(cpop)
+1730875397173:cpop = cpop - 1
+1730875397173:print(cpop)
+1730875397695:cpop = cpop - 1
+1730875397695:print(cpop)
+1730875398236:cpop = cpop - 1
+1730875398236:print(cpop)
+1730875398825:cpop = cpop - 1
+1730875398825:print(cpop)
+1730875646024:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730875668693:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730875995580:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730876035397:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730876046644:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730876060948:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730876093226:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730876146495:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730876227854:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730876240788:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730876310805:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730876326922:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730876353900:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730877232830:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730877266892:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730877522893:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730877528192:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730877536160:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730877639752:print(USArrests)
+1730877713622:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730877758775:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730877773420:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730877929167:debugSource("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730878056258:debugSource("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730878083617:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730878323017:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730878497657:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730898619305:print(contador)
+1730898627869:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730898640885:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730898755021:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730898901045:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730899006184:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730899021141:print(USArrests)
+1730899251498:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730899285938:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730899321165:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730899400085:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730899412018:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730899504309:debugSource("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730899813138:debugSource("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730900403860:debugSource("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730900576330:debugSource("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730900723464:debugSource("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730901066825:print(USArrests)
+1730901374658:debugSource("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730901405757:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730901477959:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730901516246:print(USArrests)
+1730901665769:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730901751536:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730901932556:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730902020601:debugSource("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730902046098:debugSource("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730902966077:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730902997285:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730903433713:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730903667106:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730903685858:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730903710819:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730903851714:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730903860037:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730904001077:print(USArrests)
+1730904157837:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730904331988:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730904673264:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730904715952:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730904826351:source("~/.active-rstudio-document", echo=TRUE)
+1730904918004:source("~/.active-rstudio-document", echo=TRUE)
+1730906694327:source("~/.active-rstudio-document", echo=TRUE)
+1730906820321:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730906827417:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730906856627:debugSource("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730907083799:sumary(USArrests)
+1730907095942:summary(USArrests)
+1730907150030:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730907178104:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730907224130:data(USArrests)
+1730907232247:data(USArrests)
+1730907232248:print(USArrests)
+1730907488638:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730907496790:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730907564031:for (c in 1:5){
+1730907564031:if (min_pop > 32){
+1730907564031:min_pop = min_pop + 1
+1730907564031:}
+1730907564031:for (i in 1:50){
+1730907564031:pop_sel = USArrests$UrbanPop[i]
+1730907564031:if (min_pop == pop_sel){
+1730907564032:print('Populacao selecionada')
+1730907564032:print(pop_sel)
+1730907564032:soma_pop = soma_pop + pop_sel
+1730907564032:soma_murder = soma_murder + USArrests$Murder[i]
+1730907564032:soma_assault = soma_assault + USArrests$Assault[i]
+1730907564032:soma_rape = soma_rape + USArrests$Rape[i]
+1730907564032:contador = contador + 1
+1730907564032:min_pop = min_pop +1
+1730907564032:}
+1730907564032:}
+1730907564032:#  print(y)
+1730907564032:# print(v1)
+1730907564032:#  print(contador)
+1730907564032:#  print(z)
+1730907564032:}
+1730907577279:debugSource("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730907599804:debugSource("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730908444018:debugSource("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730909077678:debugSource("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730909092653:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730909121597:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730909259289:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730909490000:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730909512020:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730909554879:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730909610360:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730909752051:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730909793275:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730910159763:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730910170752:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730910347578:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730910432445:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730910440875:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730910472853:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730910518832:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730929533858:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730929543821:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730929544893:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730929568282:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730929697071:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730929769757:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730931176051:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730931197688:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730931238698:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730931254491:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730931457501:debugSource("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730936064633:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730936097044:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730936308404:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730936672269:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730936705651:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730937001820:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730937011700:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730937142250:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730937159092:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730937298360:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730937332094:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730937407567:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730937478971:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730937575432:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730937638565:k = pop_sel
+1730937643864:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730937656926:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730937875722:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730938063474:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730938073256:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730938140860:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730938199770:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730938206121:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730938256109:summary(USArrests)
+1730938513818:data(USArrests)
+1730938519621:data(USArrests)
+1730938535401:print(USArrests)
+1730938569397:summary(USArrests)
+1730938575729:print(USArrests)
+1730938579083:data(USArrests)
+1730938581562:force(USArrests)
+1730938585924:print(USArrests)
+1730938588863:View(USArrests)
+1730938602804:data(USArrests)
+1730939200985:source("~/utfpr/04_estatistica/numero_pessoas2.R", echo=TRUE)
+1730939224167:# carrega dataset (apenas mostrado para evidenciar de onde foi obtido
+1730939224167:# o total de linhas utiizado no laço for)
+1730939224167:data(USArrests)
+1730939244124:print(USArrests)
+1730939582697:print(USArrests$UrbanPop[i] =91)
+1730939614103:print(USArrests$UrbanPop[i] == 91)
+1730939638129:print(USArrests$UrbanPop[i]
+1730939652621:print(USArrests$UrbanPop)
+1730939690757:print(USArrests$UrbanPop[1])
+1730939701642:print(USArrests$UrbanPop[:])
+1730939713748:print(USArrests$UrbanPop[1:50])
+1730939837390:print(arrange(USArrests$UrbanPop[1:50]))
+1730939914495:r
+1730939924870:library(plyr)
+1730940032771:print(order(USArrests$UrbanPop[1:50]))
+1730940166243:USArrests$UrbanPop[1:50]
+1730940410285:source("~/utfpr/04_estatistica/numero_pessoas.R", echo=TRUE)
+1730940745680:source("~/utfpr/04_estatistica/Dados_maiores_cidades_teste.R", echo=TRUE)
+1730940813292:print(USArrests)
+1730942277933:source("~/utfpr/04_estatistica/Dados_maiores_cidades.R", echo=TRUE)
+1730942294330:source("~/utfpr/04_estatistica/Dados_maiores_cidades.R", echo=TRUE)
+1730942590277:source("~/utfpr/04_estatistica/Dados_maiores_cidades.R", echo=TRUE)
+1730942985841:source("~/utfpr/04_estatistica/Dados_maiores_cidades.R", echo=TRUE)
+1730944406108:source("~/utfpr/04_estatistica/Dados_maiores_menores_cidades.R", echo=TRUE)
+1730944429742:source("~/utfpr/04_estatistica/Dados_maiores_menores_cidades.R", echo=TRUE)
+1730944806114:source("~/utfpr/04_estatistica/Dados_maiores_menores_cidades.R", echo=TRUE)
+1730944880008:source("~/utfpr/04_estatistica/Dados_maiores_menores_cidades.R", echo=TRUE)
+1730949957282:source("~/utfpr/04_estatistica/Atividade1_Alan_Santos_Estatistica.R", echo=TRUE)
+1733619948101:13*4
+1733620048059:# Dataframe
+1733620048059:df_baralho <- expand.grid(numero = numeros, naipe = naipe)
+1733620052122:# Criar o baralho
+1733620052122:naipes <- c("Copas", "Paus", "Espadas","Ouros")
+1733620053475:numeros <-c("As", "Dois", "Tres", "Quatro", "Cinco", "Seis", "Sete", "Oito", "Nove", "Dez", "Valete", "Dama", "Rei")
+1733620055706:# Dataframe
+1733620055706:df_baralho <- expand.grid(numero = numeros, naipe = naipe)
+1733620072698:# Criar o baralho
+1733620072698:naipes <- c("Copas", "Paus", "Espadas","Ouros")
+1733620074818:numeros <-c("As", "Dois", "Tres", "Quatro", "Cinco", "Seis", "Sete", "Oito", "Nove", "Dez", "Valete", "Dama", "Rei")
+1733620077338:d
+1733620089754:df_baralho <- expand.grid(numero = numeros, naipe = naipes)
+1733620094163:df_baralho
+1733620198708:baralho <- paste(df_baralho$numero,df_baralho$naipe)
+1733620210189:baralho
+1733620373648:espadas <- paste(numeros, "Espadas")
+1733620375880:espadas
+1733620439050:baralho %in% espadas
+1733620522443:mean(baralho %in% espadas)
+1733620531914:13/52
+1733620614324:6/60
+1733620649283:0.1^6
+1733620860066:# Evento B: Carta que contem figura
+1733620860066:figuras_valete <- paste("Valete", naipes)
+1733620861641:figuras_dama <- paste("Damas", naipes)
+1733620864031:figuras_rei <- paste("Rei", naipes)
+1733620865105:figuras_valete
+1733620866689:figuras_dama
+1733620869024:figuras_rei
+1733620938001:figuras <- c(figuras_valete,figuras_dama, figuras_rei)
+1733620939425:figuras
+1733620976298:baralho %in% figuras
+1733621038666:mean(baralho %in% figuras)
+1733621101119:12/52
+1733621116795:mean(baralho %in% figuras)
+1733621169940:# Evento B: Carta que contem figura
+1733621169940:figuras_valete <- paste("Valete", naipes)
+1733621171989:figuras_dama <- paste("Dama", naipes)
+1733621173212:figuras_rei <- paste("Rei", naipes)
+1733621174365:figuras_valete
+1733621174892:figuras_dama
+1733621175373:figuras_rei
+1733621176245:figuras <- c(figuras_valete,figuras_dama, figuras_rei)
+1733621176653:figuras
+1733621177740:baralho %in% figuras
+1733621179277:12/52
+1733621179719:mean(baralho %in% figuras)
+1733621437859:figuras_espadas <- c("Valete Espadas", "Dama Espadas", "Rei Espadas")
+1733621439249:figuras_espadas
+1733621461483:baralho %in% figuras_espadas
+1733621494745:# P(C) = 3/52
+1733621494745:mean(baralho %in% figuras_espadas
+1733621508858:# P(C) = 3/52
+1733621508858:mean(baralho %in% figuras_espadas)
+1733621515691:# P(C) = 3/52
+1733621515691:mean(baralho %in% figuras_espadas)
+1733621525161:# P(C) = 3/52
+1733621525161:3/52
+1733621666229:espadas_ou_figuras
+1733621673084:espadas_ou_figuras <- c(espadas, figuras)
+1733621677700:espadas_ou_figuras
+1733621710998:baralho %in% espadas_ou_figuras
+1733621767359:mean(baralho %in% espadas_ou_figuras)
+1733621785582:# P(D) = 21/52
+1733621785582:21/52
+1733621791509:# P(D) = 21/52
+1733621791509:22/52
+1733622152346:# Outra forma de calcular
+1733622152346:# P(A U C) = P(A) + P(C) - P(A int C)
+1733622152346:p_d = p_a + p_b - p_c
+1733622160551:p_a = mean(baralho %in% espadas)
+1733622164470:p_b = mean(baralho %in% figuras)
+1733622168245:function (x, ...)
+1733622177061:# Outra forma de calcular
+1733622177061:# P(A U C) = P(A) + P(C) - P(A int C)
+1733622177061:p_d = p_a + p_b - p_c
+1733622179453:p_d
+1733622186413:# Outra forma de calcular
+1733622186413:# P(A U C) = P(A) + P(C) - P(A int C)
+1733622186413:p_d = p_a + p_b - p_c
+1733622190782:p_c = mean(baralho %in% figuras_espadas)
+1733622193789:# Outra forma de calcular
+1733622193789:# P(A U C) = P(A) + P(C) - P(A int C)
+1733622193789:p_d = p_a + p_b - p_c
+1733622199028:p_d
+1733622889330:install.packages("tidyverse")
+1733623708618:install.packages("gtools")
+1733623730675:install.packages("tidyverse")
+1733623854621:install.packages("curl")
+1733623939941:library(tidyverse)
+1733624288995:install.packages("tidyverse")
+1733624439389:install.packages("tidyverse")
+1733624515479:install.packages("tidyverse")
+1733624658001:install.packages("gtools")
+1733624665128:library(tidyverse)
+1733624678793:library(gtools)
+1733624740948:combinations(10,3)
+1733624852843:function (x)
+1733624859915:combinacao <- nrow(grupos_alunos)
+1733624863012:combinacao
+1733624875402:# 10 alunos em tres grupos
+1733624875402:# Combinações
+1733624875402:grupos_alunos = combinations(10,3)
+1733624879651:combinacao <- nrow(grupos_alunos)
+1733624881011:combinacao
+1733626550357:# formula
+1733626550357:10!
+1733626564476:eleicao_predio
+1733626573398:# formula
+1733626573398:10!
+1733626582836:# formula
+1733626582836:10!
+1733626589876:eleicao_predio
+1733626620413:# formula
+1733626620413:10!
+1733626626349:# formula
+1733626626349:10!
+1733626661566:library(gtools)
+1733626666120:# formula
+1733626666120:10!
+1733626677950:eleicao_predio <- permutations(10,3)
+1733626701949:# total combinacoes
+1733626701949:combinacao <- nrow(grupos_alunos)
+1733626704663:combinacao
+1733626707662:eleicao_predio <- permutations(10,3)
+1733626710862:eleicao_predio
+1733626789463:permutacao <-nrow(eleicao_predio)
+1733629273148:install.packages("vennDiagram")
+1733629326637:install.packages("VennDiagram")
+1733629434064:library(VennDiagram)
+1733629831813:draw.triple.venn(area1 = 120, area2 = 70, area3 = 150, n12 = 40, n23 =30, n13= 15, n123 =5, category = c("A","B","C"), lty ="blank" fill = c("skyblue","pink1","mediumorchid") )
+1733629869202:draw.triple.venn(area1 = 120, area2 = 70, area3 = 150, n12 = 40, n23 =30, n13= 15, n123 =5, category = c("A","B","C"), lty ="blank", fill = c("skyblue","pink1","mediumorchid") )
+1733652317135:ls
+1733652319469:git stastus
+1733652321446:git status
+1733652495227:reticulate::repl_python()
+1733657765182:reticulate::repl_python()
+1733657768501:reticulate::repl_python()
+1733657771335:print(x)
+1733657789821:y
+1733658466873:naipes <- c("Copas", "Paus", "Espadas","Ouros")
+1733658466873:numeros <-c("As", "Dois", "Tres", "Quatro", "Cinco", "Seis", "Sete", "Oito", "Nove", "Dez", "Valete", "Dama", "Rei")
+1733658466873:# Dataframe
+1733658466873:df_baralho <- expand.grid(numero = numeros, naipe = naipes)
+1733658466873:df_baralho
+1733658466876:# junta naipe com numero
+1733658466876:baralho <- paste(df_baralho$numero,df_baralho$naipe)
+1733658466876:baralho
+1733658732923:cartas_rei <-c c("Rei Espadas", "Rei Ouros", "Rei Copas", "Rei Paus")
+1733658739647:cartas_rei <- c("Rei Espadas", "Rei Ouros", "Rei Copas", "Rei Paus")
+1733658743477:cartas_rei
+1733658759790:baralho %in% cartas_rei
+1733658802190:prob_a <- mean(baralho %in% cartas_rei)
+1733658803044:prob_a
+1733658817741:4/52
+1733659060783:cartas_ouros <- c(numeros,"Ouros")
+1733659060783:cartas_copas <- c(numeros, "Copas")
+1733659060783:cartas_vermelhas = c(cartas_copas, cartas_ouros)
+1733659060784:cartas_vermelhas
+1733659112032:prob_b <- mean(baralho %in% cartas_vermelhas)
+1733659113744:prob_b
+1733659116343:prob_b
+1733659128169:cartas_ouros <- c(numeros,"Ouros")
+1733659130497:cartas_copas <- c(numeros, "Copas")
+1733659131784:cartas_vermelhas = c(cartas_copas, cartas_ouros)
+1733659133112:cartas_vermelhas
+1733659200338:numeros <-c("As", "Dois", "Tres", "Quatro", "Cinco", "Seis", "Sete", "Oito", "Nove", "Dez", "Valete", "Dama", "Rei")
+1733659204153:cartas_ouros <- c(numeros,"Ouros")
+1733659206961:cartas_copas <- c(numeros, "Copas")
+1733659207585:cartas_vermelhas = c(cartas_copas, cartas_ouros)
+1733659208194:cartas_vermelhas
+1733659249322:cartas_ouros <- paste(numeros,"Ouros")
+1733659251345:cartas_copas <- paste(numeros, "Copas")
+1733659252868:cartas_vermelhas = c(cartas_copas, cartas_ouros)
+1733659253587:cartas_vermelhas
+1733659256402:prob_b <- mean(baralho %in% cartas_vermelhas)
+1733659258178:prob_b
+1733659474967:cartas_rei_vermelho <- c("Rei Copas", "Rei Ouros" )
+1733659521686:prob_c <- mean(baralho %in% cartas_rei_vermelho)
+1733659522767:prob_c
+1733659669931:prob_cond = (prob_a / prob_b)
+1733659671665:prob_cond
+1733659960651:prob_cond = (prob_c / prob_b)
+1733659962443:prob_cond
+1733660077239:probx = prob_a - prob_b
+1733660078639:probx
+1733671529367:montagem <- matrix(1:4, nrow =2)
+1733671534801:montagem
+1733671924007:montagem <- matrix(1:4, nrow =2)
+1733671924008:montagem
+1733671924008:montagem[1,1] <- 2
+1733671924008:montagem[1,2] <- 6
+1733671924008:montagem[2,1] <- 1
+1733671924008:montagem[2,2] <- 9
+1733671924008:montagem
+1733672185845:montagem <- matrix(1:4, nrow =2)
+1733672185846:montagem
+1733672185846:montagem[1,1] <- 2
+1733672185846:montagem[1,2] <- 6
+1733672185846:montagem[2,1] <- 1
+1733672185846:montagem[2,2] <- 9
+1733672185846:montagem
+1733672185846:colnames(montagem) <- c("defeituosos","normais")
+1733672185847:rolnames(montagem) <- c("ln_montagem_1", "ln_montagem_2")
+1733672200149:montagem <- matrix(1:4, nrow =2)
+1733672200150:montagem
+1733672200150:montagem[1,1] <- 2
+1733672200150:montagem[1,2] <- 6
+1733672200150:montagem[2,1] <- 1
+1733672200150:montagem[2,2] <- 9
+1733672200150:montagem
+1733672200150:colnames(montagem) <- c("defeituosos","normais")
+1733672200151:rownames(montagem) <- c("ln_montagem_1", "ln_montagem_2")
+1733672200151:montagem
+1733672617278:montagem[1,1] <- 2
+1733672617278:montagem[1,2] <- 6
+1733672617278:montagem[2,1] <- 1
+1733672617278:montagem[2,2] <- 9
+1733672617278:montagem
+1733672617279:colnames(montagem) <- c("com_def","sem_def")
+1733672617279:rownames(montagem) <- c("lm_1", "lm_2")
+1733672617279:montagem
+1733672660973:# atribui componentes defeituosos na primeira coluna
+1733672660974:# atribui componentes normais na segunda coluna
+1733672660974:# cada linha da matriz será uma linha de montagem (lm)
+1733672660974:montagem[1,1] <- 2
+1733672660974:montagem[1,2] <- 6
+1733672660974:montagem[2,1] <- 1
+1733672660974:montagem[2,2] <- 9
+1733672660974:montagem
+1733672660974:colnames(montagem) <- c("c_def","s_def")
+1733672660974:rownames(montagem) <- c("lm_1", "lm_2")
+1733672660974:montagem

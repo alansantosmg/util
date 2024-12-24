@@ -1,0 +1,10 @@
+prefix=/home/alan/.config/jupyterlab-desktop/jlab_server
+exec_prefix=/home/alan/.config/jupyterlab-desktop/jlab_server
+libdir=/home/alan/.config/jupyterlab-desktop/jlab_server/lib
+includedir=/home/alan/.config/jupyterlab-desktop/jlab_server/include
+
+Name: libturbojpeg
+Description: A SIMD-accelerated JPEG codec that provides the TurboJPEG API
+Version: 3.0.0
+Libs: -L${libdir} -lturbojpeg
+Cflags: -I${includedir}

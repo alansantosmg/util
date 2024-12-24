@@ -1,0 +1,25 @@
+install.packages("tidyverse")
+install.packages("gtools")
+install.packages("curl")
+
+library(tidyverse)
+library(gtools)
+
+
+# 10 alunos em tres grupos
+
+# Combinações
+grupos_alunos = combinations(10,3)
+
+# total combinacoes
+combinacao <- nrow(grupos_alunos)
+combinacao
+
+# formula
+#10!
+#3! (10-3)!
+  
+  
+eleicao_predio <- permutations(10,3)
+eleicao_predio  
+permutacao <-nrow(eleicao_predio)  

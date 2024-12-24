@@ -1,0 +1,12 @@
+2024-12-22 19:59:47.295 [info] Getting Manifest... bonchol.nordic-vscode
+2024-12-22 19:59:47.366 [info] Installing extension: bonchol.nordic-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alan/.config/Code/User/profiles/-25c1ba62/extensions.json","path":"/home/alan/.config/Code/User/profiles/-25c1ba62/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-22 19:59:48.633 [info] Extension signature verification result for bonchol.nordic-vscode: Success. Executed: true. Duration: 788ms.
+2024-12-22 19:59:48.645 [info] Extracted extension to file:///home/alan/.vscode/extensions/bonchol.nordic-vscode-0.2.0: bonchol.nordic-vscode
+2024-12-22 19:59:48.649 [info] Renamed to /home/alan/.vscode/extensions/bonchol.nordic-vscode-0.2.0
+2024-12-22 19:59:48.684 [info] Extension installed successfully: bonchol.nordic-vscode vscode-userdata:/home/alan/.config/Code/User/profiles/-25c1ba62/extensions.json
+2024-12-22 20:00:10.707 [info] Getting Manifest... arcticicestudio.nord-visual-studio-code
+2024-12-22 20:00:10.735 [info] Installing extension: arcticicestudio.nord-visual-studio-code {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alan/.config/Code/User/profiles/-25c1ba62/extensions.json","path":"/home/alan/.config/Code/User/profiles/-25c1ba62/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-22 20:00:11.917 [info] Extension signature verification result for arcticicestudio.nord-visual-studio-code: Success. Executed: true. Duration: 706ms.
+2024-12-22 20:00:11.932 [info] Extracted extension to file:///home/alan/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.19.0: arcticicestudio.nord-visual-studio-code
+2024-12-22 20:00:11.950 [info] Renamed to /home/alan/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.19.0
+2024-12-22 20:00:11.986 [info] Extension installed successfully: arcticicestudio.nord-visual-studio-code vscode-userdata:/home/alan/.config/Code/User/profiles/-25c1ba62/extensions.json

@@ -1,0 +1,9 @@
+libdir=/home/alan/.config/jupyterlab-desktop/jlab_server/lib
+includedir=/home/alan/.config/jupyterlab-desktop/jlab_server/include
+
+Name: libsolvext
+Description: Library for reading repositories
+Version: 0.7.30
+Requires: libsolv
+Libs: -L${libdir} -lsolvext
+Cflags: -I${includedir}

@@ -1,0 +1,60 @@
+P(A|C)
+Interseção de AC / divido por C
+
+# Evento A: P(A): 60% cartão adicional
+# Evento B: P(B): 40% pilha extra
+# Evento C: P(C): 30% cartão e pilha extra
+
+0,40/0,30
+
+
+# Criar o baralho
+naipes <- c("Copas", "Paus", "Espadas","Ouros")
+numeros <-c("As", "Dois", "Tres", "Quatro", "Cinco", "Seis", "Sete", "Oito", "Nove", "Dez", "Valete", "Dama", "Rei")
+
+# Dataframe
+df_baralho <- expand.grid(numero = numeros, naipe = naipes)
+df_baralho
+
+# junta naipe com numero
+baralho <- paste(df_baralho$numero,df_baralho$naipe)
+baralho
+
+# Retirar um rei dado que já retirei uma carta vermelha. 
+
+# Evento A: retirar um rei
+# P(retirar um rei) = ? 
+
+cartas_rei <- c("Rei Espadas", "Rei Ouros", "Rei Copas", "Rei Paus")
+cartas_rei
+
+baralho %in% cartas_rei
+
+4/52
+prob_a <- mean(baralho %in% cartas_rei)
+prob_a
+
+
+# Evento B: retirar uma carta vermelha
+# P(retirar uma carta vermelha) =? 
+
+cartas_ouros <- paste(numeros,"Ouros")
+cartas_copas <- paste(numeros, "Copas")
+cartas_vermelhas <- c(cartas_copas, cartas_ouros)
+cartas_vermelhas
+
+prob_b <- mean(baralho %in% cartas_vermelhas)
+prob_b
+
+# Evento c: retirar um rei vermelho
+# P(A|B) = 2/52
+cartas_rei_vermelho <- c("Rei Copas", "Rei Ouros" )
+prob_c <- mean(baralho %in% cartas_rei_vermelho)
+prob_c
+
+
+# Retirar um rei dado que já retirei uma carta vermelha. 
+# P(A|B) = 2/52  / 1/2 = 
+
+prob_cond = (prob_c / prob_b)
+prob_cond

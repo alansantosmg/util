@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Microsoft Teams
+Exec=flatpak 'run' '--command=/app/bin/edge' 'com.microsoft.Edge' '--profile-directory=Profile 1' '--app-id=cifhbcnohmdccbgoicgdjpfamggdegmo' '--app-url=https://teams.microsoft.com/v2/?clientType=pwa'
+Icon=msedge-cifhbcnohmdccbgoicgdjpfamggdegmo-Profile_1
+NoDisplay=true
+StartupWMClass=crx__cifhbcnohmdccbgoicgdjpfamggdegmo
+X-Flatpak-Part-Of=com.microsoft.Edge
+TryExec=/var/lib/flatpak/exports/bin/com.microsoft.Edge

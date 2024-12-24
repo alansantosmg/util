@@ -1,0 +1,102 @@
+2024-12-22 19:33:04.119 [info] (Client) Pylance async client (2024.12.100) started with python extension (2024.23.2024121901)
+2024-12-22 19:33:04.578 [info] [Info  - 7:33:04 PM] (126461) Server root directory: file:///home/alan/.vscode/extensions/ms-python.vscode-pylance-2024.12.100/dist
+2024-12-22 19:33:04.578 [info] [Info  - 7:33:04 PM] (126461) Pylance language server 2024.12.100 (pyright version 1.1.390, commit 2f28cd39) starting
+2024-12-22 19:33:04.578 [info] [Info  - 7:33:04 PM] (126461) Starting service instance "learning_python"
+2024-12-22 19:33:04.580 [info] [Info  - 7:33:04 PM] (126461) Starting service instance "utfpr"
+2024-12-22 19:33:04.622 [info] [Info  - 7:33:04 PM] (126461) Setting environmentName for service "learning_python": "3.12.3 (.venv venv)"
+2024-12-22 19:33:04.623 [info] [Info  - 7:33:04 PM] (126461) Setting pythonPath for service "learning_python": "/home/alan/learning_python/.venv/bin/python"
+2024-12-22 19:33:04.623 [info] [Info  - 7:33:04 PM] (126461) No include entries specified; assuming /home/alan/learning_python
+2024-12-22 19:33:04.624 [info] [Info  - 7:33:04 PM] (126461) Auto-excluding **/node_modules
+2024-12-22 19:33:04.624 [info] [Info  - 7:33:04 PM] (126461) Auto-excluding **/__pycache__
+2024-12-22 19:33:04.624 [info] [Info  - 7:33:04 PM] (126461) Auto-excluding **/.*
+2024-12-22 19:33:04.653 [info] [Info  - 7:33:04 PM] (126461) Assuming Python version 3.12.3.final.0
+2024-12-22 19:33:04.721 [info] [Info  - 7:33:04 PM] (126461) Found 88 source files
+2024-12-22 19:33:04.756 [info] [Info  - 7:33:04 PM] (126461) Setting environmentName for service "utfpr": "3.12.3 (global)"
+2024-12-22 19:33:04.756 [info] [Info  - 7:33:04 PM] (126461) Setting pythonPath for service "utfpr": "/bin/python"
+2024-12-22 19:33:04.756 [info] [Info  - 7:33:04 PM] (126461) No include entries specified; assuming /home/alan/utfpr
+2024-12-22 19:33:04.756 [info] [Info  - 7:33:04 PM] (126461) Auto-excluding **/node_modules
+2024-12-22 19:33:04.756 [info] [Info  - 7:33:04 PM] (126461) Auto-excluding **/__pycache__
+2024-12-22 19:33:04.756 [info] [Info  - 7:33:04 PM] (126461) Auto-excluding **/.*
+2024-12-22 19:33:04.784 [info] [Info  - 7:33:04 PM] (126461) Assuming Python version 3.12.3.final.0
+2024-12-22 19:33:04.855 [info] [Info  - 7:33:04 PM] (126461) Auto-excluding /home/alan/utfpr/venv01_utfpr
+2024-12-22 19:33:04.856 [info] [Info  - 7:33:04 PM] (126461) Found 3 source files
+2024-12-22 19:33:05.147 [info] [Info  - 7:33:05 PM] (126461) Background analysis(1) root directory: file:///home/alan/.vscode/extensions/ms-python.vscode-pylance-2024.12.100/dist
+2024-12-22 19:33:05.149 [info] [Info  - 7:33:05 PM] (126461) Background analysis(1) started
+2024-12-22 19:33:05.308 [info] [Info  - 7:33:05 PM] (126461) Background analysis(2) root directory: file:///home/alan/.vscode/extensions/ms-python.vscode-pylance-2024.12.100/dist
+2024-12-22 19:33:05.310 [info] [Info  - 7:33:05 PM] (126461) Background analysis(2) started
+2024-12-22 19:56:51.094 [info] [Info  - 7:56:51 PM] (126461) Starting service instance "<default>"
+2024-12-22 19:56:51.117 [info] [Info  - 7:56:51 PM] (126461) Setting environmentName for service "<default>": "3.12.3 (.venv venv)"
+2024-12-22 19:56:51.117 [info] [Info  - 7:56:51 PM] (126461) Setting pythonPath for service "<default>": "/home/alan/learning_python/.venv/bin/python"
+2024-12-22 19:56:51.117 [info] [Info  - 7:56:51 PM] (126461) No include entries specified; assuming /<default workspace root>
+2024-12-22 19:56:51.117 [info] [Info  - 7:56:51 PM] (126461) Auto-excluding **/node_modules
+2024-12-22 19:56:51.117 [info] [Info  - 7:56:51 PM] (126461) Auto-excluding **/__pycache__
+2024-12-22 19:56:51.117 [info] [Info  - 7:56:51 PM] (126461) Auto-excluding **/.*
+2024-12-22 19:56:51.162 [info] [Info  - 7:56:51 PM] (126461) Assuming Python version 3.12.3.final.0
+2024-12-22 19:56:51.526 [info] [Error - 7:56:51 PM] (126461) File or directory "/<default workspace root>" does not exist.
+2024-12-22 19:56:52.049 [info] [Info  - 7:56:52 PM] (126461) No source files found.
+2024-12-22 19:56:52.471 [info] [Info  - 7:56:52 PM] (126461) Background analysis(3) root directory: file:///home/alan/.vscode/extensions/ms-python.vscode-pylance-2024.12.100/dist
+2024-12-22 19:56:52.472 [info] [Info  - 7:56:52 PM] (126461) Background analysis(3) started
+2024-12-22 19:57:18.568 [info] [Info  - 7:57:18 PM] (126461) Indexer background runner(4) root directory: file:///home/alan/.vscode/extensions/ms-python.vscode-pylance-2024.12.100/dist (index)
+2024-12-22 19:57:18.568 [info] [Info  - 7:57:18 PM] (126461) Indexing(4) started
+2024-12-22 19:57:18.948 [info] [Info  - 7:57:18 PM] (126461) scanned(4) 96 files over 1 exec env
+2024-12-22 19:57:20.288 [info] [Info  - 7:57:20 PM] (126461) indexed(4) 96 files over 1 exec env
+2024-12-22 19:57:20.329 [info] [Info  - 7:57:20 PM] (126461) Indexing finished(4).
+2024-12-22 19:59:48.791 [info] [Info  - 7:59:48 PM] Server process exited successfully
+2024-12-22 19:59:49.456 [info] (Client) Pylance async client (2024.12.100) started with python extension (2024.23.2024121901)
+2024-12-22 19:59:49.874 [info] [Info  - 7:59:49 PM] (127301) Server root directory: file:///home/alan/.vscode/extensions/ms-python.vscode-pylance-2024.12.100/dist
+2024-12-22 19:59:49.875 [info] [Info  - 7:59:49 PM] (127301) Pylance language server 2024.12.100 (pyright version 1.1.390, commit 2f28cd39) starting
+2024-12-22 19:59:49.879 [info] [Info  - 7:59:49 PM] (127301) Starting service instance "learning_python"
+2024-12-22 19:59:49.881 [info] [Info  - 7:59:49 PM] (127301) Starting service instance "utfpr"
+2024-12-22 19:59:49.920 [info] [Info  - 7:59:49 PM] (127301) Setting environmentName for service "learning_python": "3.12.3 (.venv venv)"
+2024-12-22 19:59:49.920 [info] [Info  - 7:59:49 PM] (127301) Setting pythonPath for service "learning_python": "/home/alan/learning_python/.venv/bin/python"
+2024-12-22 19:59:49.921 [info] [Info  - 7:59:49 PM] (127301) No include entries specified; assuming /home/alan/learning_python
+2024-12-22 19:59:49.921 [info] [Info  - 7:59:49 PM] (127301) Auto-excluding **/node_modules
+2024-12-22 19:59:49.921 [info] [Info  - 7:59:49 PM] (127301) Auto-excluding **/__pycache__
+2024-12-22 19:59:49.921 [info] [Info  - 7:59:49 PM] (127301) Auto-excluding **/.*
+2024-12-22 19:59:49.940 [info] [Info  - 7:59:49 PM] (127301) Assuming Python version 3.12.3.final.0
+2024-12-22 19:59:50.003 [info] [Info  - 7:59:50 PM] (127301) Found 88 source files
+2024-12-22 19:59:50.029 [info] [Info  - 7:59:50 PM] (127301) Setting environmentName for service "utfpr": "3.12.3 (venv01_utfpr venv)"
+2024-12-22 19:59:50.029 [info] [Info  - 7:59:50 PM] (127301) Setting pythonPath for service "utfpr": "/home/alan/utfpr/venv01_utfpr/bin/python"
+2024-12-22 19:59:50.029 [info] [Info  - 7:59:50 PM] (127301) No include entries specified; assuming /home/alan/utfpr
+2024-12-22 19:59:50.029 [info] [Info  - 7:59:50 PM] (127301) Auto-excluding **/node_modules
+2024-12-22 19:59:50.029 [info] [Info  - 7:59:50 PM] (127301) Auto-excluding **/__pycache__
+2024-12-22 19:59:50.029 [info] [Info  - 7:59:50 PM] (127301) Auto-excluding **/.*
+2024-12-22 19:59:50.050 [info] [Info  - 7:59:50 PM] (127301) Assuming Python version 3.12.3.final.0
+2024-12-22 19:59:50.104 [info] [Info  - 7:59:50 PM] (127301) Auto-excluding /home/alan/utfpr/venv01_utfpr
+2024-12-22 19:59:50.105 [info] [Info  - 7:59:50 PM] (127301) Found 3 source files
+2024-12-22 19:59:50.384 [info] [Info  - 7:59:50 PM] (127301) Background analysis(1) root directory: file:///home/alan/.vscode/extensions/ms-python.vscode-pylance-2024.12.100/dist
+2024-12-22 19:59:50.387 [info] [Info  - 7:59:50 PM] (127301) Background analysis(1) started
+2024-12-22 19:59:50.543 [info] [Info  - 7:59:50 PM] (127301) Background analysis(2) root directory: file:///home/alan/.vscode/extensions/ms-python.vscode-pylance-2024.12.100/dist
+2024-12-22 19:59:50.545 [info] [Info  - 7:59:50 PM] (127301) Background analysis(2) started
+2024-12-22 20:00:12.049 [info] [Info  - 8:00:12 PM] Server process exited successfully
+2024-12-22 20:00:12.753 [info] (Client) Pylance async client (2024.12.100) started with python extension (2024.23.2024121901)
+2024-12-22 20:00:13.170 [info] [Info  - 8:00:13 PM] (127428) Server root directory: file:///home/alan/.vscode/extensions/ms-python.vscode-pylance-2024.12.100/dist
+2024-12-22 20:00:13.170 [info] [Info  - 8:00:13 PM] (127428) Pylance language server 2024.12.100 (pyright version 1.1.390, commit 2f28cd39) starting
+2024-12-22 20:00:13.174 [info] [Info  - 8:00:13 PM] (127428) Starting service instance "learning_python"
+2024-12-22 20:00:13.177 [info] [Info  - 8:00:13 PM] (127428) Starting service instance "utfpr"
+2024-12-22 20:00:13.204 [info] [Info  - 8:00:13 PM] (127428) Setting environmentName for service "learning_python": "3.12.3 (.venv venv)"
+2024-12-22 20:00:13.205 [info] [Info  - 8:00:13 PM] (127428) Setting pythonPath for service "learning_python": "/home/alan/learning_python/.venv/bin/python"
+2024-12-22 20:00:13.205 [info] [Info  - 8:00:13 PM] (127428) No include entries specified; assuming /home/alan/learning_python
+2024-12-22 20:00:13.205 [info] [Info  - 8:00:13 PM] (127428) Auto-excluding **/node_modules
+2024-12-22 20:00:13.205 [info] [Info  - 8:00:13 PM] (127428) Auto-excluding **/__pycache__
+2024-12-22 20:00:13.205 [info] [Info  - 8:00:13 PM] (127428) Auto-excluding **/.*
+2024-12-22 20:00:13.227 [info] [Info  - 8:00:13 PM] (127428) Assuming Python version 3.12.3.final.0
+2024-12-22 20:00:13.295 [info] [Info  - 8:00:13 PM] (127428) Found 88 source files
+2024-12-22 20:00:13.314 [info] [Info  - 8:00:13 PM] (127428) Setting environmentName for service "utfpr": "3.12.3 (venv01_utfpr venv)"
+2024-12-22 20:00:13.314 [info] [Info  - 8:00:13 PM] (127428) Setting pythonPath for service "utfpr": "/home/alan/utfpr/venv01_utfpr/bin/python"
+2024-12-22 20:00:13.314 [info] [Info  - 8:00:13 PM] (127428) No include entries specified; assuming /home/alan/utfpr
+2024-12-22 20:00:13.314 [info] [Info  - 8:00:13 PM] (127428) Auto-excluding **/node_modules
+2024-12-22 20:00:13.314 [info] [Info  - 8:00:13 PM] (127428) Auto-excluding **/__pycache__
+2024-12-22 20:00:13.314 [info] [Info  - 8:00:13 PM] (127428) Auto-excluding **/.*
+2024-12-22 20:00:13.335 [info] [Info  - 8:00:13 PM] (127428) Assuming Python version 3.12.3.final.0
+2024-12-22 20:00:13.381 [info] [Info  - 8:00:13 PM] (127428) Auto-excluding /home/alan/utfpr/venv01_utfpr
+2024-12-22 20:00:13.382 [info] [Info  - 8:00:13 PM] (127428) Found 3 source files
+2024-12-22 20:00:13.695 [info] [Info  - 8:00:13 PM] (127428) Background analysis(1) root directory: file:///home/alan/.vscode/extensions/ms-python.vscode-pylance-2024.12.100/dist
+2024-12-22 20:00:13.697 [info] [Info  - 8:00:13 PM] (127428) Background analysis(1) started
+2024-12-22 20:00:13.814 [info] [Info  - 8:00:13 PM] (127428) Background analysis(2) root directory: file:///home/alan/.vscode/extensions/ms-python.vscode-pylance-2024.12.100/dist
+2024-12-22 20:00:13.816 [info] [Info  - 8:00:13 PM] (127428) Background analysis(2) started
+2024-12-22 20:01:17.345 [info] [Info  - 8:01:17 PM] (127428) Indexer background runner(3) root directory: file:///home/alan/.vscode/extensions/ms-python.vscode-pylance-2024.12.100/dist (index)
+2024-12-22 20:01:17.346 [info] [Info  - 8:01:17 PM] (127428) Indexing(3) started
+2024-12-22 20:01:17.770 [info] [Info  - 8:01:17 PM] (127428) scanned(3) 96 files over 1 exec env
+2024-12-22 20:01:17.955 [info] [Info  - 8:01:17 PM] (127428) indexed(3) 96 files over 1 exec env
+2024-12-22 20:01:17.994 [info] [Info  - 8:01:17 PM] (127428) Indexing finished(3).

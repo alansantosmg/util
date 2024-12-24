@@ -1,0 +1,17 @@
+{
+    "initial_working_directory": "~/utfpr/04_estatistica",
+    "graphics_antialiasing": "subpixel",
+    "font_size_points": 12,
+    "pdf_previewer": "none",
+    "posix_terminal_shell": "bash",
+    "jobs_tab_visibility": "shown",
+    "global_theme": "alternate",
+    "editor_theme": "Nord Polar Night Aurora {rsthemes}",
+    "help_font_size_points": 12,
+    "source_with_echo": true,
+    "default_open_project_location": "~/utfpr/04_estatistica/r_projects",
+    "default_encoding": "UTF-8",
+    "real_time_spellchecking": false,
+    "spelling_dictionary_language": "pt_BR",
+    "copilot_enabled": true
+}

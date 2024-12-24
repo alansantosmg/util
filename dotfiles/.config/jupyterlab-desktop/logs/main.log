@@ -1,0 +1,96 @@
+[2024-10-23 01:18:32.371] [error] Python path "/home/alan/.config/jupyterlab-desktop/jlab_server/bin/python" does not exist.
+[2024-10-23 01:18:33.791] [error] Failed to create free server Error: No default environment found!
+    at /snap/jupyterlab-desktop/31/resources/app.asar/build/out/main/registry.js:282:32
+[2024-10-23 02:18:19.398] [error] Python path "/home/alan/.config/jupyterlab-desktop/jlab_server/bin/python" does not exist.
+[2024-10-23 02:18:20.294] [error] Failed to create free server Error: No default environment found!
+    at /snap/jupyterlab-desktop/31/resources/app.asar/build/out/main/registry.js:282:32
+[2024-10-25 08:35:34.779] [error] Python path "/home/alan/.config/jupyterlab-desktop/jlab_server/bin/python" does not exist.
+[2024-10-25 08:35:35.545] [error] Failed to fetch news list: FetchError: request to https://blog.jupyter.org/feed failed, reason: getaddrinfo EAI_AGAIN blog.jupyter.org
+    at ClientRequest.<anonymous> (/snap/jupyterlab-desktop/31/resources/app.asar/node_modules/node-fetch/lib/index.js:1501:11)
+    at ClientRequest.emit (node:events:514:28)
+    at TLSSocket.socketErrorListener (node:_http_client:501:9)
+    at TLSSocket.emit (node:events:514:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2024-10-25 08:35:36.147] [error] Failed to create free server Error: No default environment found!
+    at /snap/jupyterlab-desktop/31/resources/app.asar/build/out/main/registry.js:282:32
+[2024-10-25 08:35:39.822] [error] Failed to check for updates: FetchError: request to https://github.com/jupyterlab/jupyterlab-desktop/releases/latest/download/latest.yml failed, reason: getaddrinfo EAI_AGAIN github.com
+    at ClientRequest.<anonymous> (/snap/jupyterlab-desktop/31/resources/app.asar/node_modules/node-fetch/lib/index.js:1501:11)
+    at ClientRequest.emit (node:events:514:28)
+    at TLSSocket.socketErrorListener (node:_http_client:501:9)
+    at TLSSocket.emit (node:events:514:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2024-10-25 08:36:04.113] [error] Python path "/home/alan/.config/jupyterlab-desktop/jlab_server/bin/python" does not exist.
+[2024-10-25 08:36:04.370] [error] Failed to fetch news list: FetchError: request to https://blog.jupyter.org/feed failed, reason: getaddrinfo EAI_AGAIN blog.jupyter.org
+    at ClientRequest.<anonymous> (/snap/jupyterlab-desktop/31/resources/app.asar/node_modules/node-fetch/lib/index.js:1501:11)
+    at ClientRequest.emit (node:events:514:28)
+    at TLSSocket.socketErrorListener (node:_http_client:501:9)
+    at TLSSocket.emit (node:events:514:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2024-10-25 08:36:04.712] [error] Failed to get environment info at path '/home/alan/.config/jupyterlab-desktop/jlab_server/bin/python'. Error: spawn /home/alan/.config/jupyterlab-desktop/jlab_server/bin/python ENOENT
+    at Process.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:476:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2024-10-25 08:36:04.912] [error] Failed to create free server Error: No default environment found!
+    at /snap/jupyterlab-desktop/31/resources/app.asar/build/out/main/registry.js:282:32
+[2024-10-25 08:36:09.123] [error] Failed to check for updates: FetchError: request to https://github.com/jupyterlab/jupyterlab-desktop/releases/latest/download/latest.yml failed, reason: getaddrinfo EAI_AGAIN github.com
+    at ClientRequest.<anonymous> (/snap/jupyterlab-desktop/31/resources/app.asar/node_modules/node-fetch/lib/index.js:1501:11)
+    at ClientRequest.emit (node:events:514:28)
+    at TLSSocket.socketErrorListener (node:_http_client:501:9)
+    at TLSSocket.emit (node:events:514:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2024-10-25 08:36:12.718] [error] Python path "/home/alan/.config/jupyterlab-desktop/jlab_server/bin/python" does not exist.
+[2024-10-25 08:36:13.007] [error] Python path "/home/alan/.config/jupyterlab-desktop/jlab_server/bin/python" does not exist.
+[2024-10-25 08:36:13.062] [error] Python path "/home/alan/.config/jupyterlab-desktop/jlab_server/bin/python" does not exist.
+[2024-10-25 08:36:14.331] [error] > /home/alan/.config/jupyterlab-desktop/jlab_server/bin/activate: line 5: /home/conda/feedstock_root/build_artifacts/conda_1722273156164/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place/etc/profile.d/conda.sh: No such file or directory
+
+[2024-10-25 08:36:14.331] [error] Shell exit with code: 1
+[2024-10-25 08:36:20.153] [error] Python path "/home/alan/.config/jupyterlab-desktop/jlab_server/bin/python" does not exist.
+[2024-10-25 08:39:41.907] [info]  Bundled env install status: REMOVING_EXISTING_INSTALLATION, message undefined
+[2024-10-25 08:39:42.516] [info]  Bundled env install status: STARTED, message undefined
+[2024-10-25 08:39:43.831] [error] Handling request in the main instance.
+[2024-10-25 08:39:57.928] [info]  Bundled env install status: SUCCESS, message undefined
+[2024-10-25 08:39:58.887] [error] Failed to fetch news list: FetchError: request to https://blog.jupyter.org/feed failed, reason: getaddrinfo EAI_AGAIN blog.jupyter.org
+    at ClientRequest.<anonymous> (/snap/jupyterlab-desktop/31/resources/app.asar/node_modules/node-fetch/lib/index.js:1501:11)
+    at ClientRequest.emit (node:events:514:28)
+    at TLSSocket.socketErrorListener (node:_http_client:501:9)
+    at TLSSocket.emit (node:events:514:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2024-10-25 08:40:03.510] [error] Failed to check for updates: FetchError: request to https://github.com/jupyterlab/jupyterlab-desktop/releases/latest/download/latest.yml failed, reason: getaddrinfo EAI_AGAIN github.com
+    at ClientRequest.<anonymous> (/snap/jupyterlab-desktop/31/resources/app.asar/node_modules/node-fetch/lib/index.js:1501:11)
+    at ClientRequest.emit (node:events:514:28)
+    at TLSSocket.socketErrorListener (node:_http_client:501:9)
+    at TLSSocket.emit (node:events:514:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2024-10-25 08:41:47.778] [warn]  Language pack 'C' not valid!
+[2024-10-25 08:41:49.352] [error] Uncaught NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+[2024-10-25 08:49:03.362] [error] Failed to fetch news list: FetchError: request to https://blog.jupyter.org/feed failed, reason: getaddrinfo EAI_AGAIN blog.jupyter.org
+    at ClientRequest.<anonymous> (/snap/jupyterlab-desktop/31/resources/app.asar/node_modules/node-fetch/lib/index.js:1501:11)
+    at ClientRequest.emit (node:events:514:28)
+    at TLSSocket.socketErrorListener (node:_http_client:501:9)
+    at TLSSocket.emit (node:events:514:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2024-10-25 08:49:07.979] [error] Failed to check for updates: FetchError: request to https://github.com/jupyterlab/jupyterlab-desktop/releases/latest/download/latest.yml failed, reason: getaddrinfo EAI_AGAIN github.com
+    at ClientRequest.<anonymous> (/snap/jupyterlab-desktop/31/resources/app.asar/node_modules/node-fetch/lib/index.js:1501:11)
+    at ClientRequest.emit (node:events:514:28)
+    at TLSSocket.socketErrorListener (node:_http_client:501:9)
+    at TLSSocket.emit (node:events:514:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2024-10-25 08:49:12.667] [warn]  Language pack 'C' not valid!
+[2024-10-27 02:47:23.514] [warn]  Language pack 'C' not valid!
+[2024-10-27 11:38:53.661] [warn]  Language pack 'C' not valid!

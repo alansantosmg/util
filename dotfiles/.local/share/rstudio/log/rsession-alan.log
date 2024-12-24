@@ -1,0 +1,6 @@
+2024-11-06T02:13:09.904669Z [rsession-alan] WARNING rs-theme-is-dark not set for theme "nord_one" (/home/alan/.config/rstudio/themes/nord_one.rstheme)
+2024-11-06T02:13:09.904669Z [rsession-alan] WARNING rs-theme-is-dark not set for theme "nord_one" (/home/alan/.config/rstudio/themes/nord_one.rstheme)
+2024-11-06T04:19:20.416042Z [rsession-alan] WARNING ASSERTION FAILED: !posix::pthread_mutex_lock(&m); LOGGED FROM: void rstudio_boost::recursive_mutex::lock() /opt/rstudio-tools/x86_64/boost/boost_1_83_0/include/boost/thread/pthread/recursive_mutex.hpp:108
+2024-11-06T04:19:20.416042Z [rsession-alan] WARNING ASSERTION FAILED: !posix::pthread_mutex_lock(&m); LOGGED FROM: void rstudio_boost::recursive_mutex::lock() /opt/rstudio-tools/x86_64/boost/boost_1_83_0/include/boost/thread/pthread/recursive_mutex.hpp:108
+2024-11-06T04:19:20.416524Z [rsession-alan] WARNING ASSERTION FAILED: !posix::pthread_mutex_unlock(&m); LOGGED FROM: void rstudio_boost::recursive_mutex::unlock() /opt/rstudio-tools/x86_64/boost/boost_1_83_0/include/boost/thread/pthread/recursive_mutex.hpp:113
+2024-11-06T04:19:20.416524Z [rsession-alan] WARNING ASSERTION FAILED: !posix::pthread_mutex_unlock(&m); LOGGED FROM: void rstudio_boost::recursive_mutex::unlock() /opt/rstudio-tools/x86_64/boost/boost_1_83_0/include/boost/thread/pthread/recursive_mutex.hpp:113

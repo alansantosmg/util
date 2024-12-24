@@ -1,0 +1,102 @@
+2024-12-22 19:56:52.449 [info] Name: isort
+2024-12-22 19:56:52.449 [info] Module: isort
+2024-12-22 19:56:52.449 [info] Python extension loading
+2024-12-22 19:56:52.449 [info] Waiting for interpreter from python extension.
+2024-12-22 19:56:52.449 [info] Python extension loaded
+2024-12-22 19:56:52.449 [info] No interpreter found from setting isort.interpreter
+2024-12-22 19:56:52.449 [info] Getting interpreter from ms-python.python extension for workspace /home/alan/utfpr
+2024-12-22 19:56:52.449 [info] Interpreter from ms-python.python extension for /home/alan/utfpr: /bin/python
+2024-12-22 19:56:52.449 [info] No interpreter found from setting isort.interpreter
+2024-12-22 19:56:52.449 [info] Getting interpreter from ms-python.python extension for workspace /home/alan/learning_python
+2024-12-22 19:56:52.449 [info] No interpreter found from setting isort.interpreter
+2024-12-22 19:56:52.449 [info] Getting interpreter from ms-python.python extension for workspace /home/alan/utfpr
+2024-12-22 19:56:52.449 [info] Interpreter from ms-python.python extension for /home/alan/learning_python: /home/alan/learning_python/.venv/bin/python
+2024-12-22 19:56:52.449 [info] Interpreter from ms-python.python extension for /home/alan/utfpr: /bin/python
+2024-12-22 19:56:52.449 [info] Server run command: /bin/python /home/alan/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool/lsp_server.py
+2024-12-22 19:56:52.449 [info] Server: Start requested.
+2024-12-22 19:56:53.138 [info] CWD Server: /home/alan/utfpr
+2024-12-22 19:56:53.138 [info] sys.path used to run Server:
+   /home/alan/.vscode/extensions/ms-python.isort-2023.10.1/bundled/libs
+   /home/alan/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool
+   /usr/lib/python312.zip
+   /usr/lib/python3.12
+   /usr/lib/python3.12/lib-dynload
+   /usr/local/lib/python3.12/dist-packages
+   /usr/lib/python3/dist-packages
+2024-12-22 19:56:53.138 [info] Settings used to run Server:
+[
+    {
+        "check": false,
+        "cwd": "/home/alan/learning_python",
+        "workspace": "file:///home/alan/learning_python",
+        "args": [],
+        "path": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "interpreter": [
+            "/home/alan/learning_python/.venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    },
+    {
+        "check": false,
+        "cwd": "/home/alan/utfpr",
+        "workspace": "file:///home/alan/utfpr",
+        "args": [],
+        "path": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2024-12-22 19:56:53.138 [info] Global settings:
+{
+    "check": false,
+    "cwd": "/home/alan",
+    "workspace": "/home/alan",
+    "args": [],
+    "path": [],
+    "severity": {
+        "W": "Warning",
+        "E": "Hint"
+    },
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2024-12-22 19:56:53.140 [info] /home/alan/learning_python/.venv/bin/python -m isort --version-number
+2024-12-22 19:56:53.140 [info] CWD Linter: /home/alan/learning_python
+2024-12-22 19:56:53.222 [info] Version info for isort running for /home/alan/learning_python:
+5.11.5
+
+2024-12-22 19:56:53.222 [info] SUPPORTED isort>=5.10.1
+FOUND isort==5.11.5
+
+2024-12-22 19:56:53.222 [info] /bin/python -m isort --version-number
+2024-12-22 19:56:53.222 [info] CWD Linter: /home/alan/utfpr
+2024-12-22 19:56:53.226 [info] Version info for isort running for /home/alan/utfpr:
+5.11.5
+
+2024-12-22 19:56:53.226 [info] SUPPORTED isort>=5.10.1
+FOUND isort==5.11.5
+
+2024-12-22 19:56:53.235 [info] [Trace - 7:56:53 PM] Sending request 'textDocument/codeAction - (1)'.
+2024-12-22 19:56:53.238 [info] [Trace - 7:56:53 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-22 19:56:53.245 [info] [Trace - 7:56:53 PM] Received response 'textDocument/codeAction - (1)' in 10ms.
+2024-12-22 19:57:02.153 [info] [Trace - 7:57:02 PM] Sending notification 'textDocument/didClose'.
+2024-12-22 19:57:02.156 [info] [Trace - 7:57:02 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-22 19:57:17.951 [info] [Trace - 7:57:17 PM] Sending notification 'textDocument/didOpen'.
+2024-12-22 19:57:17.954 [info] [Trace - 7:57:17 PM] Received notification 'textDocument/publishDiagnostics'.
+2024-12-22 19:57:17.958 [info] [Trace - 7:57:17 PM] Sending request 'textDocument/codeAction - (2)'.
+2024-12-22 19:57:17.960 [info] [Trace - 7:57:17 PM] Received response 'textDocument/codeAction - (2)' in 2ms.

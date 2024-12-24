@@ -1,0 +1,51 @@
+2024-12-22 13:56:33.952 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-12-22 13:56:33.952 [info] Auto Sync is enabled.
+2024-12-22 13:56:33.952 [info] Auto Sync: Suspended until auth token is available.
+2024-12-22 13:56:34.849 [info] Auto Sync: Triggered by Interval
+2024-12-22 13:56:34.850 [info] Sync started.
+2024-12-22 13:56:35.588 [info] Settings: No changes found during synchronizing settings.
+2024-12-22 13:56:35.808 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-12-22 13:56:35.833 [info] Snippets: No changes found during synchronizing snippets.
+2024-12-22 13:56:35.838 [info] Tasks: No changes found during synchronizing tasks.
+2024-12-22 13:56:35.845 [info] GlobalState: No changes found during synchronizing ui state.
+2024-12-22 13:56:35.897 [info] Extensions: No changes found during synchronizing extensions.
+2024-12-22 13:56:35.907 [info] Profiles: No changes found during synchronizing profiles.
+2024-12-22 13:56:35.910 [info] Syncing profile. Jupyter
+2024-12-22 13:56:35.988 [info] Settings (Jupyter): No changes found during synchronizing settings.
+2024-12-22 13:56:36.000 [info] Keybindings (Jupyter): No changes found during synchronizing keybindings.
+2024-12-22 13:56:36.006 [info] Snippets (Jupyter): No changes found during synchronizing snippets.
+2024-12-22 13:56:36.010 [info] Tasks (Jupyter): No changes found during synchronizing tasks.
+2024-12-22 13:56:36.059 [info] GlobalState (Jupyter): No changes found during synchronizing ui state.
+2024-12-22 13:56:36.284 [info] Extensions (Jupyter): No changes found during synchronizing extensions.
+2024-12-22 13:56:36.286 [info] Syncing profile. Python
+2024-12-22 13:56:36.539 [info] Settings (Python): No changes found during synchronizing settings.
+2024-12-22 13:56:36.584 [info] Keybindings (Python): No changes found during synchronizing keybindings.
+2024-12-22 13:56:36.588 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-12-22 13:56:36.593 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-12-22 13:56:36.612 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-12-22 13:56:36.679 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-12-22 13:56:36.681 [info] Sync done. Took 1832ms
+2024-12-22 13:57:06.159 [info] Auto Sync: Triggered by Activity
+2024-12-22 13:57:06.159 [info] Sync started.
+2024-12-22 13:57:06.316 [info] Settings: No changes found during synchronizing settings.
+2024-12-22 13:57:06.318 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-12-22 13:57:06.320 [info] Snippets: No changes found during synchronizing snippets.
+2024-12-22 13:57:06.322 [info] Tasks: No changes found during synchronizing tasks.
+2024-12-22 13:57:06.325 [info] GlobalState: No changes found during synchronizing ui state.
+2024-12-22 13:57:06.349 [info] Extensions: No changes found during synchronizing extensions.
+2024-12-22 13:57:06.349 [info] Profiles: No changes found during synchronizing profiles.
+2024-12-22 13:57:06.350 [info] Syncing profile. Jupyter
+2024-12-22 13:57:06.357 [info] Settings (Jupyter): No changes found during synchronizing settings.
+2024-12-22 13:57:06.359 [info] Keybindings (Jupyter): No changes found during synchronizing keybindings.
+2024-12-22 13:57:06.364 [info] Snippets (Jupyter): No changes found during synchronizing snippets.
+2024-12-22 13:57:06.366 [info] Tasks (Jupyter): No changes found during synchronizing tasks.
+2024-12-22 13:57:06.369 [info] GlobalState (Jupyter): No changes found during synchronizing ui state.
+2024-12-22 13:57:06.412 [info] Extensions (Jupyter): No changes found during synchronizing extensions.
+2024-12-22 13:57:06.412 [info] Syncing profile. Python
+2024-12-22 13:57:06.424 [info] Settings (Python): No changes found during synchronizing settings.
+2024-12-22 13:57:06.428 [info] Keybindings (Python): No changes found during synchronizing keybindings.
+2024-12-22 13:57:06.431 [info] Snippets (Python): No changes found during synchronizing snippets.
+2024-12-22 13:57:06.433 [info] Tasks (Python): No changes found during synchronizing tasks.
+2024-12-22 13:57:06.435 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2024-12-22 13:57:06.480 [info] Extensions (Python): No changes found during synchronizing extensions.
+2024-12-22 13:57:06.481 [info] Sync done. Took 322ms

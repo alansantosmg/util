@@ -1,0 +1,4 @@
+2024/11/04-00:15:36.338 5b147 Reusing MANIFEST /home/alan/.config/UpNote/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/11/04-00:15:36.339 5b147 Recovering log #3
+2024/11/04-00:15:36.348 5b147 Reusing old log /home/alan/.config/UpNote/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2024/11/04-00:15:36.649 5b158 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

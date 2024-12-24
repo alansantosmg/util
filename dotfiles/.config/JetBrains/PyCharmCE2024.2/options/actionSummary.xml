@@ -1,0 +1,25 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1729703545341" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1729703570082" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="2" l="1729703577466" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1729703510431" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.ExpChooserAction">
+      <i c="1" l="1729658282504" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1729703650904" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1729658306494" />
+    </e>
+  </component>
+</application>

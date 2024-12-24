@@ -1,0 +1,249 @@
+Debug: Getting roots
+Debug: Getting roots
+Debug: Getting roots
+Debug: Found roots
+Debug: Start watching file for changes /home/alan/.conda/environments.txt
+Debug: Start watching: /home/alan/.conda with pattern environments.txt using VSCode API
+Debug: Searching for conda.
+Debug: Getting poetry version
+Debug: Getting poetry version for poetry
+Debug: Probing conda binary: conda
+Debug: Found roots
+Debug: Start watching root /home/alan/learning_python for globs ["python","*/python","*/bin/python"]
+Debug: Start watching: /home/alan/learning_python with pattern python using VSCode API
+Debug: Start watching: /home/alan/learning_python with pattern */python using VSCode API
+Debug: Start watching: /home/alan/learning_python with pattern */bin/python using VSCode API
+Debug: Found roots
+Debug: Start watching root /home/alan/utfpr for globs ["python","*/python","*/bin/python"]
+Debug: Start watching: /home/alan/utfpr with pattern python using VSCode API
+Debug: Start watching: /home/alan/utfpr with pattern */python using VSCode API
+Debug: Start watching: /home/alan/utfpr with pattern */bin/python using VSCode API
+Debug: Shell path 'hidden', base path 'hidden'
+Debug: Shell path identified as shell 'other'
+Debug: Terminal name 'hidden' identified as shell 'other'
+Debug: [object Object]. Shell identified as other (Terminal name is hidden)
+Debug: Shell path '/usr/bin/bash', base path '/usr/bin/bash'
+Debug: Shell path identified as shell 'bash'
+Debug: Terminal shell path '/usr/bin/bash' identified as shell 'bash'
+Debug: [object Object]. Shell identified as bash (Terminal name is hidden)
+Debug: Shell identified as 'bash'
+Debug: Dump environment variables {
+    "CHROME_DESKTOP": "code.desktop",
+    "CLUTTER_BACKEND": "x11",
+    "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+    "DEBUGINFOD_URLS": "https://debuginfod.ubuntu.com ",
+    "DESKTOP_SESSION": "xubuntu",
+    "DISPLAY": ":0.0",
+    "GDK_BACKEND": "x11",
+    "GDMSESSION": "xubuntu",
+    "GDM_LANG": "en",
+    "GNOME_KEYRING_CONTROL": "/run/user/1000/keyring",
+    "GPG_AGENT_INFO": "/run/user/1000/gnupg/S.gpg-agent:0:1",
+    "GTK3_MODULES": "xapp-gtk3-module",
+    "GTK_OVERLAY_SCROLLING": "0",
+    "HOME": "/home/alan",
+    "LANG": "en_US.UTF-8",
+    "LANGUAGE": "en",
+    "LESSCLOSE": "/usr/bin/lesspipe %s %s",
+    "LESSOPEN": "| /usr/bin/lesspipe %s",
+    "LOGNAME": "alan",
+    "ORIGINAL_XDG_CURRENT_DESKTOP": "XFCE",
+    "PANEL_GDK_CORE_DEVICE_EVENTS": "0",
+    "PWD": "/home/alan",
+    "QT_ACCESSIBILITY": "1",
+    "QT_QPA_PLATFORMTHEME": "gtk2",
+    "SESSION_MANAGER": "local/serenity-x:@/tmp/.ICE-unix/2788,unix/serenity-x:/tmp/.ICE-unix/2788",
+    "SHELL": "/bin/bash",
+    "SHLVL": "0",
+    "SSH_AUTH_SOCK": "/run/user/1000/keyring/ssh",
+    "USER": "alan",
+    "VSCODE_CODE_CACHE_PATH": "/home/alan/.config/Code/CachedData/fabdb6a30b49f79a7aba0f2ad9df9b399473380f",
+    "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+    "VSCODE_CWD": "/home/alan",
+    "VSCODE_ESM_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+    "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+    "VSCODE_IPC_HOOK": "/run/user/1000/vscode-8d3f08ca-1.96-main.sock",
+    "VSCODE_NLS_CONFIG": "{\"userLocale\":\"en\",\"osLocale\":\"en\",\"resolvedLanguage\":\"en\",\"defaultMessagesFile\":\"/usr/share/code/resources/app/out/nls.messages.json\",\"locale\":\"en\",\"availableLanguages\":{}}",
+    "VSCODE_PID": "125843",
+    "XAUTHORITY": "/home/alan/.Xauthority",
+    "XDG_CONFIG_DIRS": "/etc/xdg/xdg-xubuntu:/etc/xdg",
+    "XDG_CURRENT_DESKTOP": "XFCE",
+    "XDG_DATA_DIRS": "/usr/share/xubuntu:/usr/share/xfce4:/home/alan/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share",
+    "XDG_GREETER_DATA_DIR": "/var/lib/lightdm-data/alan",
+    "XDG_MENU_PREFIX": "xfce-",
+    "XDG_RUNTIME_DIR": "/run/user/1000",
+    "XDG_SEAT": "seat0",
+    "XDG_SEAT_PATH": "/org/freedesktop/DisplayManager/Seat0",
+    "XDG_SESSION_CLASS": "user",
+    "XDG_SESSION_DESKTOP": "xubuntu",
+    "XDG_SESSION_ID": "c1",
+    "XDG_SESSION_PATH": "/org/freedesktop/DisplayManager/Session0",
+    "XDG_SESSION_TYPE": "x11",
+    "XDG_VTNR": "7",
+    "_": "/usr/share/code/code",
+    "ELECTRON_RUN_AS_NODE": "1",
+    "VSCODE_L10N_BUNDLE_LOCATION": "",
+    "PATH": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
+}
+> poetry --version
+cwd: ~/learning_python
+Debug: Shell Exec: poetry --version with options: {
+    "cwd": "/home/alan/learning_python",
+    "throwOnStdErr": true,
+    "timeout": 50000,
+    "encoding": "utf8",
+    "env": {
+        "CHROME_DESKTOP": "code.desktop",
+        "CLUTTER_BACKEND": "x11",
+        "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+        "DEBUGINFOD_URLS": "https://debuginfod.ubuntu.com ",
+        "DESKTOP_SESSION": "xubuntu",
+        "DISPLAY": ":0.0",
+        "GDK_BACKEND": "x11",
+        "GDMSESSION": "xubuntu",
+        "GDM_LANG": "en",
+        "GNOME_KEYRING_CONTROL": "/run/user/1000/keyring",
+        "GPG_AGENT_INFO": "/run/user/1000/gnupg/S.gpg-agent:0:1",
+        "GTK3_MODULES": "xapp-gtk3-module",
+        "GTK_OVERLAY_SCROLLING": "0",
+        "HOME": "/home/alan",
+        "LANG": "en_US.UTF-8",
+        "LANGUAGE": "en",
+        "LESSCLOSE": "/usr/bin/lesspipe %s %s",
+        "LESSOPEN": "| /usr/bin/lesspipe %s",
+        "LOGNAME": "alan",
+        "ORIGINAL_XDG_CURRENT_DESKTOP": "XFCE",
+        "PANEL_GDK_CORE_DEVICE_EVENTS": "0",
+        "PWD": "/home/alan",
+        "QT_ACCESSIBILITY": "1",
+        "QT_QPA_PLATFORMTHEME": "gtk2",
+        "SESSION_MANAGER": "local/serenity-x:@/tmp/.ICE-unix/2788,unix/serenity-x:/tmp/.ICE-unix/2788",
+        "SHELL": "/bin/bash",
+        "SHLVL": "0",
+        "SSH_AUTH_SOCK": "/run/user/1000/keyring/ssh",
+        "USER": "alan",
+        "VSCODE_CODE_CACHE_PATH": "/home/alan/.config/Code/CachedData/fabdb6a30b49f79a7aba0f2ad9df9b399473380f",
+        "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+        "VSCODE_CWD": "/home/alan",
+        "VSCODE_ESM_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+        "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+        "VSCODE_IPC_HOOK": "/run/user/1000/vscode-8d3f08ca-1.96-main.sock",
+        "VSCODE_NLS_CONFIG": "{\"userLocale\":\"en\",\"osLocale\":\"en\",\"resolvedLanguage\":\"en\",\"defaultMessagesFile\":\"/usr/share/code/resources/app/out/nls.messages.json\",\"locale\":\"en\",\"availableLanguages\":{}}",
+        "VSCODE_PID": "125843",
+        "XAUTHORITY": "/home/alan/.Xauthority",
+        "XDG_CONFIG_DIRS": "/etc/xdg/xdg-xubuntu:/etc/xdg",
+        "XDG_CURRENT_DESKTOP": "XFCE",
+        "XDG_DATA_DIRS": "/usr/share/xubuntu:/usr/share/xfce4:/home/alan/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share",
+        "XDG_GREETER_DATA_DIR": "/var/lib/lightdm-data/alan",
+        "XDG_MENU_PREFIX": "xfce-",
+        "XDG_RUNTIME_DIR": "/run/user/1000",
+        "XDG_SEAT": "seat0",
+        "XDG_SEAT_PATH": "/org/freedesktop/DisplayManager/Seat0",
+        "XDG_SESSION_CLASS": "user",
+        "XDG_SESSION_DESKTOP": "xubuntu",
+        "XDG_SESSION_ID": "c1",
+        "XDG_SESSION_PATH": "/org/freedesktop/DisplayManager/Session0",
+        "XDG_SESSION_TYPE": "x11",
+        "XDG_VTNR": "7",
+        "_": "/usr/share/code/code",
+        "ELECTRON_RUN_AS_NODE": "1",
+        "VSCODE_L10N_BUNDLE_LOCATION": "",
+        "PATH": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+        "PYTHONUNBUFFERED": "1",
+        "PYTHONIOENCODING": "utf-8"
+    }
+}
+Debug: Dump environment variables {
+    "CHROME_DESKTOP": "code.desktop",
+    "CLUTTER_BACKEND": "x11",
+    "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+    "DEBUGINFOD_URLS": "https://debuginfod.ubuntu.com ",
+    "DESKTOP_SESSION": "xubuntu",
+    "DISPLAY": ":0.0",
+    "GDK_BACKEND": "x11",
+    "GDMSESSION": "xubuntu",
+    "GDM_LANG": "en",
+    "GNOME_KEYRING_CONTROL": "/run/user/1000/keyring",
+    "GPG_AGENT_INFO": "/run/user/1000/gnupg/S.gpg-agent:0:1",
+    "GTK3_MODULES": "xapp-gtk3-module",
+    "GTK_OVERLAY_SCROLLING": "0",
+    "HOME": "/home/alan",
+    "LANG": "en_US.UTF-8",
+    "LANGUAGE": "en",
+    "LESSCLOSE": "/usr/bin/lesspipe %s %s",
+    "LESSOPEN": "| /usr/bin/lesspipe %s",
+    "LOGNAME": "alan",
+    "ORIGINAL_XDG_CURRENT_DESKTOP": "XFCE",
+    "PANEL_GDK_CORE_DEVICE_EVENTS": "0",
+    "PWD": "/home/alan",
+    "QT_ACCESSIBILITY": "1",
+    "QT_QPA_PLATFORMTHEME": "gtk2",
+    "SESSION_MANAGER": "local/serenity-x:@/tmp/.ICE-unix/2788,unix/serenity-x:/tmp/.ICE-unix/2788",
+    "SHELL": "/bin/bash",
+    "SHLVL": "0",
+    "SSH_AUTH_SOCK": "/run/user/1000/keyring/ssh",
+    "USER": "alan",
+    "VSCODE_CODE_CACHE_PATH": "/home/alan/.config/Code/CachedData/fabdb6a30b49f79a7aba0f2ad9df9b399473380f",
+    "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+    "VSCODE_CWD": "/home/alan",
+    "VSCODE_ESM_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+    "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+    "VSCODE_IPC_HOOK": "/run/user/1000/vscode-8d3f08ca-1.96-main.sock",
+    "VSCODE_NLS_CONFIG": "{\"userLocale\":\"en\",\"osLocale\":\"en\",\"resolvedLanguage\":\"en\",\"defaultMessagesFile\":\"/usr/share/code/resources/app/out/nls.messages.json\",\"locale\":\"en\",\"availableLanguages\":{}}",
+    "VSCODE_PID": "125843",
+    "XAUTHORITY": "/home/alan/.Xauthority",
+    "XDG_CONFIG_DIRS": "/etc/xdg/xdg-xubuntu:/etc/xdg",
+    "XDG_CURRENT_DESKTOP": "XFCE",
+    "XDG_DATA_DIRS": "/usr/share/xubuntu:/usr/share/xfce4:/home/alan/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share",
+    "XDG_GREETER_DATA_DIR": "/var/lib/lightdm-data/alan",
+    "XDG_MENU_PREFIX": "xfce-",
+    "XDG_RUNTIME_DIR": "/run/user/1000",
+    "XDG_SEAT": "seat0",
+    "XDG_SEAT_PATH": "/org/freedesktop/DisplayManager/Seat0",
+    "XDG_SESSION_CLASS": "user",
+    "XDG_SESSION_DESKTOP": "xubuntu",
+    "XDG_SESSION_ID": "c1",
+    "XDG_SESSION_PATH": "/org/freedesktop/DisplayManager/Session0",
+    "XDG_SESSION_TYPE": "x11",
+    "XDG_VTNR": "7",
+    "_": "/usr/share/code/code",
+    "ELECTRON_RUN_AS_NODE": "1",
+    "VSCODE_L10N_BUNDLE_LOCATION": "",
+    "PATH": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
+}
+> conda info --json
+Debug: Failed to spawn conda binary conda [Error: spawn conda ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+	at onErrorNT (node:internal/child_process:483:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn conda',
+  path: 'conda',
+  spawnargs: [ 'info', '--json' ]
+}
+Error: [Error: Command failed: poetry --version
+/bin/sh: 1: poetry: not found
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'poetry --version'
+}
+Debug: Time taken to run poetry --version in ms 91
+Debug: Failed to find poetry for poetry
+Debug: No poetry binary found for /home/alan/learning_python
+Debug: Couldn't locate the conda binary.
+Debug: Getting poetry version
+Debug: Getting poetry version for poetry
+Debug: Cached data exists KeyPrefix=Cache_Method_Output_Poetry.getVersionCached-Args=
+Debug: Failed to find poetry for poetry
+Debug: No poetry binary found for /home/alan/learning_python

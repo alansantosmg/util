@@ -1,0 +1,84 @@
+# Escolha uma carta em um baralho (52 cartas)
+
+# Probabilidade de escolher uma carta de espadas
+# Probabilidade de escolher uma carta que contem 1 figura
+# Probabilidade de escolher uma carta de espadas e que contem uma figura
+# Probabilidade de escolher uma carta de espadas ou que contem uma figura
+
+S = 52
+
+# Criar o baralho
+naipes <- c("Copas", "Paus", "Espadas","Ouros")
+numeros <-c("As", "Dois", "Tres", "Quatro", "Cinco", "Seis", "Sete", "Oito", "Nove", "Dez", "Valete", "Dama", "Rei")
+
+# Dataframe
+df_baralho <- expand.grid(numero = numeros, naipe = naipes)
+df_baralho
+
+# junta naipe com numero
+baralho <- paste(df_baralho$numero,df_baralho$naipe)
+baralho
+
+# evento A: Carta de espadas
+# P(A) = ? 
+
+espadas <- paste(numeros, "Espadas")
+espadas
+
+baralho %in% espadas
+
+# P(A) = 13/52
+
+p_a = mean(baralho %in% espadas)
+
+13/52
+
+# Evento B: Carta que contem figura
+figuras_valete <- paste("Valete", naipes) 
+figuras_dama <- paste("Dama", naipes) 
+figuras_rei <- paste("Rei", naipes)
+
+figuras_valete
+figuras_dama
+figuras_rei
+
+
+figuras <- c(figuras_valete,figuras_dama, figuras_rei)
+figuras
+
+baralho %in% figuras
+
+
+# P(B) = 12/52
+12/52
+p_b = mean(baralho %in% figuras)
+
+
+# Evento C: carta de espadas e que contem uma figura
+
+figuras_espadas <- c("Valete Espadas", "Dama Espadas", "Rei Espadas")
+figuras_espadas
+
+baralho %in% figuras_espadas
+
+# P(C) = 3/52
+3/52
+p_c = mean(baralho %in% figuras_espadas)
+
+# Evento D: carta de espadas ou que contem uma figura
+
+
+espadas_ou_figuras <- c(espadas, figuras)
+espadas_ou_figuras
+
+baralho %in% espadas_ou_figuras
+
+# P(D) = 21/52 (interseção dos eventos A e B)
+22/52
+mean(baralho %in% espadas_ou_figuras)
+
+# Outra forma de calcular
+# P(A U C) = P(A) + P(C) - P(A int C)
+p_d = p_a + p_b - p_c
+p_d
+

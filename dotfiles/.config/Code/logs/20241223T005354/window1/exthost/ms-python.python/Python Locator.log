@@ -1,0 +1,22 @@
+2024-12-23 00:53:58.448 [info] Starting Python Locator /home/alan/.vscode/extensions/ms-python.python-2024.23.2024121901-linux-x64/python-env-tools/bin/pet server
+2024-12-23 00:53:59.751 [info] Discovered env: /home/alan/learning_python/.venv/bin/python
+2024-12-23 00:53:59.765 [info] Discovered env: /home/alan/utfpr/venv01_utfpr/bin/python
+2024-12-23 00:53:59.770 [info] Discovered env: /bin/python
+2024-12-23 00:53:59.771 [info] Discovered env: /usr/bin/python
+2024-12-23 00:53:59.772 [info] Locator Conda took 100.998524ms
+2024-12-23 00:53:59.772 [info] Locator Homebrew took 989.07µs
+2024-12-23 00:53:59.772 [info] Locator LinuxGlobal took 114.907612ms
+2024-12-23 00:53:59.772 [info] Locator PipEnv took 429.782µs
+2024-12-23 00:53:59.772 [info] Locator Pixi took 27.291µs
+2024-12-23 00:53:59.772 [info] Locator Poetry took 9.333032ms
+2024-12-23 00:53:59.772 [info] Locator PyEnv took 4.091067ms
+2024-12-23 00:53:59.772 [info] Locator Venv took 890.233µs
+2024-12-23 00:53:59.772 [info] Locator VirtualEnv took 313.733µs
+2024-12-23 00:53:59.772 [info] Locator VirtualEnvWrapper took 2.076066ms
+2024-12-23 00:53:59.772 [info] Locator GlobalVirtualEnvs took 3.954048ms
+2024-12-23 00:53:59.772 [info] Locator Locators took 127.4265ms
+2024-12-23 00:53:59.772 [info] Locator Path took 287.220217ms
+2024-12-23 00:53:59.772 [info] Locator Workspaces took 51.610343ms
+2024-12-23 00:53:59.772 [info] Refresh completed in 287ms
+2024-12-23 00:53:59.774 [info] Resolved Python Environment /home/alan/learning_python/.venv/bin/python
+2024-12-23 00:54:01.187 [info] Resolved Python Environment /home/alan/utfpr/venv01_utfpr/bin/python

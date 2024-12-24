@@ -11,569 +11,694 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/numberlet
+~MSle0~/gruv
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1726052965,,"q"
-:sh
-|2,0,1726052152,,"sh"
+|2,0,1729657698,,"q"
 :wq
-|2,0,1726051976,,"wq"
+|2,0,1729657692,,"wq"
 :PlugInstall
-|2,0,1726051963,,"PlugInstall"
+|2,0,1729657674,,"PlugInstall"
 :q!
-|2,0,1726051947,,"q!"
+|2,0,1728351600,,"q!"
+:colorscheme onedark
+|2,0,1728351569,,"colorscheme onedark"
+:PlugUpdate
+|2,0,1725939900,,"PlugUpdate"
+:sh
+|2,0,1725938574,,"sh"
 :w
-|2,0,1726051929,,"w"
-:vsplit .vimrc
-|2,0,1726050848,,"vsplit .vimrc"
-:e .vimrc.local
-|2,0,1726050277,,"e .vimrc.local"
-:e vim.rc.local
-|2,0,1726050265,,"e vim.rc.local"
-:vsplit
-|2,0,1726050226,,"vsplit"
-:e teste2.py
-|2,0,1725993178,,"e teste2.py"
-:e e2.py
-|2,0,1725993164,,"e e2.py"
-:ter
-|2,0,1725949855,,"ter"
-:horiz term
-|2,0,1725946896,,"horiz term"
-:vert term
-|2,0,1725946823,,"vert term"
-:vsplit terminal
-|2,0,1725946754,,"vsplit terminal"
-:quit
-|2,0,1725946741,,"quit"
-:term
-|2,0,1725946706,,"term"
-:v
-|2,0,1725946693,,"v"
-::q<F3><F3><F4><F4>
-|2,0,1725942298,,":q<F3><F3><F4><F4>"
-::q<F3>
-|2,0,1725942273,,":q<F3>"
-::q
-|2,0,1725942233,,":q"
-:PlugInstall[
-|2,0,1725941636,,"PlugInstall["
+|2,0,1725937938,,"w"
 :PlugClean
-|2,0,1725941622,,"PlugClean"
-:PluginInstall
-|2,0,1725941024,,"PluginInstall"
-:Q
-|2,0,1725940588,,"Q"
-:Pluginstall
-|2,0,1725939124,,"Pluginstall"
+|2,0,1725937776,,"PlugClean"
+:pluginstall
+|2,0,1725937595,,"pluginstall"
+:wq .vimrc.local
+|2,0,1725937526,,"wq .vimrc.local"
+:term
+|2,0,1723780844,,"term"
+:o teste.py
+|2,0,1723761142,,"o teste.py"
+:o
+|2,0,1723761135,,"o"
+:sp
+|2,0,1723697314,,"sp"
+:exit
+|2,0,1723695956,,"exit"
+:!clear
+|2,0,1723695944,,"!clear"
+:wp
+|2,0,1723695229,,"wp"
+:!python3 %
+|2,0,1723692599,,"!python3 %"
+:.,.+3q
+|2,0,1723692217,,".,.+3q"
+:source ~/.vimrc
+|2,0,1723686696,,"source ~/.vimrc"
+:echo mapleader
+|2,0,1723683263,,"echo mapleader"
+:echo map leader
+|2,0,1723683257,,"echo map leader"
 
 # Search String History (newest to oldest):
-?/numberlet
-|2,1,1726051181,47,"numberlet"
-?/air
-|2,1,1726050996,47,"air"
-?/onedar
-|2,1,1726050923,47,"onedar"
+?/gruv
+|2,1,1725933744,47,"gruv"
+?/background
+|2,1,1725933821,47,"background"
 ?/gruvbox
-|2,1,1726050345,47,"gruvbox"
-?/high
-|2,1,1725945008,47,"high"
-?/highlight
-|2,1,1725944982,47,"highlight"
-?/cursor
-|2,1,1725942944,47,"cursor"
+|2,1,1725933691,47,"gruvbox"
+?/guv
+|2,1,1725933685,47,"guv"
 
 # Expression History (newest to oldest):
 
 # Input Line History (newest to oldest):
 @y
-|2,3,1725941626,,"y"
+|2,3,1725937782,,"y"
 
 # Debug Line History (newest to oldest):
 
 # Registers:
 "0	LINE	0
-	ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGhha3LJHV5P9AUDEiHC2OVji1Za8wqhtZz8wPjuDtiP alan@server1
-|3,0,0,1,1,0,1726052576,"ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGhha3LJHV5P9AUDEiHC2OVji1Za8wqhtZz8wPjuDtiP alan@server1"
-""1	LINE	0
-	colorscheme onedark
-|3,1,1,1,1,0,1726050973,"colorscheme onedark"
+	print(x)
+	
+|3,0,0,1,2,0,1725938526,"print(x)",""
+"1	LINE	0
+	)
+|3,0,1,1,1,0,1728353713,")"
 "2	LINE	0
-	set nocursorline
-|3,0,2,1,1,0,1725945242,"set nocursorline"
+	participantesAssiduos = list(set(palestra1.intersection(palestra2,palestra3)).sort())
+|3,0,2,1,1,0,1728352716,"participantesAssiduos = list(set(palestra1.intersection(palestra2,palestra3)).sort())"
 "3	LINE	0
-	set nocursorcolumn
-|3,0,3,1,1,0,1725945241,"set nocursorcolumn"
+	participantesAssiduos = (list(palestra1.intersection(palestra2,palestra3)).sort())
+|3,0,3,1,1,0,1728352560,"participantesAssiduos = (list(palestra1.intersection(palestra2,palestra3)).sort())"
 "4	LINE	0
-	print(new_nums_4)
-|3,0,4,1,1,0,1724808367,"print(new_nums_4)"
+	participantesAssiduos = (list(palestra1.intersection(palestra2,palestra3)).sort())
+|3,0,4,1,1,0,1728352548,"participantesAssiduos = (list(palestra1.intersection(palestra2,palestra3)).sort())"
 "5	LINE	0
-	new_nums_4 = num + 1 for num in range(1,3)
-|3,0,5,1,1,0,1724808366,"new_nums_4 = num + 1 for num in range(1,3)"
-"6	CHAR	0
-	new_nums_2 = [num = num + 1 for num in nums]
-	print(new_nums_2
-|3,0,6,0,2,0,1724807989,"new_nums_2 = [num = num + 1 for num in nums]","print(new_nums_2"
+	participantesAssiduos = set(list(palestra1.intersection(palestra2,palestra3)).sort())
+|3,0,5,1,1,0,1728352520,"participantesAssiduos = set(list(palestra1.intersection(palestra2,palestra3)).sort())"
+"6	LINE	0
+	}
+|3,0,6,1,1,0,1728352374,"}"
 "7	LINE	0
-	    new_nums = [12,24,36,48]
-|3,0,7,1,1,0,1724807137,"    new_nums = [12,24,36,48]"
+	    "Junaid Hogan",
+|3,0,7,1,1,0,1728352373,"    \"Junaid Hogan\","
 "8	LINE	0
-	    new_nums = [12,24,36,48]
-|3,0,8,1,1,0,1724807127,"    new_nums = [12,24,36,48]"
-"-	CHAR	0
-	"
-|3,0,36,0,1,0,1725945262,"\""
+	    "Leanne Fields",
+|3,0,8,1,1,0,1728352370,"    \"Leanne Fields\","
+"9	LINE	0
+	    "Keziah Shaw",
+|3,0,9,1,1,0,1728352370,"    \"Keziah Shaw\","
+""-	CHAR	0
+	t
+|3,1,36,0,1,0,1728353939,"t"
 
 # global variables:
 
 # File marks:
-'0  11  0  ~/NERD_tree_tab_1
-|4,48,11,0,1726052965,"~/NERD_tree_tab_1"
-'1  1  24  ~/.ssh/id_ed25519.pub
-|4,49,1,24,1726052757,"~/.ssh/id_ed25519.pub"
-'2  55  25  ~/.vimrc
-|4,50,55,25,1726051953,"~/.vimrc"
-'3  55  26  ~/.vimrc
-|4,51,55,26,1726051842,"~/.vimrc"
-'4  189  0  ~/.vimrc
-|4,52,189,0,1726051249,"~/.vimrc"
-'5  188  0  ~/.vimrc
-|4,53,188,0,1726051249,"~/.vimrc"
-'6  189  0  ~/.vimrc
-|4,54,189,0,1726051249,"~/.vimrc"
-'7  188  0  ~/.vimrc
-|4,55,188,0,1726051249,"~/.vimrc"
-'8  160  0  ~/.vimrc
-|4,56,160,0,1726051205,"~/.vimrc"
-'9  160  0  ~/.vimrc
-|4,57,160,0,1726051205,"~/.vimrc"
+'0  62  0  ~/VirtualBox VMs/pmtech/pmtech.vbox-prev
+|4,48,62,0,1731286224,"~/VirtualBox VMs/pmtech/pmtech.vbox-prev"
+'1  1  0  ~/VirtualBox VMs/pmtech/pmtechdate.sh
+|4,49,1,0,1731285764,"~/VirtualBox VMs/pmtech/pmtechdate.sh"
+'2  280  0  ~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html
+|4,50,280,0,1730668521,"~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html"
+'3  22  17  ~/ex-listas.py
+|4,51,22,17,1728356624,"~/ex-listas.py"
+'4  97  29  ~/.vimrc.local
+|4,52,97,29,1728351967,"~/.vimrc.local"
+'5  2  0  ~/exercicio_lista.py
+|4,53,2,0,1728351600,"~/exercicio_lista.py"
+'6  189  0  ~/.vimrc.local
+|4,54,189,0,1725947094,"~/.vimrc.local"
+'7  189  0  ~/.vimrc.local
+|4,55,189,0,1725947094,"~/.vimrc.local"
+'8  539  0  ~/.vimrc
+|4,56,539,0,1725947066,"~/.vimrc"
+'9  189  0  ~/.vimrc.local
+|4,57,189,0,1725945377,"~/.vimrc.local"
 
 # Jumplist (newest first):
--'  11  0  ~/NERD_tree_tab_1
-|4,39,11,0,1726052965,"~/NERD_tree_tab_1"
--'  1  24  ~/.ssh/id_ed25519.pub
-|4,39,1,24,1726052757,"~/.ssh/id_ed25519.pub"
--'  1  0  ~/NERD_tree_tab_1
-|4,39,1,0,1726051982,"~/NERD_tree_tab_1"
--'  55  25  ~/.vimrc
-|4,39,55,25,1726051953,"~/.vimrc"
--'  55  25  ~/.vimrc
-|4,39,55,25,1726051953,"~/.vimrc"
--'  55  26  ~/.vimrc
-|4,39,55,26,1726051842,"~/.vimrc"
--'  55  26  ~/.vimrc
-|4,39,55,26,1726051842,"~/.vimrc"
--'  55  26  ~/.vimrc
-|4,39,55,26,1726051842,"~/.vimrc"
--'  55  26  ~/.vimrc
-|4,39,55,26,1726051842,"~/.vimrc"
--'  189  0  ~/.vimrc
-|4,39,189,0,1726051521,"~/.vimrc"
--'  189  0  ~/.vimrc
-|4,39,189,0,1726051521,"~/.vimrc"
--'  189  0  ~/.vimrc
-|4,39,189,0,1726051521,"~/.vimrc"
--'  189  0  ~/.vimrc
-|4,39,189,0,1726051521,"~/.vimrc"
--'  189  0  ~/.vimrc
-|4,39,189,0,1726051521,"~/.vimrc"
--'  189  0  ~/.vimrc
-|4,39,189,0,1726051521,"~/.vimrc"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  3  19  ~/teste2.py
-|4,39,3,19,1726051507,"~/teste2.py"
--'  188  0  ~/.vimrc
-|4,39,188,0,1726051249,"~/.vimrc"
--'  188  0  ~/.vimrc
-|4,39,188,0,1726051249,"~/.vimrc"
--'  188  0  ~/.vimrc
-|4,39,188,0,1726051249,"~/.vimrc"
--'  188  0  ~/.vimrc
-|4,39,188,0,1726051249,"~/.vimrc"
--'  188  0  ~/.vimrc
-|4,39,188,0,1726051249,"~/.vimrc"
--'  188  0  ~/.vimrc
-|4,39,188,0,1726051249,"~/.vimrc"
--'  188  0  ~/.vimrc
-|4,39,188,0,1726051249,"~/.vimrc"
--'  188  0  ~/.vimrc
-|4,39,188,0,1726051249,"~/.vimrc"
--'  188  0  ~/.vimrc
-|4,39,188,0,1726051249,"~/.vimrc"
--'  188  0  ~/.vimrc
-|4,39,188,0,1726051249,"~/.vimrc"
--'  160  0  ~/.vimrc
-|4,39,160,0,1726051209,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051209,"~/.vimrc"
--'  160  0  ~/.vimrc
-|4,39,160,0,1726051209,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051209,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051209,"~/.vimrc"
--'  160  0  ~/.vimrc
-|4,39,160,0,1726051209,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051209,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051209,"~/.vimrc"
--'  160  0  ~/.vimrc
-|4,39,160,0,1726051209,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051209,"~/.vimrc"
--'  160  0  ~/.vimrc
-|4,39,160,0,1726051209,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051209,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051209,"~/.vimrc"
--'  160  0  ~/.vimrc
-|4,39,160,0,1726051209,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051209,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051209,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051205,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051205,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051205,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051205,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051205,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051205,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051205,"~/.vimrc"
--'  159  0  ~/.vimrc
-|4,39,159,0,1726051205,"~/.vimrc"
--'  236  0  ~/.vimrc
-|4,39,236,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  236  0  ~/.vimrc
-|4,39,236,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  236  0  ~/.vimrc
-|4,39,236,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  236  0  ~/.vimrc
-|4,39,236,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  236  0  ~/.vimrc
-|4,39,236,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  236  0  ~/.vimrc
-|4,39,236,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  235  0  ~/.vimrc
-|4,39,235,0,1726051181,"~/.vimrc"
--'  202  29  ~/.vimrc.local
-|4,39,202,29,1726051152,"~/.vimrc.local"
--'  202  29  ~/.vimrc.local
-|4,39,202,29,1726051152,"~/.vimrc.local"
--'  202  29  ~/.vimrc.local
-|4,39,202,29,1726051152,"~/.vimrc.local"
--'  202  29  ~/.vimrc.local
-|4,39,202,29,1726051152,"~/.vimrc.local"
--'  202  29  ~/.vimrc.local
-|4,39,202,29,1726051152,"~/.vimrc.local"
--'  202  29  ~/.vimrc.local
-|4,39,202,29,1726051152,"~/.vimrc.local"
--'  202  29  ~/.vimrc.local
-|4,39,202,29,1726051152,"~/.vimrc.local"
--'  202  29  ~/.vimrc.local
-|4,39,202,29,1726051152,"~/.vimrc.local"
--'  202  29  ~/.vimrc.local
-|4,39,202,29,1726051152,"~/.vimrc.local"
--'  202  29  ~/.vimrc.local
-|4,39,202,29,1726051152,"~/.vimrc.local"
--'  202  29  ~/.vimrc.local
-|4,39,202,29,1726051152,"~/.vimrc.local"
+-'  62  0  ~/VirtualBox VMs/pmtech/pmtech.vbox-prev
+|4,39,62,0,1731286224,"~/VirtualBox VMs/pmtech/pmtech.vbox-prev"
+-'  1  0  ~/VirtualBox VMs/pmtech/pmtech.vbox-prev
+|4,39,1,0,1731286137,"~/VirtualBox VMs/pmtech/pmtech.vbox-prev"
+-'  1  0  ~/VirtualBox VMs/pmtech/pmtechdate.sh
+|4,39,1,0,1731285764,"~/VirtualBox VMs/pmtech/pmtechdate.sh"
+-'  1  0  ~/VirtualBox VMs/pmtech/pmtechdate.sh
+|4,39,1,0,1731285764,"~/VirtualBox VMs/pmtech/pmtechdate.sh"
+-'  280  0  ~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html
+|4,39,280,0,1730668521,"~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html"
+-'  280  0  ~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html
+|4,39,280,0,1730668521,"~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html"
+-'  280  0  ~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html
+|4,39,280,0,1730668521,"~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html"
+-'  280  0  ~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html
+|4,39,280,0,1730668521,"~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html"
+-'  1  0  ~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html
+|4,39,1,0,1730668494,"~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html"
+-'  1  0  ~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html
+|4,39,1,0,1730668494,"~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html"
+-'  1  0  ~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html
+|4,39,1,0,1730668494,"~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html"
+-'  1  0  ~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html
+|4,39,1,0,1730668494,"~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  22  17  ~/ex-listas.py
+|4,39,22,17,1728356624,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
+-'  29  0  ~/ex-listas.py
+|4,39,29,0,1728352719,"~/ex-listas.py"
 
 # History of marks within files (newest to oldest):
 
-> ~/teste2.py
-	*	1726052959	0
-	"	5	20
-	^	5	20
-	.	5	10
-	+	5	18
-	+	2	26
-	+	3	6
-	+	2	34
-	+	5	11
-	+	5	10
+> ~/VirtualBox VMs/pmtech/pmtech.vbox-prev
+	*	1731286221	0
+	"	62	0
 
-> ~/.ssh/id_ed25519.pub
-	*	1726052751	0
-	"	1	24
+> ~/VirtualBox VMs/pmtech/pmtechdate.sh
+	*	1731285762	0
+	"	1	0
+
+> ~/Downloads/Takeout/Keep/2024-10-30T05_19_16.735-03_00.html
+	*	1730668517	0
+	"	280	0
+
+> ~/ex-listas.py
+	*	1728356436	0
+	"	22	17
+	^	29	34
+	.	29	33
+	+	1	0
+	+	26	0
+	+	29	71
+	+	29	26
+	+	30	0
+	+	31	0
+	+	29	67
+	+	26	0
+	+	27	0
+	+	29	84
+	+	29	0
+	+	29	85
+	+	28	84
+	+	29	33
+	+	28	78
+	+	29	0
+	+	30	0
+	+	29	0
+	+	29	33
+	e	28	28
+
+> ~/learning_python/notes/data_structures/lists.py
+	*	1728356433	0
+	"	61	23
 
 > ~/NERD_tree_tab_1
-	*	1726051986	0
-	"	11	0
+	*	1728352934	0
+	"	20	8
 	.	1	0
 	+	1	0
 
-> ~/.vimrc
-	*	1726051948	0
-	"	55	25
-	^	55	26
-	.	55	26
-	+	89	0
-	+	290	0
-	+	291	2
-	+	292	2
-	+	293	1
-	+	294	1
-	+	295	1
-	+	296	0
-	+	185	2
-	+	186	2
-	+	187	2
-	+	188	2
-	+	208	0
-	+	290	0
-	+	291	3
-	+	292	1
-	+	293	1
-	+	294	1
-	+	295	1
-	+	296	0
-	+	291	1
-	+	308	0
-	+	309	2
-	+	310	2
-	+	311	0
-	+	308	0
-	+	309	2
-	+	310	2
-	+	311	0
-	+	185	2
-	+	186	2
-	+	187	2
-	+	188	2
-	+	265	0
-	+	264	0
-	+	263	0
-	+	264	0
-	+	265	0
-	+	138	18
-	+	138	15
-	+	268	42
-	+	138	0
-	+	208	0
-	+	161	0
-	+	160	18
-	+	159	0
-	+	160	0
-	+	162	0
-	+	159	0
-	+	236	1
-	+	157	10
-	+	55	26
-
-> /usr/share/vim/vim91/doc/help.txt
-	*	1726051264	0
-	"	1	0
+> ~/learning_python/notes/data_structures/sets.py
+	*	1728352924	0
+	"	13	35
 
 > ~/.vimrc.local
-	*	1726051150	0
-	"	202	29
-	^	96	30
-	.	96	29
-	+	191	0
+	*	1728351965	0
+	"	97	29
+	^	97	30
+	.	97	29
+	+	189	0
+	+	190	4
+	+	191	4
 	+	192	4
-	+	193	4
-	+	194	4
-	+	192	3
-	+	88	18
-	+	85	0
-	+	87	0
-	+	88	0
-	+	89	0
-	+	96	29
+	+	193	0
+	+	85	18
+	+	97	29
 
-> ~/vim.rc.local
-	*	1726050269	0
-	"	1	0
-
-> ~/datacamp/list-comp.py
-	*	1725993170	0
-	"	19	13
-	^	15	17
-	.	19	13
-	+	1	0
-	+	7	5
-	+	6	29
-	+	7	5
-	+	7	14
-	+	8	1
-	+	6	25
-	+	6	26
-	+	6	0
-	+	4	0
-	+	6	19
-	+	7	5
-	+	8	0
-	+	4	12
-	+	1	22
-	+	11	16
-	+	11	0
-	+	12	16
-	+	11	14
-	+	14	37
-	+	20	34
-	+	15	17
-	+	20	0
-	+	20	16
-	+	14	23
-	+	20	28
-	+	14	31
-	+	20	0
-	+	14	21
-	+	19	13
-	i	6	22
-	x	6	22
-
-> ~/e2.py
-	*	1725993164	0
-	"	1	0
-
-> ~/utfpr/README.md
-	*	1725950927	0
-	"	1	0
-	^	1	0
+> ~/exercicio_lista.py
+	*	1728351596	0
+	"	2	0
+	^	2	1
 	.	2	0
 	+	2	0
 
-> ~/datacamp/NERD_tree_tab_1
-	*	1725949926	0
-	"	18	0
+> ~/.vimrc
+	*	1725947063	0
+	"	539	0
+	^	53	10
+	.	53	9
+	+	84	16
+	+	82	14
+	+	83	15
+	+	84	16
+	+	88	15
+	+	85	1
+	+	86	1
+	+	90	0
+	+	321	0
+	+	115	0
+	+	115	18
+	+	82	0
+	+	80	0
+	+	82	0
+	+	83	0
+	+	82	17
+	+	84	0
+	+	65	0
+	+	83	0
+	+	77	0
+	+	84	0
+	+	76	0
+	+	80	50
+	+	120	0
+	+	104	0
+	+	120	0
+	+	115	0
+	+	115	46
+	+	115	1
+	+	115	0
+	+	115	22
+	+	115	19
+	+	115	0
+	+	115	27
+	+	115	0
+	+	115	18
+	+	115	28
+	+	115	0
+	+	159	0
+	+	136	0
+	+	137	0
+	+	148	21
+	+	157	0
+	+	156	0
+	+	121	6
+	+	121	13
+	+	121	27
+	+	121	44
+	+	121	34
+	+	148	0
+	+	149	0
+	+	149	10
+	+	149	35
+	+	121	13
+	+	149	0
+	+	152	0
+	+	150	0
+	+	149	0
+	+	150	0
+	+	151	0
+	+	150	0
+	+	18	0
+	+	61	0
+	+	90	0
+	+	99	0
+	+	115	0
+	+	136	0
+	+	159	0
+	+	212	61
+	+	211	59
+	+	212	55
+	+	211	56
+	+	212	54
+	+	211	55
+	+	212	61
+	+	240	1
+	+	115	0
+	+	164	0
+	+	208	0
+	+	207	0
+	+	169	35
+	+	172	0
+	+	171	18
+	+	121	13
+	+	128	0
+	+	121	13
+	+	123	20
+	+	123	0
+	+	124	17
+	+	132	19
+	+	127	5
+	+	126	24
+	+	128	0
+	+	130	16
+	+	121	0
+	+	138	25
+	+	52	21
+	+	55	0
+	+	54	26
+	+	53	9
+	e	149	32
+
+> ~/.vim/autoload/plug.vim
+	*	1725942223	0
+	"	320	6
+
+> ~/.vim/NERD_tree_tab_1
+	*	1725942198	0
+	"	8	0
 	.	1	0
 	+	1	0
 
-> ~/terminal
-	*	1725946757	0
-	"	1	0
-
-> ~/datacamp/README.md
-	*	1725946502	0
-	"	1	0
-
-> ~/learning_python/poem-generator/poem-generator.py
-	*	1725945559	0
-	"	22	7
+> ~/teste.py
+	*	1725938794	0
+	"	11	0
+	^	3	4
+	.	10	0
+	+	12	5
+	+	12	60
+	+	12	4
+	+	12	16
+	+	12	17
+	+	12	0
+	+	12	25
+	+	12	17
+	+	12	21
+	+	12	16
+	+	12	10
+	+	12	0
+	+	12	21
+	+	12	10
+	+	12	15
+	+	12	17
+	+	12	11
+	+	12	0
+	+	12	1
+	+	12	0
+	+	12	5
+	+	12	0
+	+	1	8
+	+	13	0
+	+	14	17
+	+	1	32
+	+	11	8
+	+	11	3
+	+	11	0
+	+	3	0
+	+	10	0
 
 > ~/__Tagbar__.1
-	*	1725945428	0
-	"	8	3
-	.	9	0
-	+	122	0
-	+	26	0
-	+	9	0
+	*	1725938770	0
+	"	3	1
+	.	7	0
+	+	7	0
 
-> ~/.vimrc]
-	*	1725944333	0
+> ~/source/.vimrc
+	*	1725937862	0
 	"	1	0
 
-> ~/learning_python/ex/age_calculator.py
-	*	1725942368	0
-	"	4	12
+> ~/.vimrc-backup
+	*	1725937543	0
+	"	162	0
+	.	24	0
+	+	11	0
+	+	36	0
+	+	35	0
+	+	36	0
+	+	11	0
+	+	36	0
+	+	39	0
+	+	40	0
+	+	45	0
+	+	43	0
+	+	19	0
+	+	27	0
+	+	58	0
+	+	62	0
+	+	76	0
+	+	128	0
+	+	105	0
+	+	166	0
+	+	168	1
+	+	233	15
+	+	60	1
+	+	150	1
+	+	151	1
+	+	152	1
+	+	153	1
+	+	178	0
+	+	175	75
+	+	174	72
+	+	175	12
+	+	176	72
+	+	177	0
+	+	178	0
+	+	198	0
+	+	199	16
+	+	198	79
+	+	201	0
+	+	244	0
+	+	246	0
+	+	248	0
+	+	163	71
+	+	165	74
+	+	163	74
+	+	173	0
+	+	142	0
+	+	97	79
+	+	98	13
+	+	99	79
+	+	165	1
+	+	78	0
+	+	79	0
+	+	78	1
+	+	80	1
+	+	83	1
+	+	85	0
+	+	89	0
+	+	85	0
+	+	86	0
+	+	73	74
+	+	74	16
+	+	75	74
+	+	63	0
+	+	65	0
+	+	67	0
+	+	70	0
+	+	71	0
+	+	64	8
+	+	66	0
+	+	67	0
+	+	68	0
+	+	69	0
+	+	67	0
+	+	20	0
+	+	21	0
+	+	24	0
 
-> ~/learning_python/Untitled.ipynb
-	*	1725942313	0
-	"	6	0
+> ~/Downloads/generate(1).vim
+	*	1725933713	0
+	"	52	16
 
-> ~/learning_python/LICENSE
-	*	1725942306	0
-	"	5	20
+> ~/Downloads/.vimrc
+	*	1725933608	0
+	"	1	0
+
+> /etc/samba/smb.conf
+	*	1725016635	0
+	"	248	26
+	^	248	27
+	.	248	26
+	+	248	26
+
+> ~/.profile
+	*	1724039306	0
+	"	26	66
+	^	26	67
+	.	26	66
+	+	26	66
+
+> ~/.ssh/authorized_keys
+	*	1723786542	0
+	"	2	0
+	^	2	0
+	.	1	93
+	+	1	93
+
+> ~/.ssh/id_ed25519.pub
+	*	1723786483	0
+	"	1	0
 
 > ~/.vim/.vimrc
-	*	1725939391	0
+	*	1723687340	0
 	"	1	0
 
-> ~/datacamp/prj-teste1/bin/.vimrc
-	*	1723904223	0
+> ~/source/github.com/obsidian/MyVault/.gitignore
+	*	1722018518	0
 	"	1	0
 
-> ~/datacamp/prj-teste1/bin/teste.py
-	*	1723904215	0
-	"	4	21
-	^	4	14
-	.	4	13
-	+	2	86
-	+	4	13
-
-> ~/venv/venv1/teste.py
-	*	1723847327	0
-	"	4	20
-	^	4	21
-	.	4	20
-	+	5	14
-	+	4	20
-
-> /etc/ssh/sshd_config
-	*	1723786925	0
-	"	39	22
+> ~/source/github.com/obsidian/.gitignore
+	*	1722018482	0
+	"	1	0

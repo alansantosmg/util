@@ -1,0 +1,60 @@
+[2024-10-27 14:45:09.206] [info] Logseq App(0.10.9) Starting... 
+[2024-10-27 14:45:09.214] [info] restore proxy settings {:type "system"}
+[2024-10-27 14:45:09.215] [info] set proxy to {:type "system"}
+[2024-10-27 14:45:11.718] [debug] :electron.handler/watch-dir {:path "/home/alan/.logseq/config"}
+[2024-10-27 14:46:17.814] [info] :electron.handler/open-dir open folder selection dialog
+[2024-10-27 14:46:39.311] [debug] :electron.handler/open-dir {:path "/home/alan/logseq"}
+[2024-10-27 14:46:39.499] [debug] :electron.handler/watch-dir {:path "/home/alan/logseq"}
+[2024-10-27 14:49:16.331] [debug] [Marketplace] === Installing: ttytm/logseq-allday-theme ===
+[2024-10-27 14:49:16.937] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-10-27 14:49:17.467] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/ttytm/logseq-allday-theme/releases/latest :status 200
+[2024-10-27 14:49:17.470] [debug] [Marketplace] Release latest: v1.1.19  from null
+[2024-10-27 14:49:18.031] [debug] [Marketplace] [Updated DONE] v1.1.19
+[2024-10-27 14:49:24.959] [debug] [Marketplace] === Installing: femto-code/logseq-one-theme ===
+[2024-10-27 14:49:25.546] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/femto-code/logseq-one-theme/releases/latest :status 200
+[2024-10-27 14:49:25.548] [debug] [Marketplace] Release latest: v0.3.1  from https://api.github.com/repos/femto-code/logseq-one-theme/releases/assets/155811221
+[2024-10-27 14:49:26.627] [debug] [Marketplace] [Updated DONE] v0.3.1
+[2024-10-27 14:49:35.056] [debug] [Marketplace] === Installing: Bad3r/Logseq-Nord-Theme ===
+[2024-10-27 14:49:35.790] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/Bad3r/Logseq-Nord-Theme/releases/latest :status 200
+[2024-10-27 14:49:35.791] [debug] [Marketplace] Release latest: 0.0.19  from https://api.github.com/repos/Bad3r/Logseq-Nord-Theme/releases/assets/158743397
+[2024-10-27 14:49:36.827] [debug] [Marketplace] [Updated DONE] 0.0.19
+[2024-10-27 14:49:42.563] [debug] [Marketplace] === Installing: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-10-27 14:49:43.103] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/latest :status 200
+[2024-10-27 14:49:43.104] [debug] [Marketplace] Release latest: v1.6.0  from https://api.github.com/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/assets/178040263
+[2024-10-27 14:49:44.123] [debug] [Marketplace] [Updated DONE] v1.6.0
+[2024-10-27 14:49:50.177] [debug] [Marketplace] === Installing: tzcl/logseq-monokai ===
+[2024-10-27 14:49:50.744] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/tzcl/logseq-monokai/releases/latest :status 200
+[2024-10-27 14:49:50.745] [debug] [Marketplace] Release latest: v0.1.1  from https://api.github.com/repos/tzcl/logseq-monokai/releases/assets/157080530
+[2024-10-27 14:49:51.940] [debug] [Marketplace] [Updated DONE] v0.1.1
+[2024-10-27 14:50:02.839] [debug] [Marketplace] === Installing: sethfair/logseq-atlas-theme ===
+[2024-10-27 14:50:03.757] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sethfair/logseq-atlas-theme/releases/latest :status 200
+[2024-10-27 14:50:03.759] [debug] [Marketplace] Release latest: v0.3.5  from https://api.github.com/repos/sethfair/logseq-atlas-theme/releases/assets/83811325
+[2024-10-27 14:50:05.298] [debug] [Marketplace] [Updated DONE] v0.3.5
+[2024-10-27 14:50:09.293] [debug] [Marketplace] === Installing: pengx17/logseq-dev-theme ===
+[2024-10-27 14:50:10.820] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/pengx17/logseq-dev-theme/releases/latest :status 200
+[2024-10-27 14:50:10.823] [debug] [Marketplace] Release latest: v1.26.17  from https://api.github.com/repos/pengx17/logseq-dev-theme/releases/assets/107963191
+[2024-10-27 14:50:11.922] [debug] [Marketplace] [Updated DONE] v1.26.17
+[2024-10-27 14:50:14.942] [debug] [Marketplace] === Installing: catppuccin/logseq ===
+[2024-10-27 14:50:15.546] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/catppuccin/logseq/releases/latest :status 200
+[2024-10-27 14:50:15.548] [debug] [Marketplace] Release latest: v0.6.4  from https://api.github.com/repos/catppuccin/logseq/releases/assets/200087122
+[2024-10-27 14:50:16.606] [debug] [Marketplace] [Updated DONE] v0.6.4
+[2024-10-27 14:50:30.559] [debug] [Marketplace] === Installing: rcvd/logseq-craft-theme ===
+[2024-10-27 14:50:31.071] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-10-27 14:50:31.591] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/rcvd/logseq-craft-theme/releases/latest :status 200
+[2024-10-27 14:50:31.592] [debug] [Marketplace] Release latest: v0.0.7  from null
+[2024-10-27 14:50:32.410] [debug] [Marketplace] [Updated DONE] v0.0.7
+[2024-10-27 14:50:35.730] [debug] [Marketplace] === Installing: g1eny0ung/logseq-github-theme ===
+[2024-10-27 14:50:37.137] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/g1eny0ung/logseq-github-theme/releases/latest :status 200
+[2024-10-27 14:50:37.139] [debug] [Marketplace] Release latest: v2.0.1  from null
+[2024-10-27 14:50:37.794] [debug] [Marketplace] [Updated DONE] v2.0.1
+[2024-10-27 14:54:12.929] [info] new-window https://blog.logseq.com/how-to-setup-and-use-logseq-sync/
+[2024-10-27 14:54:20.631] [info] new-window https://blog.logseq.com/how-to-setup-and-use-logseq-sync/
+[2024-10-27 14:54:59.191] [info] new-window https://blog.logseq.com/how-to-setup-and-use-logseq-sync/
+[2024-10-27 14:58:29.635] [debug] window-all-closed Quitting...
+[2024-10-27 15:32:27.751] [info] Logseq App(0.10.9) Starting... 
+[2024-10-27 15:32:27.764] [info] restore proxy settings {:type "system"}
+[2024-10-27 15:32:27.765] [info] set proxy to {:type "system"}
+[2024-10-27 15:32:30.293] [debug] :electron.handler/watch-dir {:path "/home/alan/.logseq/config"}
+[2024-10-27 15:32:30.346] [debug] :electron.handler/unwatch-dir {:path "/home/alan/logseq"}
+[2024-10-27 15:32:30.347] [debug] :electron.handler/watch-dir {:path "/home/alan/logseq"}
+[2024-10-27 15:32:33.554] [debug] window-all-closed Quitting...

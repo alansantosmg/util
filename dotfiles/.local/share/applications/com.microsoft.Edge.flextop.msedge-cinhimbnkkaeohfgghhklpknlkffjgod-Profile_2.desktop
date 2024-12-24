@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=YouTube Music
+Exec=flatpak 'run' '--command=/app/bin/edge' 'com.microsoft.Edge' '--profile-directory=Profile 2' '--app-id=cinhimbnkkaeohfgghhklpknlkffjgod' '--app-url=https://music.youtube.com/?source=pwa'
+Icon=msedge-cinhimbnkkaeohfgghhklpknlkffjgod-Profile_2
+NoDisplay=true
+StartupWMClass=crx__cinhimbnkkaeohfgghhklpknlkffjgod
+X-Flatpak-Part-Of=com.microsoft.Edge
+TryExec=/var/lib/flatpak/exports/bin/com.microsoft.Edge

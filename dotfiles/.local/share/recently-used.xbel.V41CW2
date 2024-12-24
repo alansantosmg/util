@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///" added="2024-10-23T00:47:46.706921Z" modified="2024-10-23T00:49:22.804334Z" visited="2024-10-23T00:47:46.706924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:groups>
+          <bookmark:group>baobab</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2024-10-23T00:47:46.706928Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-10-23T00:49:22.804329Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alan/hd1/gnome" added="2024-10-23T00:49:28.155368Z" modified="2024-10-23T00:49:28.155379Z" visited="2024-10-23T00:49:28.155372Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-10-23T00:49:28.155375Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alan/hd1/gnome/installers" added="2024-10-23T00:49:32.691885Z" modified="2024-10-23T00:49:32.691896Z" visited="2024-10-23T00:49:32.691888Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-10-23T00:49:32.691891Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alan/hd1/gnome/installers/DisplayLink%20USB%20Graphics%20Software%20for%20Ubuntu6.0-EXE" added="2024-10-23T00:58:28.229398Z" modified="2024-10-23T01:01:59.825595Z" visited="2024-10-23T00:58:28.229400Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-10-23T01:01:59.825591Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
