@@ -1,0 +1,22 @@
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[MainWindow]
+2 screens: Height=600
+2 screens: Width=800
+2 screens: XPosition=2800
+2 screens: YPosition=235
+2560x1080 screen: Height=690
+2560x1080 screen: Width=1406
+2560x1080 screen: XPosition=490
+2560x1080 screen: YPosition=135
+HDMI-A-0=HDMI-A-0
+HDMI-A-0 eDP=HDMI-A-0
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAHsAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[MainWindowState]
+Splitter=244,555
+
+[Search]
+ScopeSelection=0

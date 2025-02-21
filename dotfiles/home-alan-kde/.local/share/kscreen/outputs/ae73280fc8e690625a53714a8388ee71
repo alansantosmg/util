@@ -1,0 +1,19 @@
+{
+    "id": "ae73280fc8e690625a53714a8388ee71",
+    "metadata": {
+        "fullname": "xrandr-LG Electronics-LG ULTRAWIDE-175181",
+        "name": "HDMI-A-0"
+    },
+    "mode": {
+        "refresh": 74.991455078125,
+        "size": {
+            "height": 1080,
+            "width": 2560
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}

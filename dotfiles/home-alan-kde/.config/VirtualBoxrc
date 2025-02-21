@@ -1,0 +1,8 @@
+[FileDialogSize]
+2 screens: Height=600
+2 screens: Width=1300
+
+[KFileDialog Settings]
+Recent Files[$e]=dunadev.vbox,file:$HOME/VirtualBox VMs/pmtech/pmtech.vbox,file:$HOME/VirtualBox VMs/ubuntu-server1/ubuntu-server1.vbox,file:$HOME/VirtualBox VMs/dunadev/dunadev.vbox
+Recent URLs[$e]=file:$HOME/VirtualBox VMs/dunadev/,file:$HOME/VirtualBox VMs/ubuntu-server1/,file:$HOME/VirtualBox VMs/pmtech/
+detailViewIconSize=16

@@ -1,0 +1,18 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=YouTube
+Exec=/opt/microsoft/msedge/microsoft-edge --profile-directory=Default --app-id=agimnkijcaahngcdmfeangaknmldooml "--app-url=https://www.youtube.com/?feature=ytca"
+Icon=msedge-agimnkijcaahngcdmfeangaknmldooml-Default
+StartupWMClass=crx__agimnkijcaahngcdmfeangaknmldooml
+Actions=Explorar;Inscri--es
+
+[Desktop Action Explorar]
+Name=Explorar
+Exec=/opt/microsoft/msedge/microsoft-edge --profile-directory=Default --app-id=agimnkijcaahngcdmfeangaknmldooml "--app-url=https://www.youtube.com/?feature=ytca" "--app-launch-url-for-shortcuts-menu-item=https://www.youtube.com/feed/explore?feature=app_shortcuts"
+
+[Desktop Action Inscri--es]
+Name=Inscrições
+Exec=/opt/microsoft/msedge/microsoft-edge --profile-directory=Default --app-id=agimnkijcaahngcdmfeangaknmldooml "--app-url=https://www.youtube.com/?feature=ytca" "--app-launch-url-for-shortcuts-menu-item=https://www.youtube.com/feed/subscriptions?feature=app_shortcuts"

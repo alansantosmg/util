@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="102">
+  <name>launch_kcalc</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>lasher003</author>
+  <homepage>https://store.kde.org/p/2159411</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>115</downloads>
+  <installedfile>/home/alan/.local/share/servicemenu-download/kcalc.desktop.tar.gz</installedfile>
+  <id>2159411</id>
+  <releasedate>2024-05-29</releasedate>
+  <summary>&lt;p>Launches kcalc now its where it can really be used.&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/77/64/89/2159411/screenshot-20240529-022352.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/77/64/89/2159411/screenshot-20240529-022352.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxNjk3NDk5NiwibyI6IjEiLCJzIjoiM2E5MDkxMDZjZjRkODIzYzIwODg4NzBkMjhkM2Q1YTlhMDc5NjY0OTE0ZDk4YTRlYmY1YjgzODdjZjdjYzRjYjU5YTViOGM4ZmRkMmEzNjcyYTE0MGE0M2M5NTQwNWFmMTczYjI3MDQ3OTg0OGVjYTAzMmQxN2YzZDAxM2Q0ZTYiLCJ0IjoxNzM5Njc1MDQ3LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjIxOC4yLjIzNSJ9.S1EtScdnY-3NUppe2hPDFW7vdB05FoSLw9_QIBSjODk/kcalc.desktop.tar.gz</payload>
+  <tags>add-on,addon,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

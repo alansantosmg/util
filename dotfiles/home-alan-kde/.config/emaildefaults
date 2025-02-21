@@ -1,0 +1,10 @@
+[Defaults]
+Profile=Default
+
+[PROFILE_Default]
+EmailAddress=alansantosmg@gmail.com
+EmailClient=/opt/microsoft/msedge/microsoft-edge
+FullName=Alan
+Organization=
+ReplyAddr=
+ServerType=

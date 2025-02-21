@@ -1,0 +1,153 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/wallpapers/5120x2880.png,file:$HOME/Downloads/Alps 1638x1024.jpg,file:$HOME/Downloads/2560x1600 (2).png,file:$HOME/Downloads/2560x1600.png,file:$HOME/Pictures/wallpapers/134966-astronomical-object-blue-nature-night-sky-tree-1920x1080.jpg,file:$HOME/Pictures/wallpapers/5120x2880nexusdark.png,file:$HOME/Pictures/wallpapers/5120x2880nexus.png,file:$HOME/Pictures/wallpapers/1080p.jpg,file:$HOME/Pictures/wallpapers/5120x2880b.png
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+2 screens: Height=580
+2 screens: Width=502
+2560x1080 screen: Height=569
+2560x1080 screen: Width=476
+
+[PlasmaTransientsConfig]
+PreloadWeight=0
+
+[PlasmaViews][Panel 119]
+alignment=132
+
+[PlasmaViews][Panel 119][Defaults]
+maxLength=2520
+minLength=2520
+thickness=44
+
+[PlasmaViews][Panel 119][Horizontal2560]
+maxLength=2520
+minLength=2520
+
+[PlasmaViews][Panel 145]
+alignment=132
+
+[PlasmaViews][Panel 145][Defaults]
+maxLength=2520
+minLength=2520
+thickness=44
+
+[PlasmaViews][Panel 145][Horizontal2560]
+maxLength=2520
+minLength=2520
+
+[PlasmaViews][Panel 171]
+alignment=132
+
+[PlasmaViews][Panel 171][Defaults]
+maxLength=2520
+minLength=2520
+thickness=44
+
+[PlasmaViews][Panel 171][Horizontal2560]
+maxLength=2520
+minLength=2520
+
+[PlasmaViews][Panel 197]
+alignment=1
+
+[PlasmaViews][Panel 197][Defaults]
+maxLength=2520
+minLength=1180
+thickness=270
+
+[PlasmaViews][Panel 197][Horizontal2560]
+maxLength=2520
+minLength=1180
+
+[PlasmaViews][Panel 231]
+alignment=132
+
+[PlasmaViews][Panel 231][Defaults]
+maxLength=2520
+minLength=2520
+thickness=54
+
+[PlasmaViews][Panel 231][Horizontal2560]
+maxLength=2520
+minLength=2520
+
+[PlasmaViews][Panel 256]
+alignment=132
+
+[PlasmaViews][Panel 256][Defaults]
+maxLength=2520
+minLength=2520
+thickness=54
+
+[PlasmaViews][Panel 256][Horizontal2560]
+maxLength=2520
+minLength=2520
+
+[PlasmaViews][Panel 281]
+alignment=132
+
+[PlasmaViews][Panel 281][Defaults]
+maxLength=2520
+minLength=2520
+thickness=54
+
+[PlasmaViews][Panel 281][Horizontal2560]
+maxLength=2520
+minLength=2520
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 30]
+alignment=132
+
+[PlasmaViews][Panel 30][Defaults]
+maxLength=2520
+minLength=2520
+thickness=44
+
+[PlasmaViews][Panel 30][Horizontal2560]
+maxLength=2520
+minLength=2520
+
+[PlasmaViews][Panel 306]
+alignment=132
+floating=1
+panelVisibility=0
+
+[PlasmaViews][Panel 306][Defaults]
+maxLength=2560
+minLength=2510
+thickness=40
+
+[PlasmaViews][Panel 306][Horizontal2560]
+maxLength=2560
+minLength=2510
+
+[PlasmaViews][Panel 57]
+alignment=132
+
+[PlasmaViews][Panel 57][Defaults]
+maxLength=2520
+minLength=2520
+thickness=44
+
+[PlasmaViews][Panel 57][Horizontal2560]
+maxLength=2520
+minLength=2520
+
+[PlasmaViews][Panel 84]
+alignment=132
+
+[PlasmaViews][Panel 84][Defaults]
+maxLength=2520
+minLength=2520
+thickness=44
+
+[PlasmaViews][Panel 84][Horizontal2560]
+maxLength=2520
+minLength=2520
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/folderview_fix_recursive_screenmapping.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

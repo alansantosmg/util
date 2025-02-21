@@ -1,0 +1,5 @@
+[General]
+StartSession=Flashcard
+
+[Quiz]
+Percent=true

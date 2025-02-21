@@ -1,0 +1,13 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+2 screens: Height=480
+2 screens: Width=640
+2 screens: XPosition=0
+2 screens: YPosition=0
+ClassName=MainWindow
+HDMI-A-0 eDP=eDP
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled

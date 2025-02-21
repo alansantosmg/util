@@ -1,0 +1,3 @@
+[General]
+Path[$e]=$HOME/.local/share/akonadi_maildir_resource_3
+TopLevelIsContainer=true

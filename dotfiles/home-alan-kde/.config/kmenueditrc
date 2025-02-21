@@ -1,0 +1,11 @@
+[General]
+SplitterSizes=553,758
+
+[MainWindow]
+2 screens: Height=720
+2 screens: Width=1322
+2 screens: XPosition=2469
+2 screens: YPosition=192
+HDMI-A-0 eDP=HDMI-A-0
+State=AAAA/wAAAAD9AAAAAAAABSoAAAKAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

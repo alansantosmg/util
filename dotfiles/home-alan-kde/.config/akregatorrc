@@ -1,0 +1,24 @@
+[$Version]
+update_info=fonts_akregator.upd:Plasma_Fonts_Akregator
+
+[Appearance]
+Fixed Font=Hack
+Sans Serif Font=Noto Sans
+Serif Font=Noto Sans
+Standard Font=Noto Sans
+
+[General]
+ArticleListFeedHeaders=
+ArticleListGroupHeaders=
+SubscriptionListHeaders=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAADBgAAAAIAAAABAAAANwAAAAIAAABkAAABjgAAAAMBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAMAAAGOAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAPoAAAAAGQ=
+
+[HTML Settings]
+Fonts=Noto Sans,Hack,Noto Sans,Noto Sans,0
+MediumFontSize=11
+MinimumFontSize=9
+
+[Migratekde4]
+Version=1
+
+[View]
+Splitter 1 Sizes=402,1163

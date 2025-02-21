@@ -1,0 +1,9 @@
+dom. fev. 16 11:34:24 2025: Bound to ::
+dom. fev. 16 11:34:24 2025: Cannot bind to port 0.0.0.0:6881 : Address already in use
+dom. fev. 16 11:34:24 2025: Bound to TCP port 6881
+dom. fev. 16 11:34:24 2025: Cannot open /home/alan/.local/share/ktorrent/groups : No such file or directory
+dom. fev. 16 11:34:25 2025: Started update timer
+dom. fev. 16 11:34:25 2025: Suppressing sleep
+dom. fev. 16 11:34:25 2025: Stopped update timer
+dom. fev. 16 11:34:25 2025: Stopped suppressing sleep
+dom. fev. 16 11:35:27 2025: Qt Warning: QCommandLineParser: argument list cannot be empty, it should contain at least the executable name

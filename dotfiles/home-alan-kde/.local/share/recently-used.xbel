@@ -1,0 +1,2872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///home/alan/Downloads/microsoft-edge-stable_133.0.3065.69-1_amd64.deb" added="2025-02-15T20:02:22.660000Z" modified="2025-02-15T20:08:59.160000Z" visited="2025-02-15T20:08:59.160000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2025-02-15T20:02:22.660000Z" count="1"/>
+        <bookmark:application name="qapt-deb-installer" exec="qapt-deb-installer %u" modified="2025-02-15T20:08:59.160000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/microsoft-edge-stable_133.0.3065.69-1_amd64(1).deb" added="2025-02-15T20:18:31.087000Z" modified="2025-02-15T20:18:31.087000Z" visited="2025-02-15T20:18:31.087000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="qapt-deb-installer" exec="qapt-deb-installer %u" modified="2025-02-15T20:18:31.087000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://microsoftedge.microsoft.com/addons/detail/plasma-integration/dnnckbejblnejeabhcmhklcaljjpdjeh" added="2025-02-15T20:58:32.724000Z" modified="2025-02-15T20:58:32.724000Z" visited="2025-02-15T20:58:32.724000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="/usr/bin/microsoft-edge-stable %U %u" modified="2025-02-15T20:58:32.724000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alan/Backups" added="2025-02-15T21:29:52.518000Z" modified="2025-02-15T21:29:52.518000Z" visited="2025-02-15T21:29:52.518000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2025-02-15T21:29:52.518000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alan/Movies/filmes%20vistos/vistos/Dune.Part.Two.2024.1080p.WEB-DL.H264.AAC-InMemoryOfEVO/Dune.Part.Two.2024.1080p.WEB-DL.H264.AAC.mkv" added="2025-02-15T21:34:33.894000Z" modified="2025-02-15T21:34:33.894000Z" visited="2025-02-15T21:34:33.894000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Video</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.haruna" exec="haruna %u %u" modified="2025-02-15T21:34:33.894000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/VirtualBox%20VMs/dunadev/dunadev.vbox" added="2025-02-15T21:43:08.580000Z" modified="2025-02-15T21:43:08.580000Z" visited="2025-02-15T21:43:08.580000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="VirtualBox %u" modified="2025-02-15T21:43:08.580000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/VirtualBox%20VMs/ubuntu-server1/ubuntu-server1.vbox" added="2025-02-15T21:44:19.973000Z" modified="2025-02-15T21:44:19.973000Z" visited="2025-02-15T21:44:19.973000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="VirtualBox %u" modified="2025-02-15T21:44:19.973000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/VirtualBox%20VMs/pmtech/pmtech.vbox" added="2025-02-15T21:45:00.930000Z" modified="2025-02-15T21:45:00.930000Z" visited="2025-02-15T21:45:00.930000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="VirtualBox %u" modified="2025-02-15T21:45:00.930000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/01.jpg" added="2025-02-15T22:12:49.994000Z" modified="2025-02-15T22:12:49.994000Z" visited="2025-02-15T22:12:49.994000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-15T22:12:49.994000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/1r1kk9qi00961.png" added="2025-02-15T22:12:50.002000Z" modified="2025-02-16T05:14:16.206000Z" visited="2025-02-16T05:14:16.206000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-15T22:12:50.002000Z" count="1"/>
+        <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:14:16.206000Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/02-Green_Blue_DM-4K.png" added="2025-02-15T22:12:50.007000Z" modified="2025-02-16T05:13:08.574000Z" visited="2025-02-16T05:13:08.574000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-15T22:12:50.007000Z" count="1"/>
+        <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:13:08.574000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/02.jpeg" added="2025-02-15T22:12:50.013000Z" modified="2025-02-16T05:13:16.007000Z" visited="2025-02-16T05:13:16.007000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-15T22:12:50.013000Z" count="1"/>
+        <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:13:16.007000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/92fqkco8lde51.png" added="2025-02-15T22:12:50.020000Z" modified="2025-02-15T22:12:50.020000Z" visited="2025-02-15T22:12:50.020000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-15T22:12:50.020000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/1080p.jpg" added="2025-02-15T22:12:50.026000Z" modified="2025-02-20T20:46:02.726000Z" visited="2025-02-20T20:46:02.726000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-20T20:46:02.726000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/134966-astronomical-object-blue-nature-night-sky-tree-1920x1080.jpg" added="2025-02-15T22:12:50.031000Z" modified="2025-02-20T20:46:21.955000Z" visited="2025-02-20T20:46:21.955000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-20T20:46:21.955000Z" count="2"/>
+        <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-15T22:25:54.005000Z" count="1"/>
+        <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T00:03:12.687000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/506834.jpg" added="2025-02-15T22:12:50.037000Z" modified="2025-02-15T22:12:50.037000Z" visited="2025-02-15T22:12:50.037000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-15T22:12:50.037000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/20200401_bg_planetary-society_curiosity-vera-rubin-ridge_uhd3840x2160.jpg" added="2025-02-15T22:12:50.043000Z" modified="2025-02-20T20:45:00.859000Z" visited="2025-02-20T20:45:00.859000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-15T22:12:50.043000Z" count="1"/>
+        <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-20T20:45:00.859000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/Arrongin-light-wallpaper.png" added="2025-02-15T22:12:50.048000Z" modified="2025-02-15T22:12:50.048000Z" visited="2025-02-15T22:12:50.048000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-15T22:12:50.048000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/photo-1482553978898-c361ecdedb19.jpg" added="2025-02-15T22:14:21.506000Z" modified="2025-02-15T22:14:21.506000Z" visited="2025-02-15T22:14:21.506000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-15T22:14:21.506000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/pxfuel.jpg" added="2025-02-15T22:14:35.359000Z" modified="2025-02-15T22:14:35.359000Z" visited="2025-02-15T22:14:35.359000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-15T22:14:35.359000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/wp8276539-blue-grey-wallpapers.jpg" added="2025-02-15T22:14:58.257000Z" modified="2025-02-16T01:22:40.944000Z" visited="2025-02-16T01:22:40.944000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T01:22:40.944000Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/Screenshot_20250215_202500.png" added="2025-02-15T23:25:00.348000Z" modified="2025-02-15T23:25:00.348000Z" visited="2025-02-15T23:25:00.348000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2025-02-15T23:25:00.348000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/Screenshot_20250215_202518.png" added="2025-02-15T23:25:18.319000Z" modified="2025-02-15T23:25:18.319000Z" visited="2025-02-15T23:25:18.319000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2025-02-15T23:25:18.319000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.plasma-systemmonitor" added="2025-02-15T23:28:23.246000Z" modified="2025-02-15T23:28:23.246000Z" visited="2025-02-15T23:28:23.246000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-15T23:28:23.246000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.artikulate.desktop" added="2025-02-15T23:51:42.882000Z" modified="2025-02-15T23:51:42.882000Z" visited="2025-02-15T23:51:42.882000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-15T23:51:42.882000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/linux.jpg" added="2025-02-15T23:59:17.776000Z" modified="2025-02-15T23:59:17.776000Z" visited="2025-02-15T23:59:17.776000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-15T23:59:17.776000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/mojave-desert-night.jpg" added="2025-02-16T00:03:17.869000Z" modified="2025-02-16T00:03:17.869000Z" visited="2025-02-16T00:03:17.869000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T00:03:17.869000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/photo-1542943444-f661e15d9d11.jpg" added="2025-02-16T00:03:23.649000Z" modified="2025-02-16T00:03:23.649000Z" visited="2025-02-16T00:03:23.649000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T00:03:23.649000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/photo-1542596081-a7c3fc19961e2.jpg" added="2025-02-16T00:03:28.314000Z" modified="2025-02-16T00:03:28.314000Z" visited="2025-02-16T00:03:28.314000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T00:03:28.314000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/photo-1520479627275-3eca80b17ecc.jpg" added="2025-02-16T00:03:36.430000Z" modified="2025-02-16T05:17:07.972000Z" visited="2025-02-16T05:17:07.972000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:17:07.972000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/starry_sky_night_trees_118760_7952x5304.jpg" added="2025-02-16T00:03:46.648000Z" modified="2025-02-16T00:03:46.648000Z" visited="2025-02-16T00:03:46.648000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T00:03:46.648000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/wallpaperflare.com_wallpaper%20(5).jpg" added="2025-02-16T00:03:55.658000Z" modified="2025-02-16T05:15:07.037000Z" visited="2025-02-16T05:15:07.037000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:15:07.037000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/wallpaperflare.com_wallpaper%20(73).jpg" added="2025-02-16T00:04:11.066000Z" modified="2025-02-16T00:04:11.066000Z" visited="2025-02-16T00:04:11.066000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T00:04:11.066000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/wallpaperflare.com_wallpaper%20(73)c.jpg" added="2025-02-16T00:04:13.901000Z" modified="2025-02-16T00:04:13.901000Z" visited="2025-02-16T00:04:13.901000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T00:04:13.901000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/wallpaperflare.com_wallpaper%20(82)e.jpg" added="2025-02-16T00:04:21.564000Z" modified="2025-02-16T00:04:21.564000Z" visited="2025-02-16T00:04:21.564000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T00:04:21.564000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/wp8723856-blue-gray-wallpapers.png" added="2025-02-16T00:04:40.613000Z" modified="2025-02-16T01:37:29.936000Z" visited="2025-02-16T01:37:29.936000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T01:37:29.936000Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/CV_8P-2025.-alan-santos.pdf" added="2025-02-16T00:07:06.304000Z" modified="2025-02-16T00:07:06.304000Z" visited="2025-02-16T00:07:06.304000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-02-16T00:07:06.304000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/cv-alanCatho-2024.pdf" added="2025-02-16T00:08:29.612000Z" modified="2025-02-16T00:08:29.612000Z" visited="2025-02-16T00:08:29.612000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="okularApplication_pdf" exec="okular %U %u" modified="2025-02-16T00:08:29.612000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/rstudio-2024.12.1-563-amd64.deb" added="2025-02-16T00:36:13.997000Z" modified="2025-02-16T00:36:36.460000Z" visited="2025-02-16T00:36:36.460000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="qapt-deb-installer" exec="qapt-deb-installer %u" modified="2025-02-16T00:36:36.460000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="vscode://vscode.github-authentication/did-authenticate?nonce=c111a0d8dd936a32&amp;windowId=1&amp;code=8334319a40c01e863a27&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253Dc111a0d8dd936a32%2526windowId%253D1" added="2025-02-16T01:11:14.534000Z" modified="2025-02-16T01:11:14.534000Z" visited="2025-02-16T01:11:14.534000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code-url-handler" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code-url-handler.desktop /snap/bin/code --force-user-env --open-url %U %u" modified="2025-02-16T01:11:14.534000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/wallpaperflare.com_wallpaper%20(3).jpg" added="2025-02-16T01:23:01.808000Z" modified="2025-02-16T01:23:01.808000Z" visited="2025-02-16T01:23:01.808000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T01:23:01.808000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/road_asphalt_marking_130996_5760x3840.jpg" added="2025-02-16T01:23:24.811000Z" modified="2025-02-16T01:23:24.811000Z" visited="2025-02-16T01:23:24.811000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T01:23:24.811000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/WallpaperDog-20431439.jpg" added="2025-02-16T01:24:23.850000Z" modified="2025-02-16T05:15:58.917000Z" visited="2025-02-16T05:15:58.917000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:15:58.917000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.konversation.desktop" added="2025-02-16T01:52:24.905000Z" modified="2025-02-16T01:52:24.905000Z" visited="2025-02-16T01:52:24.905000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-16T01:52:24.905000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.neochat" added="2025-02-16T01:53:13.877000Z" modified="2025-02-16T01:53:13.877000Z" visited="2025-02-16T01:53:13.877000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-16T01:53:13.877000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.kpat" added="2025-02-16T01:54:24.026000Z" modified="2025-02-16T01:54:24.026000Z" visited="2025-02-16T01:54:24.026000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-16T01:54:24.026000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.ksudoku.desktop" added="2025-02-16T01:54:41.146000Z" modified="2025-02-16T01:54:41.146000Z" visited="2025-02-16T01:54:41.146000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-16T01:54:41.146000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.kmines.desktop" added="2025-02-16T01:54:50.880000Z" modified="2025-02-16T01:54:50.880000Z" visited="2025-02-16T01:54:50.880000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-16T01:54:50.880000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.kmahjongg.desktop" added="2025-02-16T01:59:24.237000Z" modified="2025-02-16T01:59:24.237000Z" visited="2025-02-16T01:59:24.237000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-16T01:59:24.237000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.rkward" added="2025-02-16T02:34:30.823000Z" modified="2025-02-16T02:34:30.823000Z" visited="2025-02-16T02:34:30.823000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-16T02:34:30.823000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.kalgebramobile" added="2025-02-16T02:35:00.481000Z" modified="2025-02-16T02:35:00.481000Z" visited="2025-02-16T02:35:00.481000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-16T02:35:00.481000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.calligra.braindump" added="2025-02-16T02:42:01.391000Z" modified="2025-02-16T02:42:01.391000Z" visited="2025-02-16T02:42:01.391000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-16T02:42:01.391000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://accounts.google.com/o/oauth2/auth?client_id=554041944266.apps.googleusercontent.com&amp;redirect_uri=http://127.0.0.1:45261&amp;scope=https://mail.google.com/%20https://www.googleapis.com/auth/userinfo.email&amp;response_type=code&amp;login_hint=alansantosmg@gmail.com" added="2025-02-16T02:51:53.038000Z" modified="2025-02-16T02:51:53.038000Z" visited="2025-02-16T02:51:53.038000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="/usr/bin/microsoft-edge-stable %U %u" modified="2025-02-16T02:51:53.038000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.knotes.desktop" added="2025-02-16T03:13:47.017000Z" modified="2025-02-16T03:13:47.017000Z" visited="2025-02-16T03:13:47.017000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-16T03:13:47.017000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mailto:montel@kde.org" added="2025-02-16T03:17:14.942000Z" modified="2025-02-16T03:17:14.942000Z" visited="2025-02-16T03:17:14.942000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="/usr/bin/microsoft-edge-stable %U %u" modified="2025-02-16T03:17:14.942000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://www.bbc.co.uk/weather/6301853" added="2025-02-16T03:37:17.862000Z" modified="2025-02-16T03:37:17.862000Z" visited="2025-02-16T03:37:17.862000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="/usr/bin/microsoft-edge-stable %U %u" modified="2025-02-16T03:37:17.862000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/wallpapers/Volna/contents/images/5120x2880.jpg" added="2025-02-16T05:00:50.348000Z" modified="2025-02-16T05:00:50.348000Z" visited="2025-02-16T05:00:50.348000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2025-02-16T05:00:50.348000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/wallpapers/Opal/contents/images/3840x2160.png" added="2025-02-16T05:01:37.663000Z" modified="2025-02-16T05:01:37.663000Z" visited="2025-02-16T05:01:37.663000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2025-02-16T05:01:37.663000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/parc-national-des-hautes-gorges-de-la-riviere-malbaie-ks-2560x1080.jpg" added="2025-02-16T05:03:22.558000Z" modified="2025-02-16T05:03:28.223000Z" visited="2025-02-16T05:03:28.223000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:03:28.223000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/photo-1541439634124-b33597ca3a44b.jpg" added="2025-02-16T05:13:59.183000Z" modified="2025-02-16T05:14:45.923000Z" visited="2025-02-16T05:14:45.923000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:14:45.923000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/download.jpeg" added="2025-02-16T05:14:25.572000Z" modified="2025-02-16T05:14:25.572000Z" visited="2025-02-16T05:14:25.572000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:14:25.572000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/photo-1497044725446-4156b475ea88.jpg" added="2025-02-16T05:14:38.083000Z" modified="2025-02-16T05:14:38.083000Z" visited="2025-02-16T05:14:38.083000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:14:38.083000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/photo-1541439634124-b33597ca3a44.jpg" added="2025-02-16T05:14:53.633000Z" modified="2025-02-16T05:17:17.762000Z" visited="2025-02-16T05:17:17.762000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:17:17.762000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/wallpaperflare.com_wallpaper%20(82)n.jpg" added="2025-02-16T05:15:21.385000Z" modified="2025-02-16T05:15:21.385000Z" visited="2025-02-16T05:15:21.385000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:15:21.385000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/wp8723797-blue-gray-wallpapers.jpg" added="2025-02-16T05:15:31.810000Z" modified="2025-02-16T05:15:31.810000Z" visited="2025-02-16T05:15:31.810000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:15:31.810000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/wp8823393-eye-protection-wallpapers.jpg" added="2025-02-16T05:15:37.262000Z" modified="2025-02-16T05:15:37.262000Z" visited="2025-02-16T05:15:37.262000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:15:37.262000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/wp8737794-eye-protection-desktop-wallpapers.jpg" added="2025-02-16T05:15:42.931000Z" modified="2025-02-16T05:15:42.931000Z" visited="2025-02-16T05:15:42.931000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:15:42.931000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/photo-1707417093272-b05115c0f84d.png" added="2025-02-16T05:16:06.342000Z" modified="2025-02-16T05:16:06.342000Z" visited="2025-02-16T05:16:06.342000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:16:06.342000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/photo-1484715384902-1c29581e5ca7.jpg" added="2025-02-16T05:16:22.978000Z" modified="2025-02-16T05:16:50.721000Z" visited="2025-02-16T05:16:50.721000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:16:50.721000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/glaciers3.jpg" added="2025-02-16T05:16:37.227000Z" modified="2025-02-16T05:16:37.227000Z" visited="2025-02-16T05:16:37.227000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:16:37.227000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/Nordic-mountain-wallpaper.jpg" added="2025-02-16T05:16:44.545000Z" modified="2025-02-16T05:16:44.545000Z" visited="2025-02-16T05:16:44.545000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:16:44.545000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/photo-1498588543704-e0d466ddcfe5.jpg" added="2025-02-16T05:16:56.921000Z" modified="2025-02-16T05:16:56.921000Z" visited="2025-02-16T05:16:56.921000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-16T05:16:56.921000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/wallpapers/Next/contents/images_dark/2560x1440.png" added="2025-02-16T05:19:47.691000Z" modified="2025-02-16T08:05:44.371000Z" visited="2025-02-16T08:05:44.371000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2025-02-16T08:05:44.371000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.kio_gdrive" added="2025-02-16T06:12:51.992000Z" modified="2025-02-16T06:12:51.992000Z" visited="2025-02-16T06:12:51.992000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-16T06:12:51.992000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://docs.kde.org/?application=kioslave5%2Fgdrive" added="2025-02-16T06:14:30.382000Z" modified="2025-02-16T06:14:30.382000Z" visited="2025-02-16T06:14:30.382000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="/usr/bin/microsoft-edge-stable %U %u" modified="2025-02-16T06:14:30.382000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.parley.desktop" added="2025-02-16T06:29:27.752000Z" modified="2025-02-16T06:29:27.752000Z" visited="2025-02-16T06:29:27.752000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-16T06:29:27.752000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://fwupd.github.io/hsi.html#hsi-runtime-suffix" added="2025-02-16T06:31:36.849000Z" modified="2025-02-16T06:31:36.849000Z" visited="2025-02-16T06:31:36.849000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="/usr/bin/microsoft-edge-stable %U %u" modified="2025-02-16T06:31:36.849000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://fwupd.github.io/hsi.html#low-security-level" added="2025-02-16T06:32:18.744000Z" modified="2025-02-16T06:32:18.744000Z" visited="2025-02-16T06:32:18.744000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="/usr/bin/microsoft-edge-stable %U %u" modified="2025-02-16T06:32:18.744000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://duckduckgo.com/?q=Linux%20semantik" added="2025-02-16T06:35:05.230000Z" modified="2025-02-16T06:35:05.230000Z" visited="2025-02-16T06:35:05.230000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="/usr/bin/microsoft-edge-stable %U %u" modified="2025-02-16T06:35:05.230000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/202501BANCOS.zip" added="2025-02-16T07:40:28.343000Z" modified="2025-02-16T07:40:28.343000Z" visited="2025-02-16T07:40:28.343000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2025-02-16T07:40:28.343000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Screenshot_2025-01-31_11-44-57.png" added="2025-02-16T07:40:44.286000Z" modified="2025-02-16T07:40:44.286000Z" visited="2025-02-16T07:40:44.286000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-16T07:40:44.286000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Documents/3%20-%20Agentes-e-problemas.minder" added="2025-02-16T07:48:40.986000Z" modified="2025-02-16T15:05:08.227000Z" visited="2025-02-16T15:05:08.227000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/com.github.phase1geo.minder"/>
+        <bookmark:applications>
+          <bookmark:application name="com.github.phase1geo.minder" exec="com.github.phase1geo.minder %f %u" modified="2025-02-16T15:05:08.227000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/Screenshots/Screenshot_2024-12-15_13-10-14.png" added="2025-02-16T07:49:34.836000Z" modified="2025-02-16T07:49:34.836000Z" visited="2025-02-16T07:49:34.836000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-16T07:49:34.836000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/Screenshots/Screenshot_2024-12-16_02-01-57.png" added="2025-02-16T07:49:41.142000Z" modified="2025-02-16T07:49:41.142000Z" visited="2025-02-16T07:49:41.142000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-16T07:49:41.142000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/Screenshots/Screenshot_2024-12-20_15-01-20.png" added="2025-02-16T07:49:45.891000Z" modified="2025-02-16T07:49:45.891000Z" visited="2025-02-16T07:49:45.891000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-16T07:49:45.891000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/Screenshots/Screenshot_2024-12-05_18-19-57.png" added="2025-02-16T07:49:56.572000Z" modified="2025-02-16T07:49:56.572000Z" visited="2025-02-16T07:49:56.572000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-16T07:49:56.572000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/Screenshots/Screenshot_2024-12-13_16-24-33.png" added="2025-02-16T07:50:05.611000Z" modified="2025-02-16T07:50:05.611000Z" visited="2025-02-16T07:50:05.611000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-16T07:50:05.611000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alan/Movies/filmes/A%20Grande%20Fuga%202024%20WEB-DL%201080p%20x264%20DUAL%205.1/A%20Grande%20Fuga%202024%20WEB-DL%201080p%20x264%20DUAL%205.1.mkv" added="2025-02-16T07:51:49.509000Z" modified="2025-02-16T07:51:49.509000Z" visited="2025-02-16T07:51:49.509000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Video</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.haruna" exec="haruna %u %u" modified="2025-02-16T07:51:49.509000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alan/Movies/filmes/Apartamento.7A.2024.1080p.WEB-DL.DUAL.5.1/Apartamento.7A.2024.1080p.WEB-DL.DUAL.5.1.mkv" added="2025-02-16T07:52:37.976000Z" modified="2025-02-16T07:52:37.976000Z" visited="2025-02-16T07:52:37.976000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Video</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.haruna" exec="haruna %u %u" modified="2025-02-16T07:52:37.976000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alan/Movies/filmes/Assassinato.do.Bolo.de.Cenoura.Um.Misterio.de.Hannah.Swensen.2023.1080p.WEB-DL.x264.DUAL.2.0/Assassinato.do.Bolo.de.Cenoura.Um.Misterio.de.Hannah.Swensen.2023.1080p.WEB-DL.x264.DUAL.2.0.mkv" added="2025-02-16T07:53:06.948000Z" modified="2025-02-16T07:53:06.948000Z" visited="2025-02-16T07:53:06.948000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Video</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.haruna" exec="haruna %u %u" modified="2025-02-16T07:53:06.948000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/IMG-20250208-WA0008.jpg" added="2025-02-16T12:12:47.817000Z" modified="2025-02-16T12:12:47.817000Z" visited="2025-02-16T12:12:47.817000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-16T12:12:47.817000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.yakuake.desktop" added="2025-02-16T12:48:57.895000Z" modified="2025-02-16T12:48:57.895000Z" visited="2025-02-16T12:48:57.895000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2025-02-16T12:48:57.895000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alan/Movies/filmes%20vistos/vistos/Blade%20Runner,%20o%20Ca%C3%A7ador%20de%20Andr%C3%B3ides%201080p%20(1982)%20Dual%20%C3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo/Blade%20Runner,%20o%20Ca%C3%A7ador%20de%20Andr%C3%B3ides%201080p%20(1982)%20Dual%20%C3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo.mkv" added="2025-02-16T13:31:07.255000Z" modified="2025-02-16T13:35:15.174000Z" visited="2025-02-16T13:35:15.174000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Video</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="/usr/bin/vlc --started-from-file %U %u" modified="2025-02-16T13:35:15.174000Z" count="2"/>
+        <bookmark:application name="org.kde.haruna" exec="haruna %u %u" modified="2025-02-16T13:34:56.114000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/Screenshot_20250216_105935.png" added="2025-02-16T13:59:36.080000Z" modified="2025-02-16T14:00:36.379000Z" visited="2025-02-16T14:00:36.379000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2025-02-16T13:59:36.080000Z" count="1"/>
+        <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-16T14:00:36.379000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/Screenshot_20250216_110003.png" added="2025-02-16T14:00:12.174000Z" modified="2025-02-16T14:00:12.174000Z" visited="2025-02-16T14:00:12.174000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %u" modified="2025-02-16T14:00:12.174000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Engenharia%20de%20Software%20para%20Ci%C3%AAncia%20de%20Dados%20(Marcos%20Kalinowski,%20Tatiana%20Escovedo%20etc.)%20(Z-Library).epub" added="2025-02-16T14:57:53.013000Z" modified="2025-02-16T14:58:21.763000Z" visited="2025-02-16T14:58:21.763000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/epub+zip"/>
+        <bookmark:applications>
+          <bookmark:application name="calibre-ebook-viewer" exec="ebook-viewer %f %u" modified="2025-02-16T14:57:53.013000Z" count="1"/>
+        <bookmark:application name="okularApplication_epub" exec="okular %U %u" modified="2025-02-16T14:58:21.763000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/1739327588852.jpeg" added="2025-02-16T14:59:34.311000Z" modified="2025-02-16T14:59:34.311000Z" visited="2025-02-16T14:59:34.311000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-16T14:59:34.311000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Documents/Voucher%20_%20Ingresso%20com%20Desconto.pdf" added="2025-02-16T15:02:26.743000Z" modified="2025-02-16T15:02:26.743000Z" visited="2025-02-16T15:02:26.743000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="okularApplication_pdf" exec="okular %U %u" modified="2025-02-16T15:02:26.743000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Documents/english_books/Aprenda%20Ingl%C3%AAs%20com%20Contos%20Incr%C3%ADveis%20para%20Iniciantes%20e%20Intermedi%C3%A1rios%20Melhore%20sua%20Habilidade%20de%20Leitura%20e%20Compreens%C3%A3o%20Auditiva...%20(Jack%20Cactus)%20(Z-Library).mobi" added="2025-02-16T18:52:28.898000Z" modified="2025-02-16T18:52:39.779000Z" visited="2025-02-16T18:52:39.779000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-mobipocket-ebook"/>
+        <bookmark:applications>
+          <bookmark:application name="calibre-gui" exec="calibre %U %u" modified="2025-02-16T18:52:28.898000Z" count="1"/>
+        <bookmark:application name="okularApplication_mobi" exec="okular %U %u" modified="2025-02-16T18:52:39.779000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/movies/filmes/Assassino.por.Acaso.2024.1080p.WEB-DL.EAC3.AAC.DUAL.5.1/Assassino.por.Acaso.2024.1080p.WEB-DL.EAC3.AAC.DUAL.5.1.mkv" added="2025-02-17T01:20:34.180000Z" modified="2025-02-17T01:20:34.180000Z" visited="2025-02-17T01:20:34.180000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Video</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.haruna" exec="haruna %u %u" modified="2025-02-17T01:20:34.180000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://location.services.mozilla.com" added="2025-02-17T03:17:05.304000Z" modified="2025-02-17T03:17:05.304000Z" visited="2025-02-17T03:17:05.304000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="/usr/bin/microsoft-edge-stable %U %u" modified="2025-02-17T03:17:05.304000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://commons.wikimedia.org/wiki/File:World_location_map_(equirectangular_180).svg" added="2025-02-17T03:17:36.856000Z" modified="2025-02-17T03:17:36.856000Z" visited="2025-02-17T03:17:36.856000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="/usr/bin/microsoft-edge-stable %U %u" modified="2025-02-17T03:17:36.856000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/It-gov/Governance%20dictionary.md" added="2025-02-17T03:34:08.779000Z" modified="2025-02-19T06:44:58.087000Z" visited="2025-02-19T06:44:58.087000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="okularApplication_md" exec="okular %U %u" modified="2025-02-17T03:34:08.779000Z" count="1"/>
+        <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T06:44:58.087000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/It-gov/Governance%20definition.md" added="2025-02-17T03:34:16.673000Z" modified="2025-02-19T06:44:31.049000Z" visited="2025-02-19T06:44:31.049000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="okularApplication_md" exec="okular %U %u" modified="2025-02-17T03:34:16.673000Z" count="1"/>
+        <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T06:44:31.049000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/It-gov/Conceito%20de%20compliance.md" added="2025-02-17T03:34:20.331000Z" modified="2025-02-19T06:44:00.799000Z" visited="2025-02-19T06:44:00.799000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="okularApplication_md" exec="okular %U %u" modified="2025-02-17T03:34:20.331000Z" count="1"/>
+        <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T06:44:00.799000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/It-gov/Cobit%202019%20Definitions.md" added="2025-02-17T03:34:24.140000Z" modified="2025-02-19T06:43:24.484000Z" visited="2025-02-19T06:43:24.484000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="okularApplication_md" exec="okular %U %u" modified="2025-02-17T03:34:24.140000Z" count="1"/>
+        <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T06:43:24.484000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/English/English%20interview%20-%20Talk%20about%20your%20weakeness.md" added="2025-02-17T03:47:08.258000Z" modified="2025-02-17T03:48:15.839000Z" visited="2025-02-17T03:48:15.839000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="okularApplication_md" exec="okular %U %u" modified="2025-02-17T03:47:08.258000Z" count="1"/>
+        <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-17T03:48:15.839000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/English/English%20interview%20-%20Talk%20about%20yourself.md" added="2025-02-17T04:03:02.547000Z" modified="2025-02-17T04:03:02.547000Z" visited="2025-02-17T04:03:02.547000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-17T04:03:02.547000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/Screenshot%20from%202024-07-17%2022-15-16.png" added="2025-02-17T20:56:04.602000Z" modified="2025-02-17T20:56:04.602000Z" visited="2025-02-17T20:56:04.602000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-17T20:56:04.602000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/Pasted%20image%2020240815092224.png" added="2025-02-19T06:39:02.247000Z" modified="2025-02-19T06:39:02.247000Z" visited="2025-02-19T06:39:02.247000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T06:39:02.247000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/Pasted%20image%2020240815092648.png" added="2025-02-19T06:39:09.050000Z" modified="2025-02-19T06:39:09.050000Z" visited="2025-02-19T06:39:09.050000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T06:39:09.050000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/Pasted%20image%2020240815092351.png" added="2025-02-19T06:39:18.591000Z" modified="2025-02-19T06:39:18.591000Z" visited="2025-02-19T06:39:18.591000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T06:39:18.591000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/Pasted%20image%2020240718104935.png" added="2025-02-19T06:39:32.296000Z" modified="2025-02-19T20:33:23.801000Z" visited="2025-02-19T20:33:23.801000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T20:33:23.801000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/English/English%20adverbs.md" added="2025-02-19T07:06:53.737000Z" modified="2025-02-19T07:06:53.737000Z" visited="2025-02-19T07:06:53.737000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T07:06:53.737000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/English/English%20basic%20questions%20-%20Getting%20help%20on%20the%20class.md" added="2025-02-19T07:07:39.803000Z" modified="2025-02-19T07:07:39.803000Z" visited="2025-02-19T07:07:39.803000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T07:07:39.803000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/English/English%20daily%20expressions.md" added="2025-02-19T07:10:04.494000Z" modified="2025-02-19T07:10:04.494000Z" visited="2025-02-19T07:10:04.494000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T07:10:04.494000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/English/English%20irregular%20verbs%20list%201.md" added="2025-02-19T07:10:36.610000Z" modified="2025-02-19T07:10:36.610000Z" visited="2025-02-19T07:10:36.610000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T07:10:36.610000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/English/English%20learning%20studing%20levels.md" added="2025-02-19T07:11:06.237000Z" modified="2025-02-19T07:11:06.237000Z" visited="2025-02-19T07:11:06.237000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T07:11:06.237000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/English/External%20esl%20content%20links.md" added="2025-02-19T07:11:37.967000Z" modified="2025-02-19T07:11:37.967000Z" visited="2025-02-19T07:11:37.967000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T07:11:37.967000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/English/Irregular%20english%20verbs%20-%20list%202.md" added="2025-02-19T07:12:58.616000Z" modified="2025-02-19T07:12:58.616000Z" visited="2025-02-19T07:12:58.616000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T07:12:58.616000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/English/Youtube%20ESL%20links.md" added="2025-02-19T07:13:42.253000Z" modified="2025-02-19T07:13:42.253000Z" visited="2025-02-19T07:13:42.253000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T07:13:42.253000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/AI/AI900%20-%20AI%20intro.md" added="2025-02-19T19:33:24.744000Z" modified="2025-02-19T19:42:31.379000Z" visited="2025-02-19T19:42:31.379000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:42:31.379000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/AI/AI900%20-%20Values.md" added="2025-02-19T19:34:17.583000Z" modified="2025-02-19T19:41:09.647000Z" visited="2025-02-19T19:41:09.647000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:41:09.647000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/AI/%C3%89tica%20em%20IA.md" added="2025-02-19T19:35:24.388000Z" modified="2025-02-19T19:41:03.899000Z" visited="2025-02-19T19:41:03.899000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:41:03.899000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/AI/AI900%20-%20Machine%20learning%20intro.md" added="2025-02-19T19:35:40.340000Z" modified="2025-02-19T19:40:30.911000Z" visited="2025-02-19T19:40:30.911000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:40:30.911000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/AI/AI900%20-%20AI%20Conversational.md" added="2025-02-19T19:36:03.017000Z" modified="2025-02-19T19:43:01.644000Z" visited="2025-02-19T19:43:01.644000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:43:01.644000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/AI/AI900%20-%20AI%20NLP.md" added="2025-02-19T19:36:15.119000Z" modified="2025-02-19T19:43:22.787000Z" visited="2025-02-19T19:43:22.787000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:43:22.787000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/growth/3%20essential%20trues.md" added="2025-02-19T19:44:17.644000Z" modified="2025-02-19T19:44:17.644000Z" visited="2025-02-19T19:44:17.644000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:44:17.644000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/growth/3%20fundamental%20questions.md" added="2025-02-19T19:45:22.881000Z" modified="2025-02-19T19:45:22.881000Z" visited="2025-02-19T19:45:22.881000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:45:22.881000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/growth/4%20compromises.md" added="2025-02-19T19:45:51.947000Z" modified="2025-02-19T19:45:51.947000Z" visited="2025-02-19T19:45:51.947000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:45:51.947000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/growth/4%20talking%20elements.md" added="2025-02-19T19:46:19.412000Z" modified="2025-02-19T19:46:19.412000Z" visited="2025-02-19T19:46:19.412000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:46:19.412000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/growth/Antifragil.md" added="2025-02-19T19:47:08.703000Z" modified="2025-02-19T19:47:08.703000Z" visited="2025-02-19T19:47:08.703000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:47:08.703000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/growth/Atraction%202.md" added="2025-02-19T19:47:56.199000Z" modified="2025-02-19T19:48:59.733000Z" visited="2025-02-19T19:48:59.733000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:48:59.733000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/growth/Atraction.md" added="2025-02-19T19:48:00.375000Z" modified="2025-02-19T19:48:00.375000Z" visited="2025-02-19T19:48:00.375000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:48:00.375000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/growth/Social%20hacking.md" added="2025-02-19T19:49:26.251000Z" modified="2025-02-19T19:49:26.251000Z" visited="2025-02-19T19:49:26.251000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:49:26.251000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/Leadership/Change%20management%20process.md" added="2025-02-19T19:50:51.370000Z" modified="2025-02-19T19:50:51.370000Z" visited="2025-02-19T19:50:51.370000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:50:51.370000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/Leadership/From%20zero%20to%20one%20book%20digest.md" added="2025-02-19T19:51:33.214000Z" modified="2025-02-19T19:56:51.271000Z" visited="2025-02-19T19:56:51.271000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:56:51.271000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/Leadership/Leadership%20-%20Getting%20decided%20-%20Linkedin%20course.md" added="2025-02-19T19:51:49.893000Z" modified="2025-02-19T19:51:49.893000Z" visited="2025-02-19T19:51:49.893000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:51:49.893000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/Leadership/Leadership%20-%20How%20to%20decide%20-%20Book%20digest.md" added="2025-02-19T19:52:30.469000Z" modified="2025-02-19T19:52:31.251000Z" visited="2025-02-19T19:52:31.251000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:52:31.251000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/km-tracker.jpeg" added="2025-02-19T19:54:31.545000Z" modified="2025-02-19T19:54:31.545000Z" visited="2025-02-19T19:54:31.545000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-02-19T19:54:31.545000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/km-tracker2.jpeg" added="2025-02-19T19:54:31.554000Z" modified="2025-02-19T20:33:44.669000Z" visited="2025-02-19T20:33:44.669000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-02-19T19:54:46.848000Z" count="2"/>
+        <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T20:33:44.669000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/Leadership/Leadership%20-%20RH%20-%20Vulpi%20Course.md" added="2025-02-19T19:55:10.603000Z" modified="2025-02-19T19:55:10.603000Z" visited="2025-02-19T19:55:10.603000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:55:10.603000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/Leadership/Planning%20versus%20executing.md" added="2025-02-19T19:55:40.553000Z" modified="2025-02-19T19:55:40.553000Z" visited="2025-02-19T19:55:40.553000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:55:40.553000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/Leadership/Situacional%20leadership%20tip.md" added="2025-02-19T19:56:15.141000Z" modified="2025-02-19T19:56:15.141000Z" visited="2025-02-19T19:56:15.141000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:56:15.141000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/Portuguese/21%20erros%20de%20portugu%C3%AAs.md" added="2025-02-19T19:57:41.796000Z" modified="2025-02-19T19:57:41.796000Z" visited="2025-02-19T19:57:41.796000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:57:41.796000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/Portuguese/Dicas%20de%20portugu%C3%AAs%201.md" added="2025-02-19T19:58:10.280000Z" modified="2025-02-19T19:58:10.280000Z" visited="2025-02-19T19:58:10.280000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:58:10.280000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/Portuguese/Dicas%20para%20escrever%20bem.md" added="2025-02-19T19:59:01.661000Z" modified="2025-02-19T19:59:01.661000Z" visited="2025-02-19T19:59:01.661000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T19:59:01.661000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/Product%20Management/Design%20Thinking%20-%20Alura%20Course.md" added="2025-02-19T20:00:02.077000Z" modified="2025-02-19T20:00:02.077000Z" visited="2025-02-19T20:00:02.077000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:00:02.077000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/Product%20Management/Digital%20product%20management%20-%20Innovation%20one%20course.md" added="2025-02-19T20:00:28.123000Z" modified="2025-02-19T20:00:28.123000Z" visited="2025-02-19T20:00:28.123000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:00:28.123000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Education/Project%20Management/MS%20Project%20advanced%20course.md" added="2025-02-19T20:01:15.440000Z" modified="2025-02-19T20:01:15.440000Z" visited="2025-02-19T20:01:15.440000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:01:15.440000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/About%20me.md" added="2025-02-19T20:06:56.252000Z" modified="2025-02-19T20:07:07.593000Z" visited="2025-02-19T20:07:07.593000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:07:07.593000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Vehicle/Polo%20Reviews.md" added="2025-02-19T20:07:15.399000Z" modified="2025-02-19T20:21:34.816000Z" visited="2025-02-19T20:21:34.816000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:21:34.816000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Vehicle/Detran%20RJ.md" added="2025-02-19T20:07:30.214000Z" modified="2025-02-19T20:21:10.083000Z" visited="2025-02-19T20:21:10.083000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:21:10.083000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Career/PCMSO.md" added="2025-02-19T20:10:05.081000Z" modified="2025-02-19T20:10:06.614000Z" visited="2025-02-19T20:10:06.614000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:10:06.614000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Career/Presentation%20Letter.md" added="2025-02-19T20:10:45.100000Z" modified="2025-02-19T20:10:45.100000Z" visited="2025-02-19T20:10:45.100000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:10:45.100000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Career/Samarco%20feedback.md" added="2025-02-19T20:11:48.988000Z" modified="2025-02-19T20:11:48.988000Z" visited="2025-02-19T20:11:48.988000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:11:48.988000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Career/Gupy%20Feedback.md" added="2025-02-19T20:12:20.184000Z" modified="2025-02-19T20:12:20.184000Z" visited="2025-02-19T20:12:20.184000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:12:20.184000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Career/star%20method%20portifolio%20organization.md" added="2025-02-19T20:12:58.815000Z" modified="2025-02-19T20:12:58.815000Z" visited="2025-02-19T20:12:58.815000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:12:58.815000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Career/How%20do%20end%20interviews.md" added="2025-02-19T20:13:49.500000Z" modified="2025-02-19T20:13:49.500000Z" visited="2025-02-19T20:13:49.500000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:13:49.500000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Career/Bernoulli%20Projects.md" added="2025-02-19T20:15:34.449000Z" modified="2025-02-19T20:15:34.449000Z" visited="2025-02-19T20:15:34.449000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:15:34.449000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Career/A%C3%A7otel%20Projects.md" added="2025-02-19T20:17:08.606000Z" modified="2025-02-19T20:17:08.606000Z" visited="2025-02-19T20:17:08.606000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:17:08.606000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Vehicle/Boletim%20Reds%20VW%20UP.md" added="2025-02-19T20:19:14.818000Z" modified="2025-02-19T20:20:25.301000Z" visited="2025-02-19T20:20:25.301000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:20:25.301000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Lists/Movies%20list.md" added="2025-02-19T20:22:46.533000Z" modified="2025-02-19T20:22:46.533000Z" visited="2025-02-19T20:22:46.533000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:22:46.533000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Lists/Tech%20acronyms.md" added="2025-02-19T20:23:23.953000Z" modified="2025-02-19T20:23:23.953000Z" visited="2025-02-19T20:23:23.953000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:23:23.953000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Lists/Books%20list.md" added="2025-02-19T20:25:17.550000Z" modified="2025-02-19T20:25:17.550000Z" visited="2025-02-19T20:25:17.550000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:25:17.550000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Recipes/How%20to%20clean%20fruits.md" added="2025-02-19T20:26:51.839000Z" modified="2025-02-19T20:27:22.652000Z" visited="2025-02-19T20:27:22.652000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:27:22.652000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Recipes/How%20to%20clean%20sneakers.md" added="2025-02-19T20:27:32.738000Z" modified="2025-02-19T20:27:32.738000Z" visited="2025-02-19T20:27:32.738000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:27:32.738000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Recipes/How%20to%20clean%20the%20sofa.md" added="2025-02-19T20:27:40.714000Z" modified="2025-02-19T20:27:40.714000Z" visited="2025-02-19T20:27:40.714000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:27:40.714000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Recipes/How%20to%20clean%20the%20toilet%20box.md" added="2025-02-19T20:27:46.207000Z" modified="2025-02-19T20:27:46.207000Z" visited="2025-02-19T20:27:46.207000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:27:46.207000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Recipes/How%20to%20kill%20acaros.md" added="2025-02-19T20:27:59.972000Z" modified="2025-02-19T20:27:59.972000Z" visited="2025-02-19T20:27:59.972000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:27:59.972000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Recipes/How%20to%20make%20homemade%20desodorant.md" added="2025-02-19T20:28:08.323000Z" modified="2025-02-19T20:28:08.323000Z" visited="2025-02-19T20:28:08.323000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:28:08.323000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Recipes/Puxador%20gaveta%20cozinha%20Marinalva.md" added="2025-02-19T20:28:18.451000Z" modified="2025-02-19T20:28:18.451000Z" visited="2025-02-19T20:28:18.451000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:28:18.451000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/Personal/Recipes/Recipe%20baked%20beans.md" added="2025-02-19T20:29:13.389000Z" modified="2025-02-19T20:29:13.389000Z" visited="2025-02-19T20:29:13.389000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:29:13.389000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/Pasted%20image%2020240815091859.png" added="2025-02-19T20:32:42.155000Z" modified="2025-02-19T20:32:42.155000Z" visited="2025-02-19T20:32:42.155000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T20:32:42.155000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/Pasted%20image%2020240717132943.png" added="2025-02-19T20:32:55.474000Z" modified="2025-02-19T20:32:55.474000Z" visited="2025-02-19T20:32:55.474000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T20:32:55.474000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/Pasted%20image%2020240718104846.png" added="2025-02-19T20:33:00.954000Z" modified="2025-02-19T20:33:00.954000Z" visited="2025-02-19T20:33:00.954000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T20:33:00.954000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/Pasted%20image%2020240722114418.png" added="2025-02-19T20:33:29.483000Z" modified="2025-02-19T20:33:29.483000Z" visited="2025-02-19T20:33:29.483000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T20:33:29.483000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/Pasted%20image%2020240717132828.png" added="2025-02-19T20:33:33.010000Z" modified="2025-02-19T20:33:33.010000Z" visited="2025-02-19T20:33:33.010000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T20:33:33.010000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/Pasted%20image%2020240815091400.png" added="2025-02-19T20:33:36.776000Z" modified="2025-02-19T20:33:36.776000Z" visited="2025-02-19T20:33:36.776000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T20:33:36.776000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/indicadores-contrato-2.png" added="2025-02-19T20:33:53.038000Z" modified="2025-02-19T20:33:53.038000Z" visited="2025-02-19T20:33:53.038000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T20:33:53.038000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/indicadores-contrato-1.png" added="2025-02-19T20:33:56.474000Z" modified="2025-02-19T20:33:56.474000Z" visited="2025-02-19T20:33:56.474000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T20:33:56.474000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/MyVault/assets/images/2024-01-20-22-37-55.png" added="2025-02-19T20:34:12.560000Z" modified="2025-02-19T20:34:12.560000Z" visited="2025-02-19T20:34:12.560000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T20:34:12.560000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Quotes/Change%20management%20quote.md" added="2025-02-19T20:36:20.535000Z" modified="2025-02-19T20:36:20.535000Z" visited="2025-02-19T20:36:20.535000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:36:20.535000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Quotes/Christmas%20message.md" added="2025-02-19T20:37:15.176000Z" modified="2025-02-19T20:37:15.176000Z" visited="2025-02-19T20:37:15.176000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:37:15.176000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Quotes/Gospel%20band%20quote.md" added="2025-02-19T20:38:20.593000Z" modified="2025-02-19T20:38:20.593000Z" visited="2025-02-19T20:38:20.593000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:38:20.593000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Quotes/Inovation%20quote%201.md" added="2025-02-19T20:38:47.477000Z" modified="2025-02-19T20:38:47.477000Z" visited="2025-02-19T20:38:47.477000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:38:47.477000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Quotes/inovation%20quote%202.md" added="2025-02-19T20:39:23.870000Z" modified="2025-02-19T20:39:23.870000Z" visited="2025-02-19T20:39:23.870000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:39:23.870000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Quotes/inovation%20quote%203.md" added="2025-02-19T20:40:44.393000Z" modified="2025-02-19T20:40:44.393000Z" visited="2025-02-19T20:40:44.393000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:40:44.393000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Quotes/knowledge%20quotes.md" added="2025-02-19T20:41:20.315000Z" modified="2025-02-19T20:41:20.315000Z" visited="2025-02-19T20:41:20.315000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:41:20.315000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Quotes/metrics%20quote.md" added="2025-02-19T20:41:47.184000Z" modified="2025-02-19T20:41:47.184000Z" visited="2025-02-19T20:41:47.184000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:41:47.184000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Quotes/planning%20quote.md" added="2025-02-19T20:42:30.404000Z" modified="2025-02-19T20:42:31.846000Z" visited="2025-02-19T20:42:31.846000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:42:31.846000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Quotes/process%20quote.md" added="2025-02-19T20:43:07.517000Z" modified="2025-02-19T20:43:08.530000Z" visited="2025-02-19T20:43:08.530000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:43:08.530000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Quotes/Soul%20quote%201.md" added="2025-02-19T20:43:29.188000Z" modified="2025-02-19T20:43:29.188000Z" visited="2025-02-19T20:43:29.188000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:43:29.188000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Quotes/Soul%20quote.md" added="2025-02-19T20:44:02.919000Z" modified="2025-02-19T20:44:02.919000Z" visited="2025-02-19T20:44:02.919000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:44:02.919000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Quotes/youth%20quote.md" added="2025-02-19T20:44:05.722000Z" modified="2025-02-19T20:44:05.722000Z" visited="2025-02-19T20:44:05.722000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:44:05.722000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/MS%20Project%20advanced%20course.md" added="2025-02-19T20:44:59.015000Z" modified="2025-02-19T20:44:59.015000Z" visited="2025-02-19T20:44:59.015000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:44:59.015000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/PMTECH%20Virtual%20machine.md" added="2025-02-19T20:45:30.426000Z" modified="2025-02-19T20:45:30.426000Z" visited="2025-02-19T20:45:30.426000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:45:30.426000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/Scrum%20Methodology.md" added="2025-02-19T20:46:13.831000Z" modified="2025-02-19T20:46:13.831000Z" visited="2025-02-19T20:46:13.831000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:46:13.831000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/PMTech%20-%20PMP%20course%20notes.md" added="2025-02-19T20:47:00.318000Z" modified="2025-02-19T20:47:02.113000Z" visited="2025-02-19T20:47:02.113000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:47:02.113000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/OKR%20-%20Innovation%20one%20Course.md" added="2025-02-19T20:47:29.438000Z" modified="2025-02-19T20:47:29.438000Z" visited="2025-02-19T20:47:29.438000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:47:29.438000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/Kanban%20Metrics.md" added="2025-02-19T20:47:51.776000Z" modified="2025-02-19T20:47:51.776000Z" visited="2025-02-19T20:47:51.776000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:47:51.776000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/Agile%20zen%20-%20Alysson%20Vale%20class.md" added="2025-02-19T20:48:18.261000Z" modified="2025-02-19T20:48:18.261000Z" visited="2025-02-19T20:48:18.261000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:48:18.261000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/Business%20agile%20metrics.md" added="2025-02-19T20:48:46.139000Z" modified="2025-02-19T20:49:11.266000Z" visited="2025-02-19T20:49:11.266000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:49:11.266000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/business%20agility%20-%20Innovation%20one.md" added="2025-02-19T20:51:11.024000Z" modified="2025-02-19T20:51:11.024000Z" visited="2025-02-19T20:51:11.024000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:51:11.024000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/Data%20quality%20metrics%20Course.md" added="2025-02-19T20:51:42.820000Z" modified="2025-02-19T20:51:42.820000Z" visited="2025-02-19T20:51:42.820000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:51:42.820000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/indicadores-contrato-1.png" added="2025-02-19T20:52:59.851000Z" modified="2025-02-19T20:52:59.851000Z" visited="2025-02-19T20:52:59.851000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T20:52:59.851000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/indicadores-contrato-2.png" added="2025-02-19T20:53:07.330000Z" modified="2025-02-19T20:53:07.330000Z" visited="2025-02-19T20:53:07.330000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T20:53:07.330000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/KM%20Conference%202015.md" added="2025-02-19T20:53:53.237000Z" modified="2025-02-19T20:53:53.237000Z" visited="2025-02-19T20:53:53.237000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:53:53.237000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/obsidian/Project%20Management/Knowledge%20Management%20-%2010%20laws%20of%20preserving%20digital%20documents.md" added="2025-02-19T20:54:18.885000Z" modified="2025-02-19T20:54:18.885000Z" visited="2025-02-19T20:54:18.885000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code_code" exec="env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop /snap/bin/code --force-user-env %F %u" modified="2025-02-19T20:54:18.885000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Documents/A%20extrema%20direita%20sequestrou%20a%20rebeldia%20-%2004_02_2025%20-%20Wilson%20Gomes%20-%20Folha.pdf" added="2025-02-19T20:57:56.124000Z" modified="2025-02-19T20:57:56.124000Z" visited="2025-02-19T20:57:56.124000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="okularApplication_pdf" exec="okular %U %u" modified="2025-02-19T20:57:56.124000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Documents/Screenshot_2025-01-31_11-44-57.png" added="2025-02-19T21:00:11.434000Z" modified="2025-02-19T21:01:28.233000Z" visited="2025-02-19T21:01:28.233000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T21:01:28.233000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Documents/Screenshot_2025-01-31_11-45-34.png" added="2025-02-19T21:01:51.210000Z" modified="2025-02-19T21:01:51.210000Z" visited="2025-02-19T21:01:51.210000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-19T21:01:51.210000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Documents/curriculo.pdf" added="2025-02-19T21:05:14.162000Z" modified="2025-02-19T21:05:14.162000Z" visited="2025-02-19T21:05:14.162000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="okularApplication_pdf" exec="okular %U %u" modified="2025-02-19T21:05:14.162000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/65e4fff379985e0420d83d678c8a2c9e7ffe9185.jpeg" added="2025-02-20T20:32:07.929000Z" modified="2025-02-20T20:32:07.929000Z" visited="2025-02-20T20:32:07.929000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-02-20T20:32:07.929000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/65e4fff379985e0420d83d678c8a2c9e7ffe9185%20(1).jpeg" added="2025-02-20T20:32:23.525000Z" modified="2025-02-20T20:32:23.525000Z" visited="2025-02-20T20:32:23.525000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-02-20T20:32:23.525000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Alps%201638x1024.jpg" added="2025-02-20T20:35:16.075000Z" modified="2025-02-20T20:47:10.080000Z" visited="2025-02-20T20:47:10.080000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-02-20T20:35:16.075000Z" count="1"/>
+        <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-20T20:47:10.080000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/2560x1600.png" added="2025-02-20T20:37:48.436000Z" modified="2025-02-20T20:46:49.251000Z" visited="2025-02-20T20:46:49.251000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-20T20:38:10.416000Z" count="2"/>
+        <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-20T20:46:49.251000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/2560x1440%20(1).png" added="2025-02-20T20:37:59.863000Z" modified="2025-02-20T20:37:59.863000Z" visited="2025-02-20T20:37:59.863000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-20T20:37:59.863000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/plasma-workspace-wallpapers-master/Nexus/contents/images_dark/5120x2880.png" added="2025-02-20T20:40:06.915000Z" modified="2025-02-20T20:40:06.915000Z" visited="2025-02-20T20:40:06.915000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-20T20:40:06.915000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/plasma-workspace-wallpapers-master/Nexus/contents/images/5120x2880.png" added="2025-02-20T20:40:19.845000Z" modified="2025-02-20T20:40:19.845000Z" visited="2025-02-20T20:40:19.845000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-20T20:40:19.845000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/plasma-workspace-wallpapers-master/ScarletTree/contents/images_dark/5120x2880.png" added="2025-02-20T20:41:11.001000Z" modified="2025-02-20T20:41:11.001000Z" visited="2025-02-20T20:41:11.001000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-02-20T20:41:11.001000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/wallpapers/Shell/contents/images/5120x2880.jpg" added="2025-02-20T20:41:48.051000Z" modified="2025-02-20T20:41:48.051000Z" visited="2025-02-20T20:41:48.051000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2025-02-20T20:41:48.051000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/5120x2880.png" added="2025-02-20T20:44:44.063000Z" modified="2025-02-20T20:45:51.777000Z" visited="2025-02-20T20:45:51.777000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-20T20:44:48.429000Z" count="2"/>
+        <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-20T20:45:51.777000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/5120x2880nexusdark.png" added="2025-02-20T20:44:55.433000Z" modified="2025-02-20T20:46:16.477000Z" visited="2025-02-20T20:46:16.477000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="setaswallpaper" exec="dolphin %u" modified="2025-02-20T20:45:14.995000Z" count="2"/>
+        <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-20T20:46:16.477000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/5120x2880b.png" added="2025-02-20T20:45:58.361000Z" modified="2025-02-20T20:45:58.361000Z" visited="2025-02-20T20:45:58.361000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-20T20:45:58.361000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Pictures/wallpapers/5120x2880nexus.png" added="2025-02-20T20:46:10.258000Z" modified="2025-02-20T20:46:10.258000Z" visited="2025-02-20T20:46:10.258000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-20T20:46:10.258000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/2560x1600%20(2).png" added="2025-02-20T20:47:02.944000Z" modified="2025-02-20T20:47:02.944000Z" visited="2025-02-20T20:47:02.944000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2025-02-20T20:47:02.944000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Financeiro/Processo%20de%20Gest%C3%A3o%20de%20Contratos%20-%20GGTI.pptx" added="2025-02-20T21:12:17.318000Z" modified="2025-02-21T02:03:37.910000Z" visited="2025-02-21T02:03:37.910000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-21T02:03:37.910000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Financeiro/Defesa%20Or%C3%A7amento%202022vFinal.pptx" added="2025-02-20T21:12:43.082000Z" modified="2025-02-21T02:03:26.796000Z" visited="2025-02-21T02:03:26.796000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-21T02:03:26.796000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Genericos/GGTI_Presentation-Daniel-v10.pptx" added="2025-02-20T21:13:01.787000Z" modified="2025-02-20T21:13:01.787000Z" visited="2025-02-20T21:13:01.787000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-20T21:13:01.787000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Genericos/Plano%20de%20Continuidade%20da%20TI%20-%20Apresenta%C3%A7%C3%A3o%20Controladoria.pptx" added="2025-02-20T21:19:51.671000Z" modified="2025-02-20T21:19:51.671000Z" visited="2025-02-20T21:19:51.671000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-20T21:19:51.671000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Genericos/GGTI_Integra%C3%A7%C3%A3o.pptx" added="2025-02-20T21:20:13.325000Z" modified="2025-02-20T21:20:13.325000Z" visited="2025-02-20T21:20:13.325000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-20T21:20:13.325000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Governan%C3%A7a/CIO%20Office%20Design%20-%20Governan%C3%A7a.pptx" added="2025-02-20T21:20:42.562000Z" modified="2025-02-20T21:20:42.562000Z" visited="2025-02-20T21:20:42.562000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-20T21:20:42.562000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Governan%C3%A7a/Meta%20Backbone%20Operacional.pptx" added="2025-02-20T21:21:32.415000Z" modified="2025-02-20T21:21:32.415000Z" visited="2025-02-20T21:21:32.415000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-20T21:21:32.415000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/indicadores%20de%20avan%C3%A7o%20de%20governan%C3%A7a/Indicadores%202022.xlsx" added="2025-02-20T21:22:21.588000Z" modified="2025-02-20T21:22:21.588000Z" visited="2025-02-20T21:22:21.588000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-calc" exec="libreoffice --calc %U %u" modified="2025-02-20T21:22:21.588000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Projetos/Divis%C3%A3o%20de%20atividades%20-%20Demandas%20e%20projetos.pptx" added="2025-02-21T01:53:48.771000Z" modified="2025-02-21T01:53:48.771000Z" visited="2025-02-21T01:53:48.771000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-21T01:53:48.771000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Projetos/Run_Grow_and_Transf.pptx" added="2025-02-21T01:54:42.535000Z" modified="2025-02-21T01:54:42.535000Z" visited="2025-02-21T01:54:42.535000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-21T01:54:42.535000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Projetos/Proposta%20Nova%20Estrutura%20Projetos%20TI%20v2.pptx" added="2025-02-21T01:55:40.352000Z" modified="2025-02-21T01:58:23.384000Z" visited="2025-02-21T01:58:23.384000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-21T01:58:23.384000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Projetos/Treinamento%20-%20Fluxo%20de%20Demandas%20e%20Projetos.pptx" added="2025-02-21T01:56:41.208000Z" modified="2025-02-21T01:56:41.208000Z" visited="2025-02-21T01:56:41.208000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-21T01:56:41.208000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Projetos/Riscos%20e%20issues.xlsx" added="2025-02-21T01:56:54.638000Z" modified="2025-02-21T01:56:54.638000Z" visited="2025-02-21T01:56:54.638000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-calc" exec="libreoffice --calc %U %u" modified="2025-02-21T01:56:54.638000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Projetos/PMO%20TI%20-%20Abrang%C3%AAncia.pptx" added="2025-02-21T01:57:11.929000Z" modified="2025-02-21T01:58:21.839000Z" visited="2025-02-21T01:58:21.839000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-21T01:58:21.839000Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Projetos/IT_Key_Metrics_Data__752542_ndx.pdf" added="2025-02-21T01:58:25.341000Z" modified="2025-02-21T01:58:25.341000Z" visited="2025-02-21T01:58:25.341000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="okularApplication_pdf" exec="okular %U %u" modified="2025-02-21T01:58:25.341000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Projetos/4.1%20-%20Modelo%20-%20Reuni%C3%A3o%20de%20Kickoff.pptx" added="2025-02-21T01:58:52.219000Z" modified="2025-02-21T01:58:52.219000Z" visited="2025-02-21T01:58:52.219000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-21T01:58:52.219000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Projetos/Contratos%20Projetos%20TI.xlsx" added="2025-02-21T01:59:16.524000Z" modified="2025-02-21T01:59:16.524000Z" visited="2025-02-21T01:59:16.524000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-calc" exec="libreoffice --calc %U %u" modified="2025-02-21T01:59:16.524000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/LGPD/Apresenta%C3%A7%C3%A3o%20MRS-Programa%20LGPD%20(1).pptx" added="2025-02-21T02:00:16.972000Z" modified="2025-02-21T02:00:16.972000Z" visited="2025-02-21T02:00:16.972000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-21T02:00:16.972000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/pesquisas/Avalia%C3%A7%C3%A3o%20Integrada%20de%20Capacidade%20e%20Maturidade%20de%20Produto%20Digitais.pptx" added="2025-02-21T02:01:05.209000Z" modified="2025-02-21T02:01:05.209000Z" visited="2025-02-21T02:01:05.209000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-21T02:01:05.209000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/pesquisas/apresenta%C3%A7%C3%A3o-pesquisa-servi%C3%A7os-ti-GGti-2022.pptx" added="2025-02-21T02:01:52.287000Z" modified="2025-02-21T02:01:52.287000Z" visited="2025-02-21T02:01:52.287000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-21T02:01:52.287000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Auditoria/4.Matriz%20de%20Achados%20de%20Auditoria_v2%20(1).xlsx" added="2025-02-21T02:02:43.715000Z" modified="2025-02-21T02:02:43.715000Z" visited="2025-02-21T02:02:43.715000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-calc" exec="libreoffice --calc %U %u" modified="2025-02-21T02:02:43.715000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Financeiro/Indicadores%20Financeiros%20de%20TI%20-%20Gartner.xlsx" added="2025-02-21T02:04:22.623000Z" modified="2025-02-21T02:04:22.623000Z" visited="2025-02-21T02:04:22.623000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-calc" exec="libreoffice --calc %U %u" modified="2025-02-21T02:04:22.623000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Financeiro/An%C3%A1lise%20dos%20Contratos%20de%20TI%20-%20v4.xlsx" added="2025-02-21T02:08:45.079000Z" modified="2025-02-21T02:10:07.330000Z" visited="2025-02-21T02:10:07.330000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-calc" exec="libreoffice --calc %U %u" modified="2025-02-21T02:10:07.330000Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/RFP/QUESTION%C3%81RIO%20TRIBUT%C3%81RIO.xls" added="2025-02-21T02:11:23.753000Z" modified="2025-02-21T02:11:23.753000Z" visited="2025-02-21T02:11:23.753000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-calc" exec="libreoffice --calc %U %u" modified="2025-02-21T02:11:23.753000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/RH/sal.xlsx" added="2025-02-21T02:11:58.825000Z" modified="2025-02-21T02:11:58.825000Z" visited="2025-02-21T02:11:58.825000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-calc" exec="libreoffice --calc %U %u" modified="2025-02-21T02:11:58.825000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/RH/MODELO%20Especifica%C3%A7%C3%A3o%20T%C3%A9cnica%20de%20Servi%C3%A7os%20-%20acima%20de%20R$%201oo%20mil.docx" added="2025-02-21T02:12:22.864000Z" modified="2025-02-21T02:12:22.864000Z" visited="2025-02-21T02:12:22.864000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-writer" exec="libreoffice --writer %U %u" modified="2025-02-21T02:12:22.864000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/RH/atividades-equipe.xlsx" added="2025-02-21T02:12:54.236000Z" modified="2025-02-21T02:12:54.236000Z" visited="2025-02-21T02:12:54.236000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-calc" exec="libreoffice --calc %U %u" modified="2025-02-21T02:12:54.236000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Projetos/LGPD/00.Controle_do_Projeto/00.Materiais_Graficos/modelo_apresentacao_projeto_lgpd_v2.pptx" added="2025-02-21T02:14:09.021000Z" modified="2025-02-21T02:14:09.021000Z" visited="2025-02-21T02:14:09.021000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-21T02:14:09.021000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan/Downloads/Projetos/Iniciativas%20TI%20-%20Fechamento%202022%20v3.pptx" added="2025-02-21T02:14:55.386000Z" modified="2025-02-21T02:14:55.386000Z" visited="2025-02-21T02:14:55.386000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-impress" exec="libreoffice --impress %U %u" modified="2025-02-21T02:14:55.386000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

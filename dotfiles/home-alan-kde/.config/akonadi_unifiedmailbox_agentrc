@@ -1,0 +1,4 @@
+[General]
+createDefaultBoxes=false
+enabled=true
+fixedSpecialCollections=true

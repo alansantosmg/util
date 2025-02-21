@@ -1,0 +1,9 @@
+# KDE Cookie File v2
+#
+# Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
+[.tiktok.com]
+www.tiktok.com       ".tiktok.com"        "/"          1770932664    0 ttwid                6    1%7CWOFo3cJuk_l-esd8JEN5s84ObcS9PQC_jq04fgEn_fE%7C1739828664%7C7853f2f2d9040c1432cc0d910a280cb1e7c5e9fa02da5c1149520d60d433f4f3
+www.tiktok.com       ".tiktok.com"        "/"          1755380715    0 tt_chain_token       7    Xb4oAzl5Rlwojx+ZaQIwIw==
+www.tiktok.com       ".tiktok.com"        "/"          1740692715    0 msToken              5    oAAj_jGTv_FzpBxCkqK8uxrbgPi0kySD5TE7-vkTbsJfPt-lslnfwX4JhwhfJYpKQJPOK_PetZ_fmyRRe9mLJD4BTwZLlg2PHhA=
+[.xvideos.com]
+www.xvideos.com      ".xvideos.com"       "/"          1747615528    0 cit                  4    14826d0ed6562d332eS883aI5bPtJDy8Lpz2CA%3D%3D

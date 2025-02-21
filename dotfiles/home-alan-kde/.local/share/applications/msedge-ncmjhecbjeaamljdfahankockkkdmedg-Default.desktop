@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Google Photos
+Exec=/opt/microsoft/msedge/microsoft-edge --profile-directory=Default --app-id=ncmjhecbjeaamljdfahankockkkdmedg "--app-url=https://photos.google.com/?lfhs=2"
+Icon=msedge-ncmjhecbjeaamljdfahankockkkdmedg-Default
+StartupWMClass=crx__ncmjhecbjeaamljdfahankockkkdmedg

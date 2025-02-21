@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Google Drive
+Exec=/opt/microsoft/msedge/microsoft-edge --profile-directory=Default --app-id=aghbiahbpaijignceidepookljebhfak "--app-url=https://drive.google.com/?lfhs=2"
+Icon=msedge-aghbiahbpaijignceidepookljebhfak-Default
+StartupWMClass=crx__aghbiahbpaijignceidepookljebhfak
+OnlyShowIn=Old;
