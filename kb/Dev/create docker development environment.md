@@ -24,7 +24,19 @@ Checking the image creation. List images:
 ## Create and run container from image
 
 Run the image created: 
-`docker run --name fastapi-container -p 80:80 fastapi-image`
+`docker run --name fastapi-container -p 80:80 fastapi-img`
 
+Run the image created (detached/background mode):
+`docker run --name fastapi-container -p 90:80 -d fastapi-img`
 
+Run the image created in detached mode and map local project folder as a container volume
+`docker run --name fastapi-container -p 90:80 -d -v ${pwd}:/code fastapi-img`
+
+# commands
+docker rm container_name
+docker rmi image_name 
+docker images
+docker stop container_name
+docker ps -a
+docker ls -a
 
