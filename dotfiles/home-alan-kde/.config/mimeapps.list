@@ -1,8 +1,0 @@
-[Added Associations]
-application/com.github.phase1geo.minder=com.github.phase1geo.minder.desktop;
-text/markdown=code_code.desktop;
-
-[Default Applications]
-application/com.github.phase1geo.minder=com.github.phase1geo.minder.desktop;
-text/markdown=code_code.desktop;
-x-scheme-handler/mailto=microsoft-edge.desktop

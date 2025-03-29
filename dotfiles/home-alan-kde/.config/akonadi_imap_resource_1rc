@@ -1,8 +1,0 @@
-[cache]
-TrashCollection=36
-TrashCollectionMigrated=true
-
-[network]
-Authentication=9
-ImapServer=imap.gmail.com
-UserName=alansantosmg@gmail.com

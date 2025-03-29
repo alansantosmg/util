@@ -1,8 +1,0 @@
-[FileDialogSize]
-2560x1080 screen: Height=600
-2560x1080 screen: Width=1300
-
-[KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Downloads/65e4fff379985e0420d83d678c8a2c9e7ffe9185.jpeg,file:$HOME/Downloads/Alps 1638x1024.jpg,file:$HOME/Downloads/65e4fff379985e0420d83d678c8a2c9e7ffe9185 (1).jpeg
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/
-detailViewIconSize=16

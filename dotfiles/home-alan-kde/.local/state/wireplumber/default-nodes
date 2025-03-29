@@ -1,5 +1,0 @@
-[default-nodes]
-default.configured.audio.sink=bluez_output.F8_5C_7E_AE_41_21.1
-default.configured.audio.sink.0=bluez_output.F8_5C_7E_AE_41_21.1
-default.configured.audio.sink.1=bluez_output.11_00_25_01_CF_02.1
-default.configured.audio.sink.2=alsa_output.pci-0000_05_00.1.hdmi-stereo

@@ -1,6 +1,0 @@
-[Desktop Entry]
-Icon=application-vnd.openxmlformats-officedocument.spreadsheetml.sheet
-Name=sal.xlsx
-Type=Link
-URL[$e]=file:$HOME/Downloads/RH/sal.xlsx
-X-KDE-LastOpenedWith=libreoffice-calc
