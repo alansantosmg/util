@@ -7,7 +7,7 @@ tags:
 ## Edit the sshd_config File to Give Root Access by Ssh
 
 ```bash
-# /etc/ssh/sshd_config
+sudo nano /etc/ssh/sshd_config
 Port 22
 PermitRootLogin yes
 PubKeyAuthentication no

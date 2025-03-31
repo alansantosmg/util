@@ -10,13 +10,14 @@ tags:
 ## Windows: Create Ssh-key
 
 ```powershell
-ssh-keygencp C:\Users\yourUserName\.ssh\id_rsa.pubC:\Users\yourUserName\authorized_keys
+ssh-keygencp C:\Users\yourUserName\.ssh\id_rsa.pub C:\Users\yourUserName\authorized_keys
 ```
 
 ## Linux: Start Ssh Service
 
 ```bash
-service ssh status# Start sshd if necessarymkdir ~/.ssh/# if it doesn't already exist)
+service ssh status # Start sshd if necessary
+mkdir ~/.ssh/ # if it doesn't already exist)
 ```
 
 ## Windows: Transfer Ssh to Linux
@@ -33,7 +34,8 @@ chmod 700 ~/.sshchmod 600 ~/.ssh/authorized_keys
 
 ## Windows: Cleaning and Testing
 
-Test if you can ssh into your ubuntu host without login/pw auth. If yes:
+Test if you can ssh into your ubuntu host without login/pw auth. 
+If yes:
 
 ```powershell
 rm C:\Users\yourUserName\authorized_keyssh user@hostname

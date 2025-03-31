@@ -30,7 +30,8 @@ Run the image created (detached/background mode):
 `docker run --name fastapi-container -p 80:80 -d fastapi-img`
 
 Run the image created in detached mode and map local project folder as a container volume
-`docker run --name fastapi-container -p 80:80 -d -v ${pwd}:/code fastapi-img`
+`docker run --name fastapi-container -p 80:80 -d -v $(
+pwd):/code fastapi-img`
 
 # commands
 docker rm container_name
