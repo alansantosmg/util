@@ -1,0 +1,4 @@
+PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
+# line added bellow to correct mouse lagging on wayland:
+# this file resides in /etc
+MUTTER_DEBUG_ENABLE_ATOMIC_KMS=0

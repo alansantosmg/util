@@ -1,7 +1,0 @@
-[default-profile]
-alsa_card.pci-0000_05_00.6=pro-audio
-alsa_card.pci-0000_05_00.1=output:hdmi-stereo
-alsa_card.usb-DisplayLink_Dell_Universal_Hybrid_Video_Dock_2207111946-02=pro-audio
-bluez_card.11_00_25_01_CF_02=a2dp-sink
-bluez_card.F8_5C_7E_AE_41_21=a2dp-sink
-bluez_card.9C_49_52_E1_C5_82=a2dp-sink

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.1
-Type=Application
-Name=UpNote
-Icon=/home/alan/AppImage/icon.png
-Exec=/home/alan/AppImage/UpNote.AppImage --no-sandbox
-Path=/home/alan
-Actions=
-Categories=Office;X-XFCE;X-Xfce-Toplevel;
