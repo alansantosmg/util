@@ -1,4 +1,4 @@
 # Alan's Knowlegde database 
 
-['/Linux/Vim/linux commands survive guide.md']
+[Linux commands survive guide](./Linux/commands/linux%20commands%20survive%20guide.md)
 [about.md](about.md)
