@@ -1,4 +1,6 @@
 # Alan's Knowlegde database 
 
-[Linux commands survive guide](./Linux/commands/linux%20commands%20survive%20guide.md)
-[about.md](about.md)
+## Linux 
+- [Linux commands survive guide](./Linux/commands/linux_commands_survive_guide.md)
+- [Linux security](security)
+- [about.md](about.md)
