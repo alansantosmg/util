@@ -1,9 +1,3 @@
----
-tags:
-  - tech/devops/git
-  - tech/dev/git
----
-
 
 # Git-tips
 
@@ -35,9 +29,9 @@ tags:
 
 ### Conectando Repositório Local Ao Bare
 
-`git remote add local /path_repo_server/ # Conecta reposerver p/ local client`
+`git remote add local /path repo server/ # Conecta reposerver p/ local client`
 
-`git remote add origin /path_repo server/ # Conecta reposerver p/ origin`
+`git remote add origin /path repo server/ # Conecta reposerver p/ origin`
 
 ### Removendo Conexão Entre Repositório Local E Bare
 
@@ -167,4 +161,4 @@ git log --oneline       ## hash7 / head/ description
 
 ```
 
-$ git remote set-url origin [git@github.com](mailto:git@github.com):your_user/name_repository.git
+$ git remote set-url origin [git@github.com](mailto:git@github.com):your user/name repository.git

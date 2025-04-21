@@ -1,10 +1,6 @@
----
-tags:
-  - tech/devops/git
-  - tech/dev/git
----
 
-# Gitlog
+
+#Git log
 
 ## Verificando Histórico Do Projeto (commits)
 
@@ -17,5 +13,5 @@ git log --pretty=full
 git log --pretyy=short
 git log --prety=fuller
 git log --pretty=format:"%h - %an, %ar : %s"
-git log --pretty=format"%h %s" --graph
+git log --pretty=format:"%h %s" --graph
 ```
