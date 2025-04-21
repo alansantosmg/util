@@ -1,6 +1,4 @@
-
-
-#Git log
+# Git log
 
 ## Verificando Histórico Do Projeto (commits)
 

@@ -1,7 +1,9 @@
-#Git Global Setup
+# Git Global Setup
 
-`gitconfig --global user.name"nome" #set a global user`
+## Set a global user
+`gitconfig --global user.name "nome" `
 
-`gitconfig --global user.email"email" #set a global email user`
+## Set a global e-mail user
+`gitconfig --global user.email "email" `
 
-`gitconfig --global core.editor vim #set a principal editor`
+## Set a principal editor
