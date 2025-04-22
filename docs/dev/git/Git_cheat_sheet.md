@@ -1,7 +1,7 @@
 
 # Git-tips
 
-### Configuração Global
+## Configuração Global
 
 `git config --global user.name "nome" # seta usuario global`
 
@@ -9,7 +9,7 @@
 
 `git config --global core.editor vim # seta editor principal`
 
-### Configuração Local (por projeto)
+## Configuração Local (por projeto)
 
 `git config --local user.name "nome" # seta usuario projeto`
 
@@ -27,17 +27,17 @@
 
 `git init # cria repo na pasta (local)`
 
-### Conectando Repositório Local Ao Bare
+## Conectando Repositório Local Ao Bare
 
 `git remote add local /path repo server/ # Conecta reposerver p/ local client`
 
 `git remote add origin /path repo server/ # Conecta reposerver p/ origin`
 
-### Removendo Conexão Entre Repositório Local E Bare
+## Removendo Conexão Entre Repositório Local E Bare
 
 `it remote rm origin # exclui remote do local # ex: se path estiver errado.`
 
-### Listando Repositórios Bare Conectados no Repo Local
+## Listando Repositórios Bare Conectados no Repo Local
 
 ```bash
 git remote           # lista repos remote
@@ -45,17 +45,17 @@ git remote -v        # lista repos remote c/ path
 
 ```
 
-### Buscar Dados Do Repo Bare (master)
+## Buscar Dados Do Repo Bare (master)
 
 `git pull local master # busca dados do repo remoto master p/ repo no client chamdo local`
 
-### Envar Dados Para Repo Bare (master)
+## Envar Dados Para Repo Bare (master)
 
 Envia dados p/ remoto master. Se master não existir será criado. Usado p/ popular o remoto master no inicio do dev.
 
 `git push local master`
 
-### Clonar Repositório Bare Para Repo Local
+## Clonar Repositório Bare Para Repo Local
 
 Cria pasta do projeto e clona repo remoto master
 
