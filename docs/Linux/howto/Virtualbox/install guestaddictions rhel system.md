@@ -1,6 +1,11 @@
-1. Installing the latest virtual box 7.1.4
-2. sudo dnf groupinstall "Development Tools"
-3. sudo dnf install kernel-devel elfutils-libelf-devel
-4. Install VBox_GAs_7.1.4 VBoxLinuxAdditions.run
 
+# Install virtualbox guestadditions on RHEL dists
+
+```bash
+sudo dnf groupinstall "Development Tools"
+sudo dnf install kernel-devel elfutils-libelf-devel
+sudo ./VBoxLinuxAdditions.run
+```
+
+## Refs
 https://forums.virtualbox.org/viewtopic.php?t=112867
