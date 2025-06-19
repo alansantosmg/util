@@ -38,3 +38,4 @@ sudo -u postgres psql
 
 ## Refs:
 https://www.liquidweb.com/blog/install-postgresql-almalinux/
+
