@@ -1,6 +1,0 @@
-localhost
-win10
- localhost
-
-win10
-
